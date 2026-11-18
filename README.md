@@ -1,8 +1,28 @@
-# Ahom Kings · learn Assam's history one reign at a time
+# Ahom Kings: bilingual lessons on all 41 Ahom reigns (1228–1838)
+
+> Ahom Kings course: 41 short bilingual lessons, one per Ahom reign (1228–1838), with maps, timelines and spaced review for Assam exam aspirants.
+
+**[Live site](https://ahom-lessons.pages.dev)** · **[Mirror](https://axomrank.github.io/ahom-kings-lessons/)** · [Part of AxomRank](https://github.com/axomrank)
+
+## At a glance
+
+- **41 lessons**, one per reign, from Chaolung Sukaphaa to Purandar Singha, grouped into five eras with checkpoints
+- **14 exercise types:** map, timeline, who-am-I, picture, match, order, spot-the-error and more
+- **Spaced review** at 1, 3, 7, 15 and 30 days, plus a mistakes list and test-outs
+- **English and Assamese** for every text. Each lesson lists its sources
+- **Offline PWA.** Optional Firebase sign-in syncs progress
+- This standalone course also lives inside the main [AxomRank app](https://github.com/axomrank/axomrank.github.io) as the Ahom deep dive
+
+## Quick start
+
+```bash
+python3 scripts/build.py        # check content, write manifest, stamp sw.js
+python3 -m http.server 8000    # open http://localhost:8000
+```
+
+## Overview
 
 Short, game-like lessons on the Ahom kingdom (1228–1838) for students preparing for ADRE, Assam TET, APSC and Assam Police SI. One lesson per Swargadeo, split into short units, in English and Assamese. It works offline and can be installed from the browser.
-
-**Live:** https://ahom-lessons.pages.dev (also https://axomrank.github.io/ahom-kings-lessons/)
 
 ## Layout
 
@@ -90,3 +110,32 @@ Every story card is built the same way, by the engine, so a lesson author only w
 - `[[entity]]` = **a name you can tap** for its meaning. Shown with a dotted underline, never highlighted.
 - **Years** are styled automatically (bold terra), so do not mark a year only to make it stand out.
 - `<b>` = plain bold, for lists of names and the letters of a memory trick. On "Remember …" cards each `<b>` letter becomes a round terra badge.
+
+## Roadmap: future improvements
+
+- [ ] Decide between keeping this standalone course and redirecting it into the main app, to avoid duplicate content for search engines
+- [ ] Assamese editorial review of all 41 lessons
+- [ ] An audio narration option for each story card
+- [ ] Shareable "king cards" (image and link) for social media
+- [ ] Exam-question links: show the real ADRE and APSC questions that test each reign
+
+## For AI agents and contributors
+
+Read [AGENTS.md](AGENTS.md). Step ids are permanent, because saved progress and review refer to them.
+
+Commit as the `axomrank` account. Keep changes small and reviewable, and run the repository's checks before pushing.
+
+## Part of AxomRank
+
+[AxomRank](https://axomrank.pages.dev) offers free, bilingual preparation for Assam government exams. Related repositories:
+
+- **Learn:** [axomrank.github.io](https://github.com/axomrank/axomrank.github.io) (the AxomRank learning app), [floor-test-simulator](https://github.com/axomrank/floor-test-simulator) (parliamentary majority simulator)
+- **Explore Assam history:** [ahom-kingdom-history](https://github.com/axomrank/ahom-kingdom-history) (illustrated Ahom kingdom website), [assam-history-map](https://github.com/axomrank/assam-history-map) (year-by-year historical map), [assam-history-characters](https://github.com/axomrank/assam-history-characters) (character sheets for Assam's history), [assam-visual-archive](https://github.com/axomrank/assam-visual-archive) (gallery of Assam scenes and photographs), [assam-heritage-ai-art](https://github.com/axomrank/assam-heritage-ai-art) (AI art gallery of Assamese heritage)
+- **Open data:** [assam-exam-pyq](https://github.com/axomrank/assam-exam-pyq) (2,398 previous-year questions with answers), [assam-exam-syllabus](https://github.com/axomrank/assam-exam-syllabus) (syllabi for 12 recruitment boards), [assam-maps](https://github.com/axomrank/assam-maps) (map portal and GIS layers), [assam-history-sources](https://github.com/axomrank/assam-history-sources) (Kamarupa inscriptions and primary sources)
+- **Publishing and brand:** [axomrank-blog](https://github.com/axomrank/axomrank-blog) (exam guides built from real papers), [assam-history-books](https://github.com/axomrank/assam-history-books) (13-book history of Assam), [axomrank-brand-assets](https://github.com/axomrank/axomrank-brand-assets) (brand kit and social media library)
+
+## License and contact
+
+No license file yet, so all rights are reserved by default.
+
+Corrections and questions: open an issue in this repository. AxomRank is run by Angsuman Das (sole proprietor).
