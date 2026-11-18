@@ -2,7 +2,7 @@
 
 Short, game-like lessons on the Ahom kingdom (1228–1838) for students preparing for ADRE, Assam TET, APSC and Assam Police SI. One lesson per Swargadeo, split into short units, in English and Assamese. It works offline and can be installed from the browser.
 
-**Live:** https://ahom-lessons.pages.dev (also https://axomrank.github.io/ahom-lessons/)
+**Live:** https://ahom-lessons.pages.dev (also https://axomrank.github.io/ahom-kings-lessons/)
 
 ## Layout
 
