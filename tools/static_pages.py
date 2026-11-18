@@ -64,6 +64,9 @@ def build_pages(root, data):
         body += f'<p>{e(p.get("summary"))}</p><p>{e(p.get("notes"))}</p>'
         body += '<dl class="facts">'+''.join(f'<div><dt>{label}</dt><dd>{e(p[key])}</dd></div>' for key,label in [('tai','Tai name'),('hindu','Hindu name'),('aka','Also called'),('relation','Family'),('consort','Consort'),('fate','Fate')] if p.get(key))+'</dl>'
         body += f'<p>Record confidence: {e(p.get("confidence","unrated"))}.</p>'+sources(p.get('sources',[]))
+        own = [r for r in data.get('reigns', []) if r['id'] == p['id']]
+        if own:
+            body += '<p>' + ' · '.join(f'<a href="{BASE}lessons/lesson.html?id={e(r["id"] + ("-2" if r.get("again") else ""))}">Learn this reign{(" (second)" if r.get("again") else " (first)") if len(own) > 1 else ""} in the Ahom Kings lessons</a>' for r in own) + '</p>'
         body += f'<p>{link("#/person/"+p["id"], "Open interactive profile")}</p><h2>Related scenes</h2>'+cards(p.get('scenes',[]))
         page('people/'+p['id']+'/',p['name'],p.get('summary',p['name']),body,p.get('face'))
     page('scenes/', 'Illustrated Ahom history', 'Explore 226 illustrated moments from the Ahom chronicles with historical context and sources.', cards(list(scenes)), kind='CollectionPage')
@@ -99,6 +102,7 @@ def build_pages(root, data):
     for t in data['trails']:
         page('trails/'+t['id']+'/', t['title'], t['summary'], '<p>'+e(t['summary'])+'</p>'+cards(t['scenes']))
     urls.insert(0, BASE)
+    urls.insert(1, BASE + 'lessons/')
     (root/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'<url><loc>{e(url)}</loc></url>\n' for url in urls)+'</urlset>\n')
     (root/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+BASE+'sitemap.xml\n')
     print(f'{len(urls)} crawlable URLs in sitemap.xml')

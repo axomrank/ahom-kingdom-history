@@ -606,3 +606,11 @@ a.kh-who:hover .arch img { filter: brightness(1.08) saturate(1.05); }
 .life-item .scene-open img { height: auto; object-fit: contain; }
 .life-object .scene-open { background: var(--paper-2); }
 .ch-foot .more-life { flex-basis: 100%; text-align: right; }
+
+/* Links into the Ahom Kings lesson app (lessons/) */
+.reign:not(.reign-gap) { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; column-gap: .6rem; border-bottom: 1px solid rgba(122, 79, 22, .14); }
+.reign:not(.reign-gap) > a:first-child { border-bottom: 0; }
+.reign a.r-lesson { display: inline-block; padding: .2rem .7rem; border: 1px solid var(--gold-line, rgba(122, 79, 22, .35)); border-radius: 999px; font-size: .82rem; color: var(--maroon); text-decoration: none; white-space: nowrap; background: none; }
+.reign a.r-lesson:hover, .reign a.r-lesson:focus-visible { background: var(--gold-faint); }
+.person-lessons { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1rem; }
+.bar nav a.nav-lessons { font-weight: 600; }

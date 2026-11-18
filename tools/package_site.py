@@ -19,6 +19,12 @@ def main():
         shutil.copytree(ROOT/name, dest/name)
     (dest/'data').mkdir()
     shutil.copy2(ROOT/'data/site.js',dest/'data/site.js')
+    # Ahom Kings lesson app (merged from ahom-kings-lessons): website files only
+    (dest/'lessons').mkdir()
+    for name in ['index.html','lesson.html','sw.js','manifest.webmanifest']:
+        shutil.copy2(ROOT/'lessons'/name, dest/'lessons'/name)
+    for name in ['app','content','icons']:
+        shutil.copytree(ROOT/'lessons'/name, dest/'lessons'/name)
     for name in ['characters','faces','scenes','life']:
         shutil.copytree(ROOT/'media'/name,dest/'media'/name)
     data = json.loads((ROOT/'data/site.js').read_text().split('window.AHOM = ',1)[1].strip().rstrip(';'))

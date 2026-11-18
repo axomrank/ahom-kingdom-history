@@ -2,7 +2,7 @@
 
 > Ahom Kings course: 41 short bilingual lessons, one per Ahom reign (1228–1838), with maps, timelines and spaced review for Assam exam aspirants.
 
-**[Live site](https://ahom-lessons.pages.dev)** · **[Mirror](https://axomrank.github.io/ahom-kings-lessons/)** · [Part of AxomRank](https://github.com/axomrank)
+**[Live site](https://axomrank.github.io/ahom-kingdom-history/lessons/)** · **[Mirror](https://ahom-lessons.pages.dev)** · Part of the [Ahom Kingdom History](../README.md) site
 
 ## At a glance
 
@@ -11,11 +11,12 @@
 - **Spaced review** at 1, 3, 7, 15 and 30 days, plus a mistakes list and test-outs
 - **English and Assamese** for every text. Each lesson lists its sources
 - **Offline PWA.** Optional Firebase sign-in syncs progress
-- This standalone course also lives inside the main [AxomRank app](https://github.com/axomrank/axomrank.github.io) as the Ahom deep dive
+- Lives in the `lessons/` folder of [ahom-kingdom-history](https://github.com/axomrank/ahom-kingdom-history) (merged on 18 Nov 2026), and is linked from that site's menu, Kings page and king profiles. The same course is also in the main [AxomRank app](https://github.com/axomrank/axomrank.github.io) as the Ahom deep dive
 
 ## Quick start
 
 ```bash
+cd lessons                       # from the repository root
 python3 scripts/build.py        # check content, write manifest, stamp sw.js
 python3 -m http.server 8000    # open http://localhost:8000
 ```
@@ -113,7 +114,8 @@ Every story card is built the same way, by the engine, so a lesson author only w
 
 ## Roadmap: future improvements
 
-- [ ] Decide between keeping this standalone course and redirecting it into the main app, to avoid duplicate content for search engines
+- [ ] Decide whether to keep this course separate from the main app's Ahom deep dive, or point both to one copy (to avoid duplicate content for search engines)
+- [ ] Add a link from the lesson home back to the Ahom kingdom site
 - [ ] Assamese editorial review of all 41 lessons
 - [ ] An audio narration option for each story card
 - [ ] Shareable "king cards" (image and link) for social media
@@ -125,14 +127,6 @@ Read [AGENTS.md](AGENTS.md). Step ids are permanent, because saved progress and 
 
 Commit as the `axomrank` account. Keep changes small and reviewable, and run the repository's checks before pushing.
 
-## Part of AxomRank
-
-[AxomRank](https://axomrank.pages.dev) offers free, bilingual preparation for Assam government exams. Related repositories:
-
-- **Learn:** [axomrank.github.io](https://github.com/axomrank/axomrank.github.io) (the AxomRank learning app), [floor-test-simulator](https://github.com/axomrank/floor-test-simulator) (parliamentary majority simulator)
-- **Explore Assam history:** [ahom-kingdom-history](https://github.com/axomrank/ahom-kingdom-history) (illustrated Ahom kingdom website), [assam-history-map](https://github.com/axomrank/assam-history-map) (year-by-year historical map), [assam-history-characters](https://github.com/axomrank/assam-history-characters) (character sheets for Assam's history), [assam-visual-archive](https://github.com/axomrank/assam-visual-archive) (gallery of Assam scenes and photographs), [assam-heritage-ai-art](https://github.com/axomrank/assam-heritage-ai-art) (AI art gallery of Assamese heritage)
-- **Open data:** [assam-exam-pyq](https://github.com/axomrank/assam-exam-pyq) (2,398 previous-year questions with answers), [assam-exam-syllabus](https://github.com/axomrank/assam-exam-syllabus) (syllabi for 12 recruitment boards), [assam-maps](https://github.com/axomrank/assam-maps) (map portal and GIS layers), [assam-history-sources](https://github.com/axomrank/assam-history-sources) (Kamarupa inscriptions and primary sources)
-- **Publishing and brand:** [axomrank-blog](https://github.com/axomrank/axomrank-blog) (exam guides built from real papers), [assam-history-books](https://github.com/axomrank/assam-history-books) (13-book history of Assam), [axomrank-brand-assets](https://github.com/axomrank/axomrank-brand-assets) (brand kit and social media library)
 
 ## License and contact
 

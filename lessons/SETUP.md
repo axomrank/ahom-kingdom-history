@@ -3,7 +3,7 @@
 | Service | What it does | Where |
 |---|---|---|
 | Cloudflare Pages | Main hosting | https://ahom-lessons.pages.dev (project `ahom-lessons`) |
-| GitHub Pages | Second copy, built from `main` | https://axomrank.github.io/ahom-kings-lessons/ |
+| GitHub Pages | Second copy, built from `main` | https://axomrank.github.io/ahom-kingdom-history/lessons/ (deployed with the Ahom site by its GitHub Actions workflow) |
 | Firebase Auth | Google sign-in | Project `axomrank-ahom` |
 | Firestore | One progress document per learner, `users/{uid}` (Mumbai, asia-south1) | Project `axomrank-ahom` |
 

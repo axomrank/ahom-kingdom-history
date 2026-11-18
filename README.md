@@ -1,8 +1,8 @@
-# Ahom Kingdom History (1228–1838): saga, timeline, people, scenes and story map
+# Ahom Kingdom History (1228–1838): saga, timeline, people, scenes, story map and lessons
 
-> The Ahom kingdom of Assam (1228–1838) as an illustrated website: saga chapters, all 41 reigns on one timeline, people, painted scenes, short films and a story map.
+> The Ahom kingdom of Assam (1228–1838) as an illustrated website: saga chapters, all 41 reigns on one timeline, people, painted scenes, short films, a story map, and 41 bilingual lessons (one per reign) for exam aspirants.
 
-**[Live site](https://axomrank.github.io/ahom-kingdom-history/)** · [Part of AxomRank](https://github.com/axomrank)
+**[Live site](https://axomrank.github.io/ahom-kingdom-history/)** · **[Lessons](https://axomrank.github.io/ahom-kingdom-history/lessons/)** · [Part of AxomRank](https://github.com/axomrank)
 
 ## At a glance
 
@@ -11,6 +11,7 @@
 - **MAP tab:** a story-driven historical atlas with river geography, event search and reading paths
 - **Crawlable reference pages** (`chapters/`, `people/`, `scenes/`, `films/`, `trails/`) with metadata and sources
 - **One master CSV** (`data/ahom.csv`) feeds everything. `tools/build.py` regenerates the site data
+- **Ahom Kings lessons** in [`lessons/`](lessons/README.md): 41 short bilingual lessons with 14 exercise types and spaced review, linked from the menu, from every reign on the Kings page and from each king's profile. The same app is also deployed to [ahom-lessons.pages.dev](https://ahom-lessons.pages.dev)
 - Paintings, portraits and films are **modern reconstructions**, not likenesses from the period
 
 ## Quick start
@@ -18,8 +19,10 @@
 ```bash
 python3 -m pip install -r requirements.txt
 python3 tools/build.py && python3 tools/verify_site.py
-python3 -m http.server 8765   # open http://localhost:8765
+python3 -m http.server 8765   # open http://localhost:8765 (lessons at /lessons/)
 ```
+
+The lesson app has its own build and checks: see [lessons/README.md](lessons/README.md) (`cd lessons && python3 scripts/build.py`). `tools/package_site.py` copies its website files into the published site.
 
 ## Overview
 
@@ -111,12 +114,14 @@ The paintings, portraits and films are modern reconstructions, not likenesses fr
 - [ ] Verified speech captions for the films (the current subtitles describe scenes rather than transcribe speech)
 - [ ] Move large media to Cloudflare R2 or Git LFS, to keep clones small
 - [ ] Per-person and per-scene Open Graph images for social sharing
-- [ ] Link every person page to the matching Ahom Kings lesson and to the real exam questions about them
+- [ ] Link each king and lesson to the real ADRE and APSC questions about them
+- [ ] Use the site's portraits and scene paintings inside the lessons, so both share one image library
+- [ ] Pick one canonical host for the lessons (GitHub Pages or Cloudflare)
 - [ ] Assamese versions of the reference pages
 
 ## For AI agents and contributors
 
-Read [AGENTS.md](AGENTS.md) for the image-creation and architecture rules. Never hand-edit generated files (`data/ahom.json`, `data/site.js`, and the reference page folders). Edit `data/ahom.csv` or `data/eras.json`, then rebuild.
+For the lesson app, read [lessons/AGENTS.md](lessons/AGENTS.md) and run its commands from `lessons/`. For the site, read [AGENTS.md](AGENTS.md) for the image-creation and architecture rules. Never hand-edit generated files (`data/ahom.json`, `data/site.js`, and the reference page folders). Edit `data/ahom.csv` or `data/eras.json`, then rebuild.
 
 Commit as the `axomrank` account. Keep changes small and reviewable, and run the repository's checks before pushing.
 
@@ -124,7 +129,7 @@ Commit as the `axomrank` account. Keep changes small and reviewable, and run the
 
 [AxomRank](https://axomrank.pages.dev) offers free, bilingual preparation for Assam government exams. Related repositories:
 
-- **Learn:** [axomrank.github.io](https://github.com/axomrank/axomrank.github.io) (the AxomRank learning app), [ahom-kings-lessons](https://github.com/axomrank/ahom-kings-lessons) (41 bilingual Ahom reign lessons), [floor-test-simulator](https://github.com/axomrank/floor-test-simulator) (parliamentary majority simulator)
+- **Learn:** [axomrank.github.io](https://github.com/axomrank/axomrank.github.io) (the AxomRank learning app), [floor-test-simulator](https://github.com/axomrank/floor-test-simulator) (parliamentary majority simulator)
 - **Explore Assam history:** [assam-history-map](https://github.com/axomrank/assam-history-map) (year-by-year historical map), [assam-history-characters](https://github.com/axomrank/assam-history-characters) (character sheets for Assam's history), [assam-visual-archive](https://github.com/axomrank/assam-visual-archive) (gallery of Assam scenes and photographs), [assam-heritage-ai-art](https://github.com/axomrank/assam-heritage-ai-art) (AI art gallery of Assamese heritage)
 - **Open data:** [assam-exam-pyq](https://github.com/axomrank/assam-exam-pyq) (2,398 previous-year questions with answers), [assam-exam-syllabus](https://github.com/axomrank/assam-exam-syllabus) (syllabi for 12 recruitment boards), [assam-maps](https://github.com/axomrank/assam-maps) (map portal and GIS layers), [assam-history-sources](https://github.com/axomrank/assam-history-sources) (Kamarupa inscriptions and primary sources)
 - **Publishing and brand:** [axomrank-blog](https://github.com/axomrank/axomrank-blog) (exam guides built from real papers), [assam-history-books](https://github.com/axomrank/assam-history-books) (13-book history of Assam), [axomrank-brand-assets](https://github.com/axomrank/axomrank-brand-assets) (brand kit and social media library)

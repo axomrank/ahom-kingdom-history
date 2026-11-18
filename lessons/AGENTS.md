@@ -1,6 +1,6 @@
-# Working on ahom-kings-lessons
+# Working on the Ahom Kings lessons (lessons/)
 
-Standalone Ahom Kings course (static PWA, no framework). Part of AxomRank: see README.md for the overview and roadmap.
+Ahom Kings lesson app (static PWA, no framework), inside the ahom-kingdom-history repo. Run every command from this `lessons/` folder. See README.md for the overview and roadmap.
 
 ## Layout
 

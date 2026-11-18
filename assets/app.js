@@ -314,6 +314,9 @@
     1822: "Burmese occupation, then the East India Company",
   };
 
+  // Lesson app (lessons/) has one lesson per reign; a second reign uses the "-2" id.
+  const lessonHref = r => `lessons/lesson.html?id=${encodeURIComponent(r.again ? r.id + "-2" : r.id)}`;
+
   function kings() {
     setTitle("The forty-one reigns");
     const pct = y => ((y - FIRST) / (LAST - FIRST) * 100).toFixed(3);
@@ -339,7 +342,7 @@
         <span class="r-name">${esc(p.name)}${p.as ? `<span lang="as">${esc(p.as)}</span>` : ""}${r.again ? `<span class="r-again">Second reign</span>` : ""}</span>
         <span class="r-years">${r.start === r.end ? r.start : `${r.start}–${r.end}`}<span class="r-len">${len ? `${len} year${len > 1 ? "s" : ""}` : "under a year"}</span></span>
         <span class="r-bar" aria-hidden="true"><i style="left:${pct(r.start)}%;width:max(3px, ${pct(FIRST + len)}%)"></i></span>
-      </a></li>`);
+      </a><a class="r-lesson" href="${lessonHref(r)}" aria-label="Lesson on ${esc(p.name)}${r.again ? " (second reign)" : ""}">Lesson</a></li>`);
     });
     const ticks = [1300, 1400, 1500, 1600, 1700, 1800].map(y => `<span style="left:${pct(y)}%">${y}</span>`).join("");
     view.innerHTML = `
@@ -347,6 +350,7 @@
       ${bgWord("স্বৰ্গদেউ", "page-word")}
       <h1>The forty-one reigns</h1>
       <p class="lede">Thirty-nine kings, the Swargadeos, ruled the Ahom kingdom in forty-one reigns: Chandrakanta Singha and Purandar Singha each took the throne twice. Every bar sits on one line from 1228 to 1838. The red bars are the years with no king.</p>
+      <p><a class="btn" href="lessons/">Learn every reign in short lessons</a></p>
     </section>
     <div class="reigns-wrap" style="--bands: linear-gradient(90deg, ${bands})">
       <div class="axis" aria-hidden="true"><span class="axis-label">Reign</span><span class="axis-scale">${ticks}</span></div>
@@ -465,6 +469,7 @@
           ${p.summary ? `<p class="person-summary">${esc(p.summary)}</p>` : ""}
           ${p.notes ? `<p>${esc(p.notes)}</p>` : ""}
           ${sure ? `<p class="sure sure-${p.confidence}">${sure}</p>` : ""}
+          ${reigns.length ? `<p class="person-lessons">${reigns.map(r => `<a class="btn" href="${lessonHref(r)}">Learn this reign${reigns.length > 1 ? (r.again ? " (second)" : " (first)") : ""}</a>`).join(" ")}</p>` : ""}
           ${p.sources ? `<details class="sources"><summary>Sources (${p.sources.length})</summary><ul>${p.sources.map(u => /^https?:/.test(u) ? `<li><a href="${esc(u)}" rel="noopener" target="_blank">${esc(sourceLabel(u))}</a></li>` : `<li>${esc(u)}</li>`).join("")}</ul></details>` : ""}
         </div>
       </div>
