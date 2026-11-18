@@ -1,0 +1,1000 @@
+{
+ "id": "suphakphaa",
+ "no": 10,
+ "version": 3,
+ "king": {
+  "en": "Swargadeo Suphakphaa",
+  "as": "স্বৰ্গদেউ চুফাকফা"
+ },
+ "reign": {
+  "en": "Reign 1422–1439",
+  "as": "ৰাজত্বকাল ১৪২২–১৪৩৯"
+ },
+ "portrait": "suphakphaa-portrait.webp",
+ "sources": [
+  {
+   "title": "E. A. Gait, A History of Assam (1906), ch. IV, pp. 77–83",
+   "url": "https://archive.org/details/historyofassam00gait",
+   "used_for": "p. 82: a son of Sujangphaa, reigned seventeen years, died 1439, uneventful; Susenphaa his son by a Tipam princess"
+  }
+ ],
+ "review_notes": "A short lesson: the reign was uneventful according to the chronicles. Rebuilt 2026-10-23 (version 2): published steps kept with their ids; new units add context and exam practice, nothing beyond Gait (1906) and the cited articles. Exercise mix upgraded 2026-10-23: plain MCQ and fill-the-year questions replaced with game-like types.",
+ "buildsOn": {
+  "no": 9,
+  "title": {
+   "en": "Sujangphaa",
+   "as": "চুজাংফা"
+  },
+  "id": "sujangphaa"
+ },
+ "guide": {
+  "timeline": [
+   {
+    "y": "1422",
+    "t": {
+     "en": "Becomes the tenth Ahom king",
+     "as": "দশম আহোম ৰজা হয়"
+    }
+   },
+   {
+    "y": "1439",
+    "t": {
+     "en": "Dies; Susenphaa succeeds",
+     "as": "মৃত্যু; চুচেনফা ৰজা"
+    }
+   }
+  ]
+ },
+ "map": {
+  "box": [
+   94.2,
+   26.45,
+   95.6,
+   27.4
+  ],
+  "show": [
+   "brahmaputra",
+   "dikhou",
+   "disang",
+   "dihing",
+   "charaideo",
+   "sivasagar",
+   "tipam"
+  ],
+  "routes": [],
+  "texts": [],
+  "labels": {
+   "sivasagar": {
+    "t": {
+     "en": "Sivasagar (today)",
+     "as": "শিৱসাগৰ (আজি)"
+    },
+    "pos": "w"
+   },
+   "charaideo": {
+    "pos": "ne"
+   },
+   "dikhou": {
+    "at": [
+     26.8,
+     94.79
+    ],
+    "pos": "e"
+   },
+   "disang": {
+    "at": [
+     27.1,
+     95.2
+    ],
+    "pos": "s"
+   },
+   "dihing": {
+    "at": [
+     27.25,
+     95.0
+    ],
+    "pos": "s"
+   },
+   "brahmaputra": {
+    "at": [
+     27.12,
+     94.42
+    ],
+    "pos": "n"
+   },
+   "tipam": {
+    "pos": "w"
+   }
+  }
+ },
+ "units": [
+  {
+   "id": "u1",
+   "icon": "star",
+   "title": {
+    "en": "Another quiet reign",
+    "as": "আন এক শান্ত ৰাজত্ব"
+   },
+   "learned": [
+    {
+     "en": "Suphakphaa, a son of Sujangphaa, ruled 1422–1439",
+     "as": "চুজাংফাৰ পুত্ৰ চুফাকফাই ১৪২২–১৪৩৯ লৈকে ৰাজত্ব কৰে"
+    },
+    {
+     "en": "He reigned 17 years",
+     "as": "তেওঁ ১৭ বছৰ ৰাজত্ব কৰিছিল"
+    },
+    {
+     "en": "His reign was uneventful",
+     "as": "তেওঁৰ ৰাজত্বকাল ঘটনাবিহীন আছিল"
+    },
+    {
+     "en": "His son Susenphaa was born to a Tipam princess",
+     "as": "তেওঁৰ পুত্ৰ চুচেনফা তিপাম কুমাৰীৰ সন্তান"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "id": "spk.hook",
+     "title": {
+      "en": "One fact to remember",
+      "as": "মনত ৰাখিবলগীয়া এটা তথ্য"
+     },
+     "img": "suphakphaa-court.webp",
+     "text": [
+      {
+       "en": "This king ruled 17 quiet years. Exams remember him for one thing, and it is not about him at all.",
+       "as": "এই ৰজাই ১৭ বছৰ শান্তিৰে ৰাজত্ব কৰিলে। পৰীক্ষাই তেওঁক এটা কথাৰ বাবে মনত ৰাখে, আৰু সেয়া তেওঁৰ বিষয়েই নহয়।"
+      },
+      {
+       "en": "It is about the mother of his son. Who was she?",
+       "as": "সেয়া তেওঁৰ পুত্ৰৰ মাতৃৰ বিষয়ে। তেওঁ কোন আছিল?"
+      }
+     ]
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The tenth king",
+      "as": "দশম ৰজা"
+     },
+     "text": [
+      {
+       "en": "One of Sujangphaa's sons, [[suphakphaa]], became king in <mark>1422</mark>.",
+       "as": "চুজাংফাৰ এজন পুত্ৰ [[suphakphaa]] <mark>১৪২২</mark> চনত ৰজা হয়।"
+      },
+      {
+       "en": "He reigned for <mark>17 years</mark> and died in 1439.",
+       "as": "তেওঁ <mark>১৭ বছৰ</mark> ৰাজত্ব কৰি ১৪৩৯ চনত মৃত্যুবৰণ কৰে।"
+      }
+     ],
+     "id": "spk.u1.01",
+     "img": "suphakphaa-court.webp",
+     "link": {
+      "lesson": 9,
+      "lessonId": "sujangphaa",
+      "unitNo": 1,
+      "unitTitle": {
+       "en": "A quiet reign",
+       "as": "শান্ত ৰাজত্ব"
+      },
+      "note": {
+       "en": "His father Sujangphaa's reign was quiet too.",
+       "as": "তেওঁৰ পিতৃ চুজাংফাৰ ৰাজত্বকালো শান্ত আছিল।"
+      }
+     }
+    },
+    {
+     "type": "mcq",
+     "guess": true,
+     "id": "spk.g1",
+     "q": {
+      "en": "Where do you think the mother of Suphakphaa's heir came from?",
+      "as": "তোমাৰ অনুমানত চুফাকফাৰ উত্তৰাধিকাৰীৰ মাতৃ ক'ৰ আছিল?"
+     },
+     "options": [
+      {
+       "en": "Tipam",
+       "as": "তিপাম"
+      },
+      {
+       "en": "Kamata",
+       "as": "কমতা"
+      },
+      {
+       "en": "Mong Mao",
+       "as": "মং মাও"
+      },
+      {
+       "en": "Manipur",
+       "as": "মণিপুৰ"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "A Tipam princess: marrying Tipam's daughters kept its proud chiefs loyal.",
+      "as": "তিপামৰ এগৰাকী ৰাজকুমাৰী: তিপামৰ জীয়ৰী বিয়া কৰালে তাৰ গৰ্বী মুখীয়াল বিশ্বাসী হৈ থাকে।"
+     }
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "Remember the mother",
+      "as": "মাতৃক মনত ৰাখা"
+     },
+     "text": [
+      {
+       "en": "His reign, too, was <mark>uneventful</mark>.",
+       "as": "তেওঁৰ ৰাজত্বকালো <mark>ঘটনাবিহীন</mark> আছিল।"
+      },
+      {
+       "en": "One fact to remember: his son and heir, [[susenphaa]], was born to a <mark>Tipam princess</mark>.",
+       "as": "মনত ৰখাৰ মতে এটা কথা: তেওঁৰ পুত্ৰ আৰু উত্তৰাধিকাৰী [[susenphaa]]ৰ মাতৃ আছিল <mark>টিপামৰ কুঁৱৰী</mark>।"
+      }
+     ],
+     "id": "spk.u1.02",
+     "art": "scroll",
+     "link": {
+      "lesson": 8,
+      "lessonId": "sudangphaa",
+      "unitNo": 3,
+      "unitTitle": {
+       "en": "The feast trap",
+       "as": "ভোজৰ ফান্দ"
+      },
+      "note": {
+       "en": "Sudangphaa had also married a Tipam chief's daughter, to win over the Tipam people.",
+       "as": "চুদাংফায়ো টিপামীয়াক আপোন কৰিবলৈ টিপাম মুখিয়ালৰ কন্যা বিয়া কৰাইছিল।"
+      }
+     }
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1407",
+       "l": {
+        "en": "Sujangphaa becomes king",
+        "as": "চুজাংফা ৰজা হয়"
+       }
+      },
+      {
+       "y": "1439",
+       "l": {
+        "en": "Suphakphaa dies",
+        "as": "চুফাকফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Patkai treaty",
+        "as": "পাটকাই সন্ধি"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "Suphakphaa becomes king",
+        "as": "চুফাকফা ৰজা হয়"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Susenphaa becomes king",
+        "as": "চুচেনফা ৰজা হয়"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "1401 → 1407 → 1422 → 1439 → 1439.",
+      "as": "১৪০১ → ১৪০৭ → ১৪২২ → ১৪৩৯ → ১৪৩৯।"
+     },
+     "id": "spk3.u1.01"
+    },
+    {
+     "type": "map",
+     "q": {
+      "en": "Tap the home of Susenphaa's mother.",
+      "as": "চুচেনফাৰ মাতৃৰ ঘৰ টিপা।"
+     },
+     "target": "tipam",
+     "choices": [
+      "tipam",
+      "charaideo",
+      "sivasagar"
+     ],
+     "answerText": {
+      "en": "Tipam",
+      "as": "তিপাম"
+     },
+     "why": {
+      "en": "A Tipam princess.",
+      "as": "তিপাম কুমাৰী।"
+     },
+     "id": "spk3.u1.02"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Suphakphaa's reign was full of wars.",
+      "as": "চুফাকফাৰ ৰাজত্বকাল যুদ্ধৰে ভৰা আছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. It was uneventful.",
+      "as": "অশুদ্ধ। ই ঘটনাবিহীন আছিল।"
+     },
+     "id": "spk.u1.05"
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1422",
+       "l": {
+        "en": "Suphakphaa becomes king",
+        "as": "চুফাকফা ৰজা হয়"
+       }
+      },
+      {
+       "y": "1439",
+       "l": {
+        "en": "Suphakphaa dies",
+        "as": "চুফাকফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Sujangphaa's reign",
+        "as": "চুজাংফাৰ ৰাজত্ব"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "17 quiet years",
+        "as": "১৭টা শান্ত বছৰ"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Susenphaa becomes king",
+        "as": "চুচেনফা ৰজা হয়"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "Sujangphaa (1407–1422) → Suphakphaa (1422–1439) → Susenphaa from 1439.",
+      "as": "চুজাংফা (১৪০৭–১৪২২) → চুফাকফা (১৪২২–১৪৩৯) → ১৪৩৯ৰ পৰা চুচেনফা।"
+     },
+     "id": "spk.u1.06"
+    },
+    {
+     "type": "order",
+     "q": {
+      "en": "Put the kings in order.",
+      "as": "ৰজাসকলক ক্ৰম অনুসৰি সজোৱা।"
+     },
+     "items": [
+      {
+       "en": "Sudangphaa",
+       "as": "চুদাংফা"
+      },
+      {
+       "en": "Sujangphaa",
+       "as": "চুজাংফা"
+      },
+      {
+       "en": "Suphakphaa",
+       "as": "চুফাকফা"
+      },
+      {
+       "en": "Susenphaa",
+       "as": "চুচেনফা"
+      }
+     ],
+     "why": {
+      "en": "Four generations, father to son, from 1397 to 1488.",
+      "as": "১৩৯৭ৰ পৰা ১৪৮৮ লৈকে পিতৃৰ পৰা পুত্ৰলৈ চাৰি পুৰুষ।"
+     },
+     "id": "spk.u1.07"
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "I was the tenth Ahom king.",
+       "as": "মই দশম আহোম ৰজা।"
+      },
+      {
+       "en": "My reign was quiet.",
+       "as": "মোৰ ৰাজত্ব শান্ত আছিল।"
+      },
+      {
+       "en": "My heir's mother came from Tipam.",
+       "as": "মোৰ উত্তৰাধিকাৰীৰ মাতৃ তিপামৰ।"
+      }
+     ],
+     "options": [
+      {
+       "en": "Suphakphaa",
+       "as": "চুফাকফা"
+      },
+      {
+       "en": "Sujangphaa",
+       "as": "চুজাংফা"
+      },
+      {
+       "en": "Susenphaa",
+       "as": "চুচেনফা"
+      },
+      {
+       "en": "Supimphaa",
+       "as": "চুপিম্ফা"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "Suphakphaa (1422–1439).",
+      "as": "চুফাকফা (১৪২২–১৪৩৯)।"
+     },
+     "id": "spk2.u1.08"
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "icon": "hands",
+   "title": {
+    "en": "Tipam and the names",
+    "as": "তিপাম আৰু নাম"
+   },
+   "learned": [
+    {
+     "en": "Tipam lay in the far east, near the Dihing",
+     "as": "তিপাম পূবত, ডিহিঙৰ ওচৰত"
+    },
+    {
+     "en": "Tipam chiefs had plotted against Sudangphaa",
+     "as": "তিপামৰ ৰজাসকলে চুদাংফাৰ বিৰুদ্ধে ষড়যন্ত্ৰ কৰিছিল"
+    },
+    {
+     "en": "Marriages with Tipam princesses kept Tipam loyal",
+     "as": "তিপাম কুমাৰীৰ সৈতে বিবাহে তিপামক অনুগত ৰাখিছিল"
+    },
+    {
+     "en": "Look-alike names are a common exam trap",
+     "as": "একে ধৰণৰ নাম পৰীক্ষাৰ এক সাধাৰণ ফান্দ"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "map": {
+      "labels": true,
+      "route": false
+     },
+     "title": {
+      "en": "Where was Tipam?",
+      "as": "তিপাম ক'ত আছিল?"
+     },
+     "text": [
+      {
+       "en": "[[tipam]] lay in the far east of the kingdom, near the [[dihing]]. It was one of the first places Sukaphaa settled.",
+       "as": "[[tipam]] ৰাজ্যৰ পূবত, [[dihing]]ৰ ওচৰত আছিল। চুকাফাই প্ৰথমে বসতি পতা ঠাইবোৰৰ ই এটা।"
+      },
+      {
+       "en": "Its chiefs were proud and often restless. Marrying their daughters was a way to keep them loyal.",
+       "as": "তাৰ ৰজাসকল অহংকাৰী আৰু প্ৰায়ে অশান্ত আছিল। তেওঁলোকৰ জীয়েকক বিয়া কৰোৱাটো তেওঁলোকক অনুগত ৰখাৰ উপায় আছিল।"
+      }
+     ],
+     "id": "spk2.u2.01",
+     "link": {
+      "lesson": 1,
+      "lessonId": "sukaphaa",
+      "unitNo": 2,
+      "unitTitle": {
+       "en": "Finding a home",
+       "as": "ঘৰৰ সন্ধান"
+      },
+      "note": {
+       "en": "Tipam was Sukaphaa's first settlement in the valley.",
+       "as": "তিপাম উপত্যকাত চুকাফাৰ প্ৰথম বসতি।"
+      }
+     }
+    },
+    {
+     "type": "map",
+     "q": {
+      "en": "Tap Tipam.",
+      "as": "তিপাম টিপা।"
+     },
+     "target": "tipam",
+     "choices": [
+      "tipam",
+      "charaideo",
+      "sivasagar"
+     ],
+     "answerText": {
+      "en": "Tipam",
+      "as": "তিপাম"
+     },
+     "why": {
+      "en": "Tipam, in the far east near the Dihing.",
+      "as": "পূবত ডিহিঙৰ ওচৰৰ তিপাম।"
+     },
+     "id": "spk2.u2.02"
+    },
+    {
+     "type": "story",
+     "art": "scroll",
+     "title": {
+      "en": "Names that look alike",
+      "as": "একে ধৰণৰ নাম"
+     },
+     "text": [
+      {
+       "en": "Many Ahom kings' names differ by a letter or two. <b>Susenphaa</b> (1439) is not <b>Susengphaa</b> (Pratap Singha, 1603).",
+       "as": "বহু আহোম ৰজাৰ নামত এটা-দুটা আখৰৰহে পাৰ্থক্য। <b>চুচেনফা</b> (১৪৩৯) আৰু <b>চুচেংফা</b> (প্ৰতাপ সিংহ, ১৬০৩) বেলেগ।"
+      },
+      {
+       "en": "<b>Suteuphaa</b> (1268) is not <b>Sutuphaa</b> (1369), and <b>Sudangphaa</b> is not <b>Sujangphaa</b>. Exams love these pairs.",
+       "as": "<b>চুতেউফা</b> (১২৬৮) আৰু <b>চুতুফা</b> (১৩৬৯) বেলেগ, <b>চুদাংফা</b> আৰু <b>চুজাংফা</b>ও বেলেগ। পৰীক্ষাত এই যোৰাবোৰ প্ৰায়ে আহে।"
+      }
+     ],
+     "id": "spk2.u2.03"
+    },
+    {
+     "type": "match",
+     "q": {
+      "en": "Match each name to the year he became king.",
+      "as": "প্ৰতিটো নাম ৰজা হোৱা চনৰ সৈতে মিলোৱা।"
+     },
+     "pairs": [
+      [
+       {
+        "en": "Suteuphaa",
+        "as": "চুতেউফা"
+       },
+       {
+        "en": "1268",
+        "as": "১২৬৮"
+       }
+      ],
+      [
+       {
+        "en": "Sutuphaa",
+        "as": "চুতুফা"
+       },
+       {
+        "en": "1369",
+        "as": "১৩৬৯"
+       }
+      ],
+      [
+       {
+        "en": "Susenphaa",
+        "as": "চুচেনফা"
+       },
+       {
+        "en": "1439",
+        "as": "১৪৩৯"
+       }
+      ],
+      [
+       {
+        "en": "Susengphaa",
+        "as": "চুচেংফা"
+       },
+       {
+        "en": "1603 (Pratap Singha)",
+        "as": "১৬০৩ (প্ৰতাপ সিংহ)"
+       }
+      ]
+     ],
+     "why": {
+      "en": "Two look-alike pairs, centuries apart.",
+      "as": "শতিকাৰ ব্যৱধানৰ দুটা একে ধৰণৰ যোৰা।"
+     },
+     "id": "spk2.u2.04"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Susenphaa and Pratap Singha (Susengphaa) were the same king.",
+      "as": "চুচেনফা আৰু প্ৰতাপ সিংহ (চুচেংফা) একেজন ৰজা।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. Susenphaa ruled 1439–1488; Susengphaa (Pratap Singha) 1603–1641.",
+      "as": "অশুদ্ধ। চুচেনফা ১৪৩৯–১৪৮৮; চুচেংফা (প্ৰতাপ সিংহ) ১৬০৩–১৬৪১।"
+     },
+     "id": "spk2.u2.05"
+    },
+    {
+     "type": "odd",
+     "q": {
+      "en": "Which name does NOT belong to the founding era (1228–1497)?",
+      "as": "কোনটো নাম প্ৰতিষ্ঠাকালৰ (১২২৮–১৪৯৭) নহয়?"
+     },
+     "options": [
+      {
+       "en": "Suphakphaa",
+       "as": "চুফাকফা"
+      },
+      {
+       "en": "Sujangphaa",
+       "as": "চুজাংফা"
+      },
+      {
+       "en": "Susenphaa",
+       "as": "চুচেনফা"
+      },
+      {
+       "en": "Susengphaa",
+       "as": "চুচেংফা"
+      }
+     ],
+     "answer": 3,
+     "why": {
+      "en": "Susengphaa is Pratap Singha, king from 1603.",
+      "as": "চুচেংফা হৈছে ১৬০৩ চনৰ পৰা ৰজা প্ৰতাপ সিংহ।"
+     },
+     "id": "spk2.u2.06"
+    },
+    {
+     "type": "unscramble",
+     "q": {
+      "en": "Unscramble the tenth king's name.",
+      "as": "দশম ৰজাৰ নামটো সজাই লিখা।"
+     },
+     "word": {
+      "en": [
+       "S",
+       "U",
+       "P",
+       "H",
+       "A",
+       "K",
+       "P",
+       "H",
+       "A",
+       "A"
+      ],
+      "as": [
+       "চু",
+       "ফাক",
+       "ফা"
+      ]
+     },
+     "answerText": {
+      "en": "SUPHAKPHAA",
+      "as": "চুফাকফা"
+     },
+     "why": {
+      "en": "Suphakphaa.",
+      "as": "চুফাকফা।"
+     },
+     "id": "spk3.u2.01"
+    },
+    {
+     "type": "story",
+     "id": "spk.next",
+     "title": {
+      "en": "A son for 49 years",
+      "as": "৪৯ বছৰৰ পুত্ৰ"
+     },
+     "art": "scroll",
+     "text": [
+      {
+       "en": "Mystery solved: his son Susenphaa was born to a <mark>Tipam princess</mark>.",
+       "as": "ৰহস্যৰ সমাধান: তেওঁৰ পুত্ৰ চুচেনফাৰ মাতৃ <mark>তিপামৰ ৰাজকুমাৰী</mark>।"
+      },
+      {
+       "en": "That son would rule for 49 years, one of the longest reigns of all...",
+       "as": "সেই পুত্ৰই ৪৯ বছৰ ৰাজত্ব কৰিব, আটাইতকৈ দীঘলীয়া ৰাজত্বৰ এটা..."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "test": {
+  "id": "test",
+  "title": {
+   "en": "Lesson test",
+   "as": "পাঠৰ পৰীক্ষা"
+  },
+  "learned": [
+   {
+    "en": "You have completed the reign of Swargadeo Suphakphaa",
+    "as": "তুমি স্বৰ্গদেউ চুফাকফাৰ ৰাজত্বকাল সম্পূৰ্ণ কৰিলা"
+   }
+  ],
+  "steps": [
+   {
+    "type": "mcq",
+    "q": {
+     "en": "Consider the statements:<br>1. Suphakphaa was a son of Sujangphaa.<br>2. Suphakphaa's son Susenphaa was born to a Kamata princess.<br>Which is/are correct?",
+     "as": "উক্তিবোৰ বিবেচনা কৰা:<br>১. চুফাকফা চুজাংফাৰ পুত্ৰ আছিল।<br>২. চুফাকফাৰ পুত্ৰ চুচেনফাৰ মাতৃ আছিল কামতাৰ কুঁৱৰী।<br>কোনটো/কোনবোৰ শুদ্ধ?"
+    },
+    "options": [
+     {
+      "en": "1 only",
+      "as": "কেৱল ১"
+     },
+     {
+      "en": "2 only",
+      "as": "কেৱল ২"
+     },
+     {
+      "en": "Both 1 and 2",
+      "as": "১ আৰু ২ দুয়োটা"
+     },
+     {
+      "en": "Neither 1 nor 2",
+      "as": "১ বা ২ কোনোটো নহয়"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Only 1. Susenphaa's mother was a Tipam princess.",
+     "as": "কেৱল ১। চুচেনফাৰ মাতৃ আছিল টিপামৰ কুঁৱৰী।"
+    },
+    "id": "spk.test.01",
+    "small": true
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "My father was Sujangphaa.",
+      "as": "মোৰ পিতৃ আছিল চুজাংফা।"
+     },
+     {
+      "en": "I reigned for 17 years.",
+      "as": "মই ১৭ বছৰ ৰাজত্ব কৰিছিলোঁ।"
+     },
+     {
+      "en": "My son's mother was a Tipam princess.",
+      "as": "মোৰ পুত্ৰৰ মাতৃ আছিল টিপামৰ কুঁৱৰী।"
+     }
+    ],
+    "options": [
+     {
+      "en": "Suphakphaa",
+      "as": "চুফাকফা"
+     },
+     {
+      "en": "Sujangphaa",
+      "as": "চুজাংফা"
+     },
+     {
+      "en": "Susenphaa",
+      "as": "চুচেনফা"
+     },
+     {
+      "en": "Suhenphaa",
+      "as": "চুহেনফা"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Suphakphaa (1422–1439).",
+     "as": "চুফাকফা (১৪২২–১৪৩৯)।"
+    },
+    "id": "spk.test.02"
+   },
+   {
+    "type": "picture",
+    "q": {
+     "en": "Which picture shows Suphakphaa's court?",
+     "as": "কোনখন ছবিত চুফাকফাৰ ৰাজসভা দেখুওৱা হৈছে?"
+    },
+    "options": [
+     "suphakphaa-court.webp",
+     "suphakphaa-portrait.webp",
+     "shared/wet-rice.webp",
+     "shared/moidams.webp"
+    ],
+    "answer": 0,
+    "answerText": {
+     "en": "The court",
+     "as": "ৰাজসভা"
+    },
+    "why": {
+     "en": "An uneventful reign, 1422–1439.",
+     "as": "ঘটনাবিহীন ৰাজত্ব, ১৪২২–১৪৩৯।"
+    },
+    "id": "spk3.test.01"
+   },
+   {
+    "type": "match",
+    "q": {
+     "en": "Tap the matching pairs.",
+     "as": "যোৰাবোৰ মিলোৱা।"
+    },
+    "pairs": [
+     [
+      {
+       "en": "8th king",
+       "as": "৮ম ৰজা"
+      },
+      {
+       "en": "Sudangphaa",
+       "as": "চুদাংফা"
+      }
+     ],
+     [
+      {
+       "en": "9th king",
+       "as": "৯ম ৰজা"
+      },
+      {
+       "en": "Sujangphaa",
+       "as": "চুজাংফা"
+      }
+     ],
+     [
+      {
+       "en": "10th king",
+       "as": "১০ম ৰজা"
+      },
+      {
+       "en": "Suphakphaa",
+       "as": "চুফাকফা"
+      }
+     ],
+     [
+      {
+       "en": "11th king",
+       "as": "১১শ ৰজা"
+      },
+      {
+       "en": "Susenphaa",
+       "as": "চুচেনফা"
+      }
+     ]
+    ],
+    "why": {
+     "en": "Sudangphaa → Sujangphaa → Suphakphaa → Susenphaa.",
+     "as": "চুদাংফা → চুজাংফা → চুফাকফা → চুচেনফা।"
+    },
+    "id": "spk.test.04"
+   },
+   {
+    "type": "map",
+    "q": {
+     "en": "Tap Tipam, home of Susenphaa's mother.",
+     "as": "চুচেনফাৰ মাতৃৰ ঘৰ তিপাম টিপা।"
+    },
+    "target": "tipam",
+    "choices": [
+     "tipam",
+     "charaideo",
+     "sivasagar"
+    ],
+    "answerText": {
+     "en": "Tipam",
+     "as": "তিপাম"
+    },
+    "why": {
+     "en": "Tipam.",
+     "as": "তিপাম।"
+    },
+    "id": "spk2.test.05"
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "I ruled 17 years.",
+      "as": "মই ১৭ বছৰ ৰাজত্ব কৰিছিলোঁ।"
+     },
+     {
+      "en": "My reign was quiet.",
+      "as": "মোৰ ৰাজত্ব শান্ত আছিল।"
+     },
+     {
+      "en": "My son ruled 49 years.",
+      "as": "মোৰ পুত্ৰই ৪৯ বছৰ ৰাজত্ব কৰিছিল।"
+     }
+    ],
+    "options": [
+     {
+      "en": "Suphakphaa",
+      "as": "চুফাকফা"
+     },
+     {
+      "en": "Sujangphaa",
+      "as": "চুজাংফা"
+     },
+     {
+      "en": "Susenphaa",
+      "as": "চুচেনফা"
+     },
+     {
+      "en": "Suhenphaa",
+      "as": "চুহেনফা"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Suphakphaa; his son Susenphaa ruled 49 years.",
+     "as": "চুফাকফা; পুত্ৰ চুচেনফাই ৪৯ বছৰ ৰাজত্ব কৰিছিল।"
+    },
+    "id": "spk3.test.02"
+   },
+   {
+    "type": "spot",
+    "q": {
+     "en": "One word in this sentence is wrong. Tap it.",
+     "as": "এই বাক্যটোৰ এটা শব্দ ভুল। সেইটো টিপা।"
+    },
+    "tokens": {
+     "en": [
+      "Suphakphaa",
+      "was",
+      "the",
+      "father",
+      "of",
+      "Sujangphaa."
+     ],
+     "as": [
+      "চুফাকফা",
+      "চুজাংফাৰ",
+      "পিতৃ",
+      "আছিল।"
+     ]
+    },
+    "wrong": {
+     "en": 3,
+     "as": 2
+    },
+    "fix": {
+     "en": "→ son",
+     "as": "→ পুত্ৰ"
+    },
+    "answerText": {
+     "en": "father → son",
+     "as": "পিতৃ → পুত্ৰ"
+    },
+    "why": {
+     "en": "Suphakphaa was Sujangphaa's son.",
+     "as": "চুফাকফা চুজাংফাৰ পুত্ৰ।"
+    },
+    "id": "spk2.test.07"
+   },
+   {
+    "type": "tf",
+    "s": {
+     "en": "Suphakphaa's reign was uneventful.",
+     "as": "চুফাকফাৰ ৰাজত্বকাল ঘটনাবিহীন আছিল।"
+    },
+    "answer": true,
+    "why": {
+     "en": "True.",
+     "as": "শুদ্ধ।"
+    },
+    "id": "spk2.test.08"
+   }
+  ]
+ }
+}

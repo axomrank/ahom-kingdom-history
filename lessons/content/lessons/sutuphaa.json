@@ -1,0 +1,1241 @@
+{
+ "id": "sutuphaa",
+ "no": 6,
+ "version": 3,
+ "king": {
+  "en": "Swargadeo Sutuphaa",
+  "as": "স্বৰ্গদেউ চুতুফা"
+ },
+ "reign": {
+  "en": "Reign 1369–1376",
+  "as": "ৰাজত্বকাল ১৩৬৯–১৩৭৬"
+ },
+ "portrait": "sutuphaa-portrait.webp",
+ "sources": [
+  {
+   "title": "E. A. Gait, A History of Assam (1906), ch. IV, pp. 77–83",
+   "url": "https://archive.org/details/historyofassam00gait",
+   "used_for": "pp. 78–79: disputes with the Chutiyas, the visit at Chapaguri, the regatta on the Safrai, murder on the Chutia king's barge (1376), four years of rule by the Bar Gohain and Burha Gohain"
+  },
+  {
+   "title": "Sutuphaa",
+   "url": "https://en.wikipedia.org/wiki/Sutuphaa",
+   "used_for": "Accession 1369 (modern historians) or 1364 (early historians); doubts about the account"
+  }
+ ],
+ "review_notes": "The Wikipedia article notes that some historians doubt the murder story; the lesson gives the chronicle account. Rebuilt 2026-10-23 (version 2): published steps kept with their ids; new units add context and exam practice, nothing beyond Gait (1906) and the cited articles. Exercise mix upgraded 2026-10-23: plain MCQ and fill-the-year questions replaced with game-like types.",
+ "buildsOn": {
+  "no": 5,
+  "title": {
+   "en": "Sukhrangphaa",
+   "as": "চুখ্ৰাংফা"
+  },
+  "id": "sukhrangphaa"
+ },
+ "guide": {
+  "timeline": [
+   {
+    "y": "1369",
+    "t": {
+     "en": "Becomes the sixth Ahom king (1364 in older books)",
+     "as": "ষষ্ঠ আহোম ৰজা হয় (পুৰণি গ্ৰন্থত ১৩৬৪)"
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Frequent disputes with the Chutias",
+     "as": "চুতীয়াৰ সৈতে সঘনে বিবাদ"
+    }
+   },
+   {
+    "y": "1376",
+    "t": {
+     "en": "Killed by the Chutia king on the Safrai river",
+     "as": "চাফ্ৰাই নদীত চুতীয়া ৰজাৰ হাতত নিহত"
+    }
+   },
+   {
+    "y": "1376–1380",
+    "t": {
+     "en": "No king; the Burhagohain and Borgohain rule",
+     "as": "ৰজা নাই; বুঢ়াগোহাঁই আৰু বৰগোহাঁইৰ শাসন"
+    }
+   }
+  ]
+ },
+ "map": {
+  "box": [
+   94.0,
+   26.55,
+   96.3,
+   28.05
+  ],
+  "show": [
+   "brahmaputra",
+   "dikhou",
+   "charaideo",
+   "sadiya"
+  ],
+  "routes": [
+   [
+    "charaideo",
+    "sadiya"
+   ]
+  ],
+  "texts": [
+   {
+    "t": {
+     "en": "CHUTIA LAND",
+     "as": "চুতীয়া এলেকা"
+    },
+    "at": [
+     27.98,
+     95.45
+    ]
+   },
+   {
+    "t": {
+     "en": "AHOM LAND",
+     "as": "আহোম এলেকা"
+    },
+    "at": [
+     26.72,
+     94.75
+    ]
+   }
+  ],
+  "labels": {
+   "charaideo": {
+    "pos": "e"
+   },
+   "sadiya": {
+    "pos": "s"
+   },
+   "dikhou": {
+    "at": [
+     26.85,
+     94.75
+    ],
+    "pos": "w"
+   },
+   "brahmaputra": {
+    "at": [
+     27.3,
+     94.7
+    ],
+    "pos": "n"
+   }
+  },
+  "districts": [
+   "tinsukia"
+  ]
+ },
+ "units": [
+  {
+   "id": "u1",
+   "icon": "crown",
+   "title": {
+    "en": "The sixth king",
+    "as": "ষষ্ঠ ৰজা"
+   },
+   "learned": [
+    {
+     "en": "Sutuphaa was a brother of Sukhrangphaa",
+     "as": "চুতুফা চুখ্ৰাংফাৰ ভাই আছিল"
+    },
+    {
+     "en": "Modern historians date his accession to 1369; older books say 1364",
+     "as": "আধুনিক ইতিহাসবিদৰ মতে ১৩৬৯ চনত ৰজা; পুৰণি কিতাপত ১৩৬৪"
+    },
+    {
+     "en": "He was one of four sons of Sukhaangphaa",
+     "as": "তেওঁ চুখাংফাৰ চাৰিজন পুত্ৰৰ এজন"
+    },
+    {
+     "en": "Three of the four brothers became kings",
+     "as": "চাৰি ভাইৰ তিনিজন ৰজা হৈছিল"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "id": "stu.hook",
+     "title": {
+      "en": "An invitation to a boat race",
+      "as": "নাওখেলৰ নিমন্ত্ৰণ"
+     },
+     "img": "safrai-meeting.webp",
+     "text": [
+      {
+       "en": "A neighbouring king, an old enemy, invited the Ahom king to a boat race on a river, as a sign of peace.",
+       "as": "এজন চুবুৰীয়া ৰজাই, পুৰণি শত্ৰু, শান্তিৰ চিন হিচাপে আহোম ৰজাক নদীত নাওখেললৈ মাতিলে।"
+      },
+      {
+       "en": "The Ahom king accepted. Should he have?",
+       "as": "আহোম ৰজা মান্তি হ'ল। উচিত আছিল নে?"
+      }
+     ]
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The sixth king",
+      "as": "ষষ্ঠ ৰজা"
+     },
+     "text": [
+      {
+       "en": "[[sutuphaa]], a brother of Sukhrangphaa, became the sixth Ahom king.",
+       "as": "চুখ্ৰাংফাৰ ভাই [[sutuphaa]] ষষ্ঠ আহোম ৰজা হয়।"
+      },
+      {
+       "en": "Modern historians date his accession to <mark>1369</mark>. Older books say 1364.",
+       "as": "আধুনিক ইতিহাসবিদে তেওঁৰ ৰাজ্যাভিষেক <mark>১৩৬৯</mark> চন বুলি ধৰে। পুৰণি গ্ৰন্থত ১৩৬৪ বুলি আছে।"
+      }
+     ],
+     "id": "stu.u1.01",
+     "art": "calendar",
+     "link": {
+      "lesson": 5,
+      "lessonId": "sukhrangphaa",
+      "unitNo": 3,
+      "unitTitle": {
+       "en": "The empty throne",
+       "as": "খালী সিংহাসন"
+      },
+      "note": {
+       "en": "After Sukhrangphaa died in 1364, the throne was empty until 1369.",
+       "as": "১৩৬৪ চনত চুখ্ৰাংফাৰ মৃত্যুৰ পিছত ১৩৬৯ লৈকে সিংহাসন খালী আছিল।"
+      }
+     }
+    },
+    {
+     "type": "story",
+     "art": "scroll",
+     "title": {
+      "en": "Four brothers",
+      "as": "চাৰি ভাই"
+     },
+     "text": [
+      {
+       "en": "[[sukhaangphaa]] had four sons. Three of them became kings one after another: [[sukhrangphaa]], [[sutuphaa]] and [[tyao-khamti]].",
+       "as": "[[sukhaangphaa]]ৰ চাৰিজন পুত্ৰ আছিল। তেওঁলোকৰ তিনিজন পৰ পৰে ৰজা হৈছিল: [[sukhrangphaa]], [[sutuphaa]] আৰু [[tyao-khamti]]।"
+      },
+      {
+       "en": "The fourth, [[chao-pulai]], son of the Kamata princess, never ruled.",
+       "as": "চতুৰ্থজন, কামতা কুমাৰীৰ পুত্ৰ [[chao-pulai]] কেতিয়াও ৰজা হোৱা নাছিল।"
+      }
+     ],
+     "id": "stu2.u1.02",
+     "link": {
+      "lesson": 4,
+      "lessonId": "sukhaangphaa",
+      "unitNo": 4,
+      "unitTitle": {
+       "en": "Four sons",
+       "as": "চাৰিজন পুত্ৰ"
+      },
+      "note": {
+       "en": "Sukhaangphaa left four sons when he died in 1332.",
+       "as": "১৩৩২ চনত মৃত্যুৰ সময়ত চুখাংফাই চাৰিজন পুত্ৰ এৰি গৈছিল।"
+      }
+     }
+    },
+    {
+     "type": "order",
+     "q": {
+      "en": "Put the three brothers in the order they ruled.",
+      "as": "তিনি ভাইক ৰাজত্বৰ ক্ৰমত সজোৱা।"
+     },
+     "items": [
+      {
+       "en": "Sukhrangphaa",
+       "as": "চুখ্ৰাংফা"
+      },
+      {
+       "en": "Sutuphaa",
+       "as": "চুতুফা"
+      },
+      {
+       "en": "Tyao Khamti",
+       "as": "ত্যাও খামতি"
+      }
+     ],
+     "why": {
+      "en": "Sukhrangphaa (1332) → Sutuphaa (1369) → Tyao Khamti (1380).",
+      "as": "চুখ্ৰাংফা (১৩৩২) → চুতুফা (১৩৬৯) → ত্যাও খামতি (১৩৮০)।"
+     },
+     "id": "stu2.u1.03"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Older books date Sutuphaa's accession to 1364; modern historians say 1369.",
+      "as": "পুৰণি কিতাপত চুতুফাৰ অভিষেক ১৩৬৪; আধুনিক ইতিহাসবিদৰ মতে ১৩৬৯।"
+     },
+     "answer": true,
+     "why": {
+      "en": "True. Modern historians count 1364–1369 as an interregnum.",
+      "as": "শুদ্ধ। আধুনিক ইতিহাসবিদে ১৩৬৪–১৩৬৯ক ৰাজশূন্য কাল বুলি ধৰে।"
+     },
+     "id": "stu3.u1.01"
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "I was a son of Sukhaangphaa.",
+       "as": "মই চুখাংফাৰ পুত্ৰ।"
+      },
+      {
+       "en": "I became the sixth Ahom king.",
+       "as": "মই ষষ্ঠ আহোম ৰজা হৈছিলোঁ।"
+      },
+      {
+       "en": "My elder brother Sukhrangphaa ruled before me.",
+       "as": "মোৰ আগত ককাই চুখ্ৰাংফাই ৰাজত্ব কৰিছিল।"
+      }
+     ],
+     "options": [
+      {
+       "en": "Sutuphaa",
+       "as": "চুতুফা"
+      },
+      {
+       "en": "Suteuphaa",
+       "as": "চুতেউফা"
+      },
+      {
+       "en": "Tyao Khamti",
+       "as": "ত্যাও খামতি"
+      },
+      {
+       "en": "Chao Pulai",
+       "as": "চাও পুলাই"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "Sutuphaa. Careful: Suteuphaa, with an 'e', was the second king, a century earlier.",
+      "as": "চুতুফা। সাৱধান: 'এ' থকা চুতেউফা এশ বছৰ আগৰ দ্বিতীয় ৰজা।"
+     },
+     "id": "stu2.u1.06"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "All four sons of Sukhaangphaa became kings.",
+      "as": "চুখাংফাৰ চাৰিওজন পুত্ৰ ৰজা হৈছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. Three did; Chao Pulai did not.",
+      "as": "অশুদ্ধ। তিনিজনহে হৈছিল; চাও পুলাই হোৱা নাছিল।"
+     },
+     "id": "stu2.u1.05"
+    },
+    {
+     "type": "match",
+     "q": {
+      "en": "Tap the matching pairs.",
+      "as": "যোৰাবোৰ মিলোৱা।"
+     },
+     "pairs": [
+      [
+       {
+        "en": "Sukhrangphaa",
+        "as": "চুখ্ৰাংফা"
+       },
+       {
+        "en": "Fifth king",
+        "as": "পঞ্চম ৰজা"
+       }
+      ],
+      [
+       {
+        "en": "Sutuphaa",
+        "as": "চুতুফা"
+       },
+       {
+        "en": "Sixth king",
+        "as": "ষষ্ঠ ৰজা"
+       }
+      ],
+      [
+       {
+        "en": "Tyao Khamti",
+        "as": "ত্যাও খামতি"
+       },
+       {
+        "en": "Seventh king",
+        "as": "সপ্তম ৰজা"
+       }
+      ],
+      [
+       {
+        "en": "Chao Pulai",
+        "as": "চাও পুলাই"
+       },
+       {
+        "en": "Never king",
+        "as": "কেতিয়াও ৰজা নহয়"
+       }
+      ]
+     ],
+     "why": {
+      "en": "Four brothers, three kings.",
+      "as": "চাৰি ভাই, তিনিজন ৰজা।"
+     },
+     "id": "stu2.u1.07"
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "icon": "river",
+   "title": {
+    "en": "Death on the Safrai",
+    "as": "চাফ্ৰাইত মৃত্যু"
+   },
+   "learned": [
+    {
+     "en": "There were frequent disputes with the Chutias",
+     "as": "চুতীয়াৰ সৈতে প্ৰায়ে বিবাদ হৈছিল"
+    },
+    {
+     "en": "In 1376 the Chutia king pretended to make peace",
+     "as": "১৩৭৬ চনত চুতীয়া ৰজাই শান্তিৰ ভাও দিলে"
+    },
+    {
+     "en": "He invited Sutuphaa to a regatta on the Safrai",
+     "as": "তেওঁ চুতুফাক চাফ্ৰাইত নাওখেললৈ নিমন্ত্ৰণ কৰিলে"
+    },
+    {
+     "en": "Sutuphaa was killed on the Chutia king's boat",
+     "as": "চুতীয়া ৰজাৰ নাৱত চুতুফাক হত্যা কৰা হ'ল"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "title": {
+      "en": "Neighbours in the north-east",
+      "as": "উত্তৰ-পূবৰ চুবুৰীয়া"
+     },
+     "text": [
+      {
+       "en": "There were frequent <mark>disputes</mark> with the [[chutia]] kingdom.",
+       "as": "[[chutia]] ৰাজ্যৰ সৈতে সঘনে <mark>বিবাদ</mark> হৈছিল।"
+      },
+      {
+       "en": "Its centre was [[sadiya]], north-east of the Ahom land.",
+       "as": "ইয়াৰ কেন্দ্ৰ আছিল আহোম এলেকাৰ উত্তৰ-পূবৰ [[sadiya]]।"
+      }
+     ],
+     "id": "stu.u1.02",
+     "map": {
+      "route": true,
+      "labels": true
+     }
+    },
+    {
+     "type": "map",
+     "q": {
+      "en": "Tap the centre of the Chutia kingdom.",
+      "as": "চুতীয়া ৰাজ্যৰ কেন্দ্ৰ টিপা।"
+     },
+     "target": "sadiya",
+     "choices": [
+      "sadiya",
+      "charaideo"
+     ],
+     "answerText": {
+      "en": "Sadiya, in the north-east",
+      "as": "শদিয়া, উত্তৰ-পূবত"
+     },
+     "why": {
+      "en": "Sadiya, north-east of Charaideo, the Ahom capital.",
+      "as": "আহোম ৰাজধানী চৰাইদেউৰ উত্তৰ-পূবৰ শদিয়া।"
+     },
+     "id": "stu.u1.03"
+    },
+    {
+     "type": "mcq",
+     "guess": true,
+     "id": "stu.d1",
+     "q": {
+      "en": "You are Sutuphaa. The Chutia king invites you to a regatta on the Safrai. What do you do?",
+      "as": "তুমি চুতুফা। চুতীয়া ৰজাই তোমাক চফ্ৰাইত নাওখেললৈ মাতিছে। তুমি কি কৰিবা?"
+     },
+     "options": [
+      {
+       "en": "Go, with all your guards",
+       "as": "সকলো ৰক্ষীৰ সৈতে যোৱা"
+      },
+      {
+       "en": "Go, and trust him",
+       "as": "যোৱা, আৰু তেওঁক বিশ্বাস কৰা"
+      },
+      {
+       "en": "Refuse",
+       "as": "অস্বীকাৰ কৰা"
+      }
+     ],
+     "answer": 1,
+     "why": {
+      "en": "Sutuphaa trusted him, and stepped onto the Chutia king's boat without his attendants.",
+      "as": "চুতুফাই বিশ্বাস কৰিলে, আৰু অনুচৰ নোহোৱাকৈ চুতীয়া ৰজাৰ নাৱত উঠিল।"
+     },
+     "decide": true
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "An invitation",
+      "as": "নিমন্ত্ৰণ"
+     },
+     "text": [
+      {
+       "en": "In <mark>1376</mark> the Chutia king visited Sutuphaa at Chapaguri and pretended to make peace.",
+       "as": "<mark>১৩৭৬</mark> চনত চুতীয়া ৰজাই চাপাগুৰিত চুতুফাক সাক্ষাৎ কৰি মিলনৰ ভাও জুৰিলে।"
+      },
+      {
+       "en": "He invited Sutuphaa to a boat race (regatta) on the [[safrai]] river.",
+       "as": "তেওঁ চুতুফাক [[safrai]] নদীত নাওখেল চাবলৈ নিমন্ত্ৰণ জনালে।"
+      }
+     ],
+     "id": "stu.u1.04",
+     "img": "safrai-meeting.webp"
+    },
+    {
+     "type": "mcq",
+     "guess": true,
+     "id": "stu.g1",
+     "q": {
+      "en": "Sutuphaa is on the Chutia king's boat, alone. What do you think happened?",
+      "as": "চুতুফা অকলে চুতীয়া ৰজাৰ নাৱত। তোমাৰ অনুমানত কি হ'ল?"
+     },
+     "options": [
+      {
+       "en": "They became friends",
+       "as": "বন্ধু হ'ল"
+      },
+      {
+       "en": "He was killed",
+       "as": "তেওঁক হত্যা কৰা হ'ল"
+      },
+      {
+       "en": "He won the race",
+       "as": "তেওঁ খেলত জিকিল"
+      },
+      {
+       "en": "He was held for ransom",
+       "as": "মুক্তিপণৰ বাবে আটক"
+      }
+     ],
+     "answer": 1,
+     "why": {
+      "en": "The Chutias killed him there, in 1376.",
+      "as": "১৩৭৬ চনত চুতীয়াই তাতেই তেওঁক হত্যা কৰিলে।"
+     }
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "Betrayal",
+      "as": "বিশ্বাসঘাতকতা"
+     },
+     "text": [
+      {
+       "en": "He lured Sutuphaa onto his own boat <mark>without his attendants</mark>.",
+       "as": "তেওঁ চুতুফাক <mark>লগৰ মানুহ নোহোৱাকৈ</mark> নিজৰ নাৱলৈ মাতি নিলে।"
+      },
+      {
+       "en": "There the Chutias killed him.",
+       "as": "তাতে চুতীয়াসকলে তেওঁক হত্যা কৰিলে।"
+      }
+     ],
+     "id": "stu.u1.05",
+     "img": "safrai-betrayal.webp"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "A regatta is a boat race.",
+      "as": "নাওখেল মানে নাওৰ দৌৰ।"
+     },
+     "answer": true,
+     "why": {
+      "en": "True. The Chutia king's invitation to a regatta was a trap.",
+      "as": "শুদ্ধ। চুতীয়া ৰজাৰ নাওখেলৰ নিমন্ত্ৰণ এটা ফান্দ আছিল।"
+     },
+     "id": "stu3.u2.01"
+    },
+    {
+     "type": "order",
+     "q": {
+      "en": "Put the events in order.",
+      "as": "ঘটনাবোৰ ক্ৰম অনুসৰি সজোৱা।"
+     },
+     "items": [
+      {
+       "en": "Disputes with the Chutias",
+       "as": "চুতীয়াৰ সৈতে বিবাদ"
+      },
+      {
+       "en": "The Chutia king visits at Chapaguri",
+       "as": "চুতীয়া ৰজাৰ চাপাগুৰিলৈ আগমন"
+      },
+      {
+       "en": "Invitation to a regatta on the Safrai",
+       "as": "চাফ্ৰাইত নাওখেলৰ নিমন্ত্ৰণ"
+      },
+      {
+       "en": "Sutuphaa is killed on the Chutia king's boat",
+       "as": "চুতীয়া ৰজাৰ নাৱত চুতুফা নিহত"
+      }
+     ],
+     "why": {
+      "en": "Disputes → false peace at Chapaguri → regatta on the Safrai → murder on the boat.",
+      "as": "বিবাদ → চাপাগুৰিত মিছা মিলন → চাফ্ৰাইত নাওখেল → নাৱত হত্যা।"
+     },
+     "id": "stu.u1.06"
+    },
+    {
+     "type": "map",
+     "q": {
+      "en": "Tap the centre of the kingdom whose king lured Sutuphaa onto his boat.",
+      "as": "চুতুফাক নাৱলৈ নিয়া ৰজাৰ ৰাজ্যৰ কেন্দ্ৰ টিপা।"
+     },
+     "target": "sadiya",
+     "choices": [
+      "sadiya",
+      "charaideo",
+      "dikhou"
+     ],
+     "answerText": {
+      "en": "Sadiya",
+      "as": "সদিয়া"
+     },
+     "why": {
+      "en": "Sadiya, centre of the Chutias.",
+      "as": "চুতীয়াৰ কেন্দ্ৰ সদিয়া।"
+     },
+     "id": "stu3.u2.02"
+    },
+    {
+     "type": "unscramble",
+     "q": {
+      "en": "Unscramble the river where Sutuphaa was killed.",
+      "as": "চুতুফা নিহত হোৱা নদীখনৰ নাম সজাই লিখা।"
+     },
+     "word": {
+      "en": [
+       "S",
+       "A",
+       "F",
+       "R",
+       "A",
+       "I"
+      ],
+      "as": [
+       "চা",
+       "ফ্ৰা",
+       "ই"
+      ]
+     },
+     "answerText": {
+      "en": "SAFRAI",
+      "as": "চাফ্ৰাই"
+     },
+     "why": {
+      "en": "The Safrai river, in 1376.",
+      "as": "চাফ্ৰাই নদী, ১৩৭৬ চনত।"
+     },
+     "id": "stu.u1.10"
+    },
+    {
+     "type": "picture",
+     "q": {
+      "en": "Which picture shows the betrayal on the river?",
+      "as": "কোনখন ছবিত নদীত বিশ্বাসঘাতকতা দেখুওৱা হৈছে?"
+     },
+     "options": [
+      "safrai-betrayal.webp",
+      "safrai-meeting.webp",
+      "ministers-rule.webp",
+      "sutuphaa-portrait.webp"
+     ],
+     "answer": 0,
+     "answerText": {
+      "en": "The attack on the boat",
+      "as": "নাৱত আক্ৰমণ"
+     },
+     "why": {
+      "en": "The Chutia king's men strike on his own barge.",
+      "as": "চুতীয়া ৰজাৰ লোকে নিজৰ নাৱতে আক্ৰমণ কৰে।"
+     },
+     "id": "stu2.u2.09"
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "icon": "hands",
+   "title": {
+    "en": "Rule by ministers",
+    "as": "মন্ত্ৰীৰ শাসন"
+   },
+   "learned": [
+    {
+     "en": "No prince seemed worthy, so the throne stayed empty 1376–1380",
+     "as": "কোনো কোঁৱৰ যোগ্য নহ'ল, সেয়ে ১৩৭৬–১৩৮০ সিংহাসন খালী"
+    },
+    {
+     "en": "The Burhagohain and Borgohain ran the kingdom",
+     "as": "বুঢ়াগোহাঁই আৰু বৰগোহাঁইয়ে ৰাজ্য চলালে"
+    },
+    {
+     "en": "A time with no king is an interregnum",
+     "as": "ৰজা নথকা সময়ক ৰাজশূন্য কাল বোলে"
+    },
+    {
+     "en": "This was the second; another came in 1389–1397",
+     "as": "এইটো দ্বিতীয়; আন এটা ১৩৮৯–১৩৯৭ত"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "title": {
+      "en": "Four years without a king",
+      "as": "চাৰি বছৰ ৰজা নোহোৱাকৈ"
+     },
+     "text": [
+      {
+       "en": "No prince seemed worthy of the throne.",
+       "as": "কোনো কোঁৱৰক সিংহাসনৰ যোগ্য যেন বোধ হোৱা নাছিল।"
+      },
+      {
+       "en": "For four years, <mark>1376–1380</mark>, the [[burhagohain]] and the [[borgohain]] ran the kingdom themselves.",
+       "as": "চাৰি বছৰ, <mark>১৩৭৬–১৩৮০</mark>, [[burhagohain]] আৰু [[borgohain]]য়ে নিজেই ৰাজ্য চলাইছিল।"
+      }
+     ],
+     "id": "stu.u1.08",
+     "img": "ministers-rule.webp"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "After Sutuphaa's death, a new king was crowned at once.",
+      "as": "চুতুফাৰ মৃত্যুৰ পিছত লগে লগে নতুন ৰজা অভিষিক্ত হৈছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. No prince was thought worthy; the Burhagohain and Borgohain ruled for four years (1376–1380).",
+      "as": "অশুদ্ধ। কোনো কোঁৱৰ যোগ্য বুলি ভবা হোৱা নাছিল; চাৰি বছৰ (১৩৭৬–১৩৮০) বুঢ়াগোহাঁই আৰু বৰগোহাঁইয়ে শাসন কৰিছিল।"
+     },
+     "id": "stu.u1.09"
+    },
+    {
+     "type": "story",
+     "img": "ministers-rule.webp",
+     "title": {
+      "en": "Three empty thrones",
+      "as": "তিনিটা খালী সিংহাসন"
+     },
+     "text": [
+      {
+       "en": "In thirty years the Ahoms went without a king three times: <mark>1364–1369</mark>, <mark>1376–1380</mark> and <mark>1389–1397</mark>.",
+       "as": "ত্ৰিশ বছৰত আহোমসকল তিনিবাৰ ৰজা নোহোৱাকৈ আছিল: <mark>১৩৬৪–১৩৬৯</mark>, <mark>১৩৭৬–১৩৮০</mark> আৰু <mark>১৩৮৯–১৩৯৭</mark>।"
+      },
+      {
+       "en": "Each time the two great Gohains ruled. It shows how strong those offices had become since Subinphaa gave them half the people each.",
+       "as": "প্ৰতিবাৰে দুজন প্ৰধান গোহাঁইয়ে শাসন কৰিছিল। চুবিনফাই প্ৰত্যেককে আধা প্ৰজা দিয়াৰ পিছৰে পৰা এই পদ কিমান শক্তিশালী হৈছিল, ই তাৰে চিন।"
+      }
+     ],
+     "id": "stu2.u3.03",
+     "link": {
+      "lesson": 3,
+      "lessonId": "subinphaa",
+      "unitNo": 2,
+      "unitTitle": {
+       "en": "Two halves of the people",
+       "as": "প্ৰজাৰ দুই ভাগ"
+      },
+      "note": {
+       "en": "Subinphaa shared the Ahom subjects equally between the two Gohains.",
+       "as": "চুবিনফাই আহোম প্ৰজাক দুজন গোহাঁইৰ মাজত সমানে ভগাইছিল।"
+      }
+     }
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "There were two of us.",
+       "as": "আমি দুজন আছিলোঁ।"
+      },
+      {
+       "en": "Sukaphaa created our offices.",
+       "as": "চুকাফাই আমাৰ পদ সৃষ্টি কৰিছিল।"
+      },
+      {
+       "en": "We ruled when there was no king.",
+       "as": "ৰজা নথকাত আমি শাসন কৰিছিলোঁ।"
+      }
+     ],
+     "options": [
+      {
+       "en": "The Burhagohain and Borgohain",
+       "as": "বুঢ়াগোহাঁই আৰু বৰগোহাঁই"
+      },
+      {
+       "en": "The Chutia kings",
+       "as": "চুতীয়া ৰজা"
+      },
+      {
+       "en": "The Borbarua and Borphukan",
+       "as": "বৰবৰুৱা আৰু বৰফুকন"
+      },
+      {
+       "en": "The Naras",
+       "as": "নৰা"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "The two great Gohains. The Borbarua and Borphukan came under Pratap Singha.",
+      "as": "দুজন প্ৰধান গোহাঁই। বৰবৰুৱা আৰু বৰফুকন প্ৰতাপ সিংহৰ দিনত।"
+     },
+     "id": "stu3.u3.01"
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1376",
+       "l": {
+        "en": "Sutuphaa killed",
+        "as": "চুতুফা নিহত"
+       }
+      },
+      {
+       "y": "1389",
+       "l": {
+        "en": "Tyao Khamti killed",
+        "as": "ত্যাও খামতি নিহত"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Sukhrangphaa dies",
+        "as": "চুখ্ৰাংফাৰ মৃত্যু"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "Tyao Khamti crowned",
+        "as": "ত্যাও খামতিৰ অভিষেক"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Sudangphaa crowned",
+        "as": "চুদাংফাৰ অভিষেক"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "1364 → 1376 → 1380 → 1389 → 1397.",
+      "as": "১৩৬৪ → ১৩৭৬ → ১৩৮০ → ১৩৮৯ → ১৩৯৭।"
+     },
+     "id": "stu2.u3.05"
+    },
+    {
+     "type": "match",
+     "q": {
+      "en": "Match each empty throne to its cause.",
+      "as": "প্ৰতিটো ৰাজশূন্য কাল কাৰণৰ সৈতে মিলোৱা।"
+     },
+     "pairs": [
+      [
+       {
+        "en": "1364–1369",
+        "as": "১৩৬৪–১৩৬৯"
+       },
+       {
+        "en": "After Sukhrangphaa",
+        "as": "চুখ্ৰাংফাৰ পিছত"
+       }
+      ],
+      [
+       {
+        "en": "1376–1380",
+        "as": "১৩৭৬–১৩৮০"
+       },
+       {
+        "en": "After Sutuphaa",
+        "as": "চুতুফাৰ পিছত"
+       }
+      ],
+      [
+       {
+        "en": "1389–1397",
+        "as": "১৩৮৯–১৩৯৭"
+       },
+       {
+        "en": "After Tyao Khamti",
+        "as": "ত্যাও খামতিৰ পিছত"
+       }
+      ]
+     ],
+     "why": {
+      "en": "Three interregnums, each after a king's death.",
+      "as": "তিনিটা ৰাজশূন্য কাল, প্ৰতিটো এজন ৰজাৰ মৃত্যুৰ পিছত।"
+     },
+     "id": "stu2.u3.06"
+    },
+    {
+     "type": "unscramble",
+     "q": {
+      "en": "Unscramble the word for a time without a king.",
+      "as": "ৰজা নথকা সময়ৰ শব্দটো সজাই লিখা।"
+     },
+     "word": {
+      "en": [
+       "I",
+       "N",
+       "T",
+       "E",
+       "R",
+       "R",
+       "E",
+       "G",
+       "N",
+       "U",
+       "M"
+      ],
+      "as": [
+       "ৰাজ",
+       "শূন্য",
+       "কাল"
+      ]
+     },
+     "answerText": {
+      "en": "INTERREGNUM",
+      "as": "ৰাজশূন্যকাল"
+     },
+     "why": {
+      "en": "Interregnum: 'between reigns'.",
+      "as": "ৰাজশূন্য কাল: দুটা ৰাজত্বৰ মাজৰ সময়।"
+     },
+     "id": "stu2.u3.07"
+    },
+    {
+     "type": "story",
+     "id": "stu.next",
+     "title": {
+      "en": "Four years, no king",
+      "as": "চাৰি বছৰ, ৰজা নাই"
+     },
+     "art": "scroll",
+     "text": [
+      {
+       "en": "Mystery solved: he should not have gone. Sutuphaa was <mark>murdered on the Safrai</mark>, and the ministers ruled for four years.",
+       "as": "ৰহস্যৰ সমাধান: যাব নালাগিছিল। চুতুফা <mark>চফ্ৰাইত নিহত</mark> হ'ল, আৰু চাৰি বছৰ মন্ত্ৰীয়ে শাসন কৰিলে।"
+      },
+      {
+       "en": "The next king would march to avenge him, and leave two jealous queens behind...",
+       "as": "পিছৰ ৰজাই প্ৰতিশোধ ল'বলৈ যাত্ৰা কৰিব, আৰু দুগৰাকী ঈৰ্ষাপৰায়ণ ৰাণীক ঘৰত এৰি যাব..."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "test": {
+  "id": "test",
+  "title": {
+   "en": "Lesson test",
+   "as": "পাঠৰ পৰীক্ষা"
+  },
+  "learned": [
+   {
+    "en": "You have completed the reign of Swargadeo Sutuphaa",
+    "as": "তুমি স্বৰ্গদেউ চুতুফাৰ ৰাজত্বকাল সম্পূৰ্ণ কৰিলা"
+   }
+  ],
+  "steps": [
+   {
+    "type": "mcq",
+    "q": {
+     "en": "Consider the statements:<br>1. Sutuphaa was killed by the Chutia king in 1376.<br>2. After his death the Burhagohain and Borgohain ruled for four years.<br>Which is/are correct?",
+     "as": "উক্তিবোৰ বিবেচনা কৰা:<br>১. ১৩৭৬ চনত চুতীয়া ৰজাই চুতুফাক হত্যা কৰিছিল।<br>২. তেওঁৰ মৃত্যুৰ পিছত বুঢ়াগোহাঁই আৰু বৰগোহাঁইয়ে চাৰি বছৰ শাসন কৰিছিল।<br>কোনটো/কোনবোৰ শুদ্ধ?"
+    },
+    "options": [
+     {
+      "en": "1 only",
+      "as": "কেৱল ১"
+     },
+     {
+      "en": "2 only",
+      "as": "কেৱল ২"
+     },
+     {
+      "en": "Both 1 and 2",
+      "as": "১ আৰু ২ দুয়োটা"
+     },
+     {
+      "en": "Neither 1 nor 2",
+      "as": "১ বা ২ কোনোটো নহয়"
+     }
+    ],
+    "answer": 2,
+    "why": {
+     "en": "Both are correct.",
+     "as": "দুয়োটা শুদ্ধ।"
+    },
+    "id": "stu.test.01",
+    "small": true
+   },
+   {
+    "type": "picture",
+    "q": {
+     "en": "Which picture shows Sutuphaa's death?",
+     "as": "কোনখন ছবিত চুতুফাৰ মৃত্যু দেখুওৱা হৈছে?"
+    },
+    "options": [
+     "safrai-betrayal.webp",
+     "safrai-meeting.webp",
+     "ministers-rule.webp",
+     "sutuphaa-portrait.webp"
+    ],
+    "answer": 0,
+    "answerText": {
+     "en": "The betrayal on the boat",
+     "as": "নাৱত বিশ্বাসঘাতকতা"
+    },
+    "why": {
+     "en": "1376, on the Safrai.",
+     "as": "১৩৭৬, চাফ্ৰাইত।"
+    },
+    "id": "stu3.test.01"
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "I was a brother of Sukhrangphaa.",
+      "as": "মই চুখ্ৰাংফাৰ ভাই আছিলোঁ।"
+     },
+     {
+      "en": "A neighbouring king invited me to a regatta.",
+      "as": "এজন চুবুৰীয়া ৰজাই মোক নাওখেললৈ নিমন্ত্ৰণ কৰিছিল।"
+     },
+     {
+      "en": "I was killed on the Safrai river.",
+      "as": "চাফ্ৰাই নদীত মোক হত্যা কৰা হৈছিল।"
+     }
+    ],
+    "options": [
+     {
+      "en": "Sutuphaa",
+      "as": "চুতুফা"
+     },
+     {
+      "en": "Tyao Khamti",
+      "as": "ত্যাও খামতি"
+     },
+     {
+      "en": "Sukhrangphaa",
+      "as": "চুখ্ৰাংফা"
+     },
+     {
+      "en": "Suhenphaa",
+      "as": "চুহেনফা"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Sutuphaa, the sixth Ahom king.",
+     "as": "চুতুফা, ষষ্ঠ আহোম ৰজা।"
+    },
+    "id": "stu.test.03"
+   },
+   {
+    "type": "map",
+    "q": {
+     "en": "Tap the centre of the kingdom whose king killed Sutuphaa.",
+     "as": "চুতুফাক হত্যা কৰা ৰজাৰ ৰাজ্যৰ কেন্দ্ৰ টিপা।"
+    },
+    "target": "sadiya",
+    "choices": [
+     "sadiya",
+     "charaideo"
+    ],
+    "answerText": {
+     "en": "Sadiya, centre of the Chutia kingdom",
+     "as": "শদিয়া, চুতীয়া ৰাজ্যৰ কেন্দ্ৰ"
+    },
+    "why": {
+     "en": "The Chutia kingdom was centred on Sadiya.",
+     "as": "চুতীয়া ৰাজ্যৰ কেন্দ্ৰ আছিল শদিয়া।"
+    },
+    "id": "stu.test.04"
+   },
+   {
+    "type": "spot",
+    "q": {
+     "en": "One word in this sentence is wrong. Tap it.",
+     "as": "এই বাক্যটোৰ এটা শব্দ ভুল। সেইটো টিপা।"
+    },
+    "tokens": {
+     "en": [
+      "Sutuphaa",
+      "was",
+      "killed",
+      "by",
+      "the",
+      "Kachari",
+      "king",
+      "on",
+      "the",
+      "Safrai",
+      "river."
+     ],
+     "as": [
+      "চাফ্ৰাই",
+      "নদীত",
+      "কছাৰী",
+      "ৰজাই",
+      "চুতুফাক",
+      "হত্যা",
+      "কৰিছিল।"
+     ]
+    },
+    "wrong": {
+     "en": 5,
+     "as": 2
+    },
+    "fix": {
+     "en": "→ Chutia",
+     "as": "→ চুতীয়া"
+    },
+    "answerText": {
+     "en": "Kachari → Chutia",
+     "as": "কছাৰী → চুতীয়া"
+    },
+    "why": {
+     "en": "It was the Chutia king. Kachari vs Chutia is a common mix-up.",
+     "as": "সেয়া আছিল চুতীয়া ৰজা। কছাৰী আৰু চুতীয়া সাধাৰণতে খেলিমেলি হয়।"
+    },
+    "id": "stu.test.05"
+   },
+   {
+    "type": "odd",
+    "q": {
+     "en": "Which one was NOT a son of Sukhaangphaa?",
+     "as": "কোনজন চুখাংফাৰ পুত্ৰ নাছিল?"
+    },
+    "options": [
+     {
+      "en": "Sutuphaa",
+      "as": "চুতুফা"
+     },
+     {
+      "en": "Tyao Khamti",
+      "as": "ত্যাও খামতি"
+     },
+     {
+      "en": "Chao Pulai",
+      "as": "চাও পুলাই"
+     },
+     {
+      "en": "Suteuphaa",
+      "as": "চুতেউফা"
+     }
+    ],
+    "answer": 3,
+    "why": {
+     "en": "Suteuphaa was the second king, son of Sukaphaa.",
+     "as": "চুতেউফা চুকাফাৰ পুত্ৰ, দ্বিতীয় ৰজা।"
+    },
+    "id": "stu2.test.06"
+   },
+   {
+    "type": "tf",
+    "s": {
+     "en": "Sutuphaa was invited to a regatta on the Safrai river.",
+     "as": "চুতুফাক চাফ্ৰাই নদীত নাওখেললৈ নিমন্ত্ৰণ কৰা হৈছিল।"
+    },
+    "answer": true,
+    "why": {
+     "en": "True; it was a trap.",
+     "as": "শুদ্ধ; ই এটা ফান্দ আছিল।"
+    },
+    "id": "stu2.test.07"
+   },
+   {
+    "type": "timeline",
+    "q": {
+     "en": "Place each event on the timeline.",
+     "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+    },
+    "anchors": [
+     {
+      "y": "1376",
+      "l": {
+       "en": "Sutuphaa killed",
+       "as": "চুতুফা নিহত"
+      }
+     },
+     {
+      "y": "1380",
+      "l": {
+       "en": "Tyao Khamti crowned",
+       "as": "ত্যাও খামতিৰ অভিষেক"
+      }
+     }
+    ],
+    "items": [
+     {
+      "t": {
+       "en": "Invitation to the regatta",
+       "as": "নাওখেলৰ নিমন্ত্ৰণ"
+      },
+      "slot": 0
+     },
+     {
+      "t": {
+       "en": "The Gohains rule",
+       "as": "গোহাঁইৰ শাসন"
+      },
+      "slot": 1
+     },
+     {
+      "t": {
+       "en": "Campaign against the Chutias",
+       "as": "চুতীয়াৰ বিৰুদ্ধে অভিযান"
+      },
+      "slot": 2
+     }
+    ],
+    "why": {
+     "en": "Invitation → murder (1376) → four years of Gohain rule → 1380 → Tyao Khamti's campaign.",
+     "as": "নিমন্ত্ৰণ → হত্যা (১৩৭৬) → চাৰি বছৰ গোহাঁইৰ শাসন → ১৩৮০ → ত্যাও খামতিৰ অভিযান।"
+    },
+    "id": "stu3.test.02"
+   }
+  ]
+ }
+}

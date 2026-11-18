@@ -1,0 +1,1321 @@
+{
+ "id": "sukhrangphaa",
+ "no": 5,
+ "version": 3,
+ "king": {
+  "en": "Swargadeo Sukhrangphaa",
+  "as": "স্বৰ্গদেউ চুখ্ৰাংফা"
+ },
+ "reign": {
+  "en": "Reign 1332–1364",
+  "as": "ৰাজত্বকাল ১৩৩২–১৩৬৪"
+ },
+ "portrait": "sukhrangphaa-portrait.webp",
+ "sources": [
+  {
+   "title": "E. A. Gait, A History of Assam (1906), ch. IV, pp. 77–83",
+   "url": "https://archive.org/details/historyofassam00gait",
+   "used_for": "p. 78: eldest son, unpopular, Chao Pulai made Saring (Charing) Raja, plot, flight to the Raja of Kamata, march to Athgaon and Saring, reconciliation, the Bar Gohain blamed and hidden, death in 1364 after 32 years"
+  },
+  {
+   "title": "Sutuphaa",
+   "url": "https://en.wikipedia.org/wiki/Sutuphaa",
+   "used_for": "Interregnum 1364–1369 argued by Padmeswar Gogoi and S. L. Baruah"
+  }
+ ],
+ "review_notes": "The AHOM catalogue says Sukhrangphaa created the post of Charing Raja and made Chao Pulai governor of Sadiya; Gait says only that he appointed Chao Pulai Saring Raja, so the lesson says that. Rebuilt 2026-10-23 (version 2) into three units. Exercise mix upgraded 2026-10-23: plain MCQ and fill-the-year questions replaced with game-like types.",
+ "buildsOn": {
+  "no": 4,
+  "title": {
+   "en": "Sukhaangphaa",
+   "as": "চুখাংফা"
+  },
+  "id": "sukhaangphaa"
+ },
+ "guide": {
+  "timeline": [
+   {
+    "y": "1332",
+    "t": {
+     "en": "Becomes the fifth Ahom king",
+     "as": "পঞ্চম আহোম ৰজা হয়"
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Makes his half-brother Chao Pulai the Charing Raja",
+     "as": "বৈমাত্ৰেয় ভাই চাও পুলাইক চাৰিং ৰজা পাতে"
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Chao Pulai's plot; Kamata marches in; the brothers make peace",
+     "as": "চাও পুলাইৰ ষড়যন্ত্ৰ; কামতাৰ অভিযান; দুই ভাইৰ মিলন"
+    }
+   },
+   {
+    "y": "1364",
+    "t": {
+     "en": "Dies; the throne stays empty until 1369",
+     "as": "মৃত্যু; ১৩৬৯ লৈকে সিংহাসন খালী"
+    }
+   }
+  ]
+ },
+ "map": {
+  "box": [
+   89.2,
+   25.7,
+   96.3,
+   28.1
+  ],
+  "show": [
+   "brahmaputra",
+   "kamata",
+   "charaideo",
+   "sadiya"
+  ],
+  "routes": [
+   [
+    "charaideo",
+    "kamata"
+   ]
+  ],
+  "texts": [
+   {
+    "t": {
+     "en": "ASSAM",
+     "as": "অসম"
+    },
+    "at": [
+     26.75,
+     92.6
+    ]
+   }
+  ],
+  "labels": {
+   "kamata": {
+    "t": {
+     "en": "Kamata",
+     "as": "কামতা"
+    },
+    "pos": "ne"
+   },
+   "charaideo": {
+    "pos": "s"
+   },
+   "sadiya": {
+    "pos": "w"
+   },
+   "brahmaputra": {
+    "at": [
+     26.25,
+     91.3
+    ],
+    "pos": "n"
+   }
+  }
+ },
+ "units": [
+  {
+   "id": "u1",
+   "icon": "crown",
+   "title": {
+    "en": "The Charing Raja",
+    "as": "চাৰিং ৰজা"
+   },
+   "learned": [
+    {
+     "en": "Sukhrangphaa, eldest son of Sukhaangphaa, ruled 1332–1364",
+     "as": "চুখাংফাৰ জ্যেষ্ঠ পুত্ৰ চুখ্ৰাংফাই ১৩৩২–১৩৬৪ লৈকে ৰাজত্ব কৰে"
+    },
+    {
+     "en": "He soon became unpopular",
+     "as": "তেওঁ সোনকালে অপ্ৰিয় হৈ পৰিল"
+    },
+    {
+     "en": "He made his half-brother Chao Pulai the Charing Raja",
+     "as": "তেওঁ বৈমাত্ৰেয় ভাই চাও পুলাইক চাৰিং ৰজা পাতে"
+    },
+    {
+     "en": "Chao Pulai's mother was a Kamata princess",
+     "as": "চাও পুলাইৰ মাতৃ কামতা কুমাৰী"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "id": "skr.hook",
+     "title": {
+      "en": "A brother with an army",
+      "as": "সৈন্যসহ ভাই"
+     },
+     "img": "kamata-envoys.webp",
+     "text": [
+      {
+       "en": "A king's half-brother plotted against him, was caught, and fled. Soon a foreign army was marching on the Ahom land.",
+       "as": "ৰজাৰ বৈমাত্ৰেয় ভায়েকে ষড়যন্ত্ৰ কৰিলে, ধৰা পৰিল, আৰু পলাল। সোনকালে এক বিদেশী সৈন্য আহোম দেশলৈ আগবাঢ়িল।"
+      },
+      {
+       "en": "Whose army was it, and why did the king make peace without a fight?",
+       "as": "সেয়া কাৰ সৈন্য, আৰু ৰজাই কিয় নুযুঁজাকৈ শান্তি কৰিলে?"
+      }
+     ]
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The fifth king",
+      "as": "পঞ্চম ৰজা"
+     },
+     "text": [
+      {
+       "en": "[[sukhrangphaa]], the eldest of Sukhaangphaa's four sons, became king in <mark>1332</mark>.",
+       "as": "চুখাংফাৰ চাৰি পুত্ৰৰ জ্যেষ্ঠ [[sukhrangphaa]] <mark>১৩৩২</mark> চনত ৰজা হয়।"
+      },
+      {
+       "en": "He soon became <mark>unpopular</mark>.",
+       "as": "অলপ দিনতে তেওঁ <mark>অপ্ৰিয়</mark> হৈ পৰিল।"
+      }
+     ],
+     "id": "skr.u1.01",
+     "art": "calendar",
+     "link": {
+      "lesson": 4,
+      "lessonId": "sukhaangphaa",
+      "unitNo": 4,
+      "unitTitle": {
+       "en": "Four sons",
+       "as": "চাৰিজন পুত্ৰ"
+      },
+      "note": {
+       "en": "Sukhaangphaa left four sons; Sukhrangphaa was the eldest.",
+       "as": "চুখাংফাৰ চাৰিজন পুত্ৰ আছিল; চুখ্ৰাংফা আছিল জ্যেষ্ঠ।"
+      }
+     }
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Chao Pulai was the eldest son of Sukhaangphaa.",
+      "as": "চাও পুলাই চুখাংফাৰ জ্যেষ্ঠ পুত্ৰ আছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. Sukhrangphaa was the eldest; Chao Pulai was the son of the Kamata princess.",
+      "as": "অশুদ্ধ। চুখ্ৰাংফা জ্যেষ্ঠ; চাও পুলাই কামতা কুমাৰীৰ পুত্ৰ।"
+     },
+     "id": "skr2.u1.07"
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The Charing Raja",
+      "as": "চাৰিং ৰজা"
+     },
+     "text": [
+      {
+       "en": "He made his half-brother [[chao-pulai]] the [[charing-raja]].",
+       "as": "তেওঁ বৈমাত্ৰেয় ভাই [[chao-pulai]]ক [[charing-raja]] পাতিছিল।"
+      },
+      {
+       "en": "Chao Pulai's mother was a <mark>Kamata princess</mark>.",
+       "as": "চাও পুলাইৰ মাতৃ আছিল <mark>কামতাৰ কুঁৱৰী</mark>।"
+      }
+     ],
+     "id": "skr.u1.02",
+     "art": "scroll",
+     "link": {
+      "lesson": 4,
+      "lessonId": "sukhaangphaa",
+      "unitNo": 3,
+      "unitTitle": {
+       "en": "Peace by marriage",
+       "as": "বিবাহেৰে শান্তি"
+      },
+      "note": {
+       "en": "Kamata princesses married into the Ahom family after the Kamata war.",
+       "as": "কামতা যুদ্ধৰ পিছত কামতাৰ কুঁৱৰী আহোম ৰাজপৰিয়াললৈ বিয়া হৈ আহিছিল।"
+      }
+     }
+    },
+    {
+     "type": "unscramble",
+     "q": {
+      "en": "Unscramble Chao Pulai's title.",
+      "as": "চাও পুলাইৰ উপাধিটো সজাই লিখা।"
+     },
+     "word": {
+      "en": [
+       "C",
+       "H",
+       "A",
+       "R",
+       "I",
+       "N",
+       "G"
+      ],
+      "as": [
+       "চা",
+       "ৰিং"
+      ]
+     },
+     "answerText": {
+      "en": "CHARING",
+      "as": "চাৰিং"
+     },
+     "why": {
+      "en": "Charing Raja.",
+      "as": "চাৰিং ৰজা।"
+     },
+     "id": "skr3.u1.02"
+    },
+    {
+     "type": "story",
+     "map": {
+      "labels": true,
+      "route": false
+     },
+     "title": {
+      "en": "Brothers of two mothers",
+      "as": "দুই মাতৃৰ ভাই"
+     },
+     "text": [
+      {
+       "en": "Sukhrangphaa and Chao Pulai were sons of the same father but different mothers: half-brothers.",
+       "as": "চুখ্ৰাংফা আৰু চাও পুলাই একে পিতৃৰ, কিন্তু বেলেগ মাতৃৰ পুত্ৰ: বৈমাত্ৰেয় ভাই।"
+      },
+      {
+       "en": "Chao Pulai had a powerful uncle's family in the west: the royal house of [[kamata]].",
+       "as": "পশ্চিমত চাও পুলাইৰ এক শক্তিশালী মোমায়েকৰ ঘৰ আছিল: [[kamata]]ৰ ৰাজপৰিয়াল।"
+      }
+     ],
+     "id": "skr2.u1.05"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Chao Pulai and Sukhrangphaa had the same mother.",
+      "as": "চাও পুলাই আৰু চুখ্ৰাংফাৰ মাতৃ একে আছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. Same father, Sukhaangphaa; Chao Pulai's mother was the Kamata princess Rajani. They were half-brothers.",
+      "as": "অশুদ্ধ। পিতৃ একে, চুখাংফা; চাও পুলাইৰ মাতৃ কামতা কুমাৰী ৰজনী। তেওঁলোক বৈমাত্ৰেয় ভাই।"
+     },
+     "id": "skr3.u1.03"
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1293",
+       "l": {
+        "en": "Sukhaangphaa becomes king",
+        "as": "চুখাংফা ৰজা হয়"
+       }
+      },
+      {
+       "y": "1364",
+       "l": {
+        "en": "Sukhrangphaa dies",
+        "as": "চুখ্ৰাংফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Subinphaa rules",
+        "as": "চুবিনফাৰ ৰাজত্ব"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "Sukhrangphaa becomes king",
+        "as": "চুখ্ৰাংফা ৰজা হয়"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Sutuphaa becomes king",
+        "as": "চুতুফা ৰজা হয়"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "1281 → 1293 → 1332 → 1364 → 1369.",
+      "as": "১২৮১ → ১২৯৩ → ১৩৩২ → ১৩৬৪ → ১৩৬৯।"
+     },
+     "id": "skr3.u1.01"
+    },
+    {
+     "type": "match",
+     "q": {
+      "en": "Tap the matching pairs.",
+      "as": "যোৰাবোৰ মিলোৱা।"
+     },
+     "pairs": [
+      [
+       {
+        "en": "Sukhrangphaa",
+        "as": "চুখ্ৰাংফা"
+       },
+       {
+        "en": "The king",
+        "as": "ৰজা"
+       }
+      ],
+      [
+       {
+        "en": "Chao Pulai",
+        "as": "চাও পুলাই"
+       },
+       {
+        "en": "Charing Raja",
+        "as": "চাৰিং ৰজা"
+       }
+      ],
+      [
+       {
+        "en": "Rajani",
+        "as": "ৰজনী"
+       },
+       {
+        "en": "Chao Pulai's mother",
+        "as": "চাও পুলাইৰ মাতৃ"
+       }
+      ],
+      [
+       {
+        "en": "Kamata",
+        "as": "কামতা"
+       },
+       {
+        "en": "His mother's kingdom",
+        "as": "মাতৃৰ ৰাজ্য"
+       }
+      ]
+     ],
+     "why": {
+      "en": "A king, a half-brother, and a link to Kamata.",
+      "as": "এজন ৰজা, এজন বৈমাত্ৰেয় ভাই আৰু কামতাৰ সৈতে সম্পৰ্ক।"
+     },
+     "id": "skr2.u1.08"
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "icon": "flag",
+   "title": {
+    "en": "Kamata marches in",
+    "as": "কামতাৰ আগমন"
+   },
+   "learned": [
+    {
+     "en": "Chao Pulai plotted against the king; the plot was found out",
+     "as": "চাও পুলাইয়ে ৰজাৰ বিৰুদ্ধে ষড়যন্ত্ৰ কৰিলে; ধৰা পৰিল"
+    },
+    {
+     "en": "He fled to his kinsman, the king of Kamata",
+     "as": "তেওঁ আত্মীয় কামতা ৰজাৰ ওচৰলৈ পলাল"
+    },
+    {
+     "en": "The Kamata army marched to Athgaon and Charing",
+     "as": "কামতাৰ সৈন্য আঠগাঁও আৰু চাৰিঙলৈ আহিল"
+    },
+    {
+     "en": "Unsure of his troops, the king made peace with his brother",
+     "as": "সৈন্যৰ ওপৰত ভৰসা নাপাই ৰজাই ভাইৰ সৈতে শান্তি কৰিলে"
+    }
+   ],
+   "steps": [
+    {
+     "type": "mcq",
+     "guess": true,
+     "id": "skr.g1",
+     "q": {
+      "en": "Chao Pulai's plot failed. Where do you think he fled?",
+      "as": "চাও পুলাইৰ ষড়যন্ত্ৰ বিফল হ'ল। তোমাৰ অনুমানত তেওঁ ক'লৈ পলাল?"
+     },
+     "options": [
+      {
+       "en": "To the Nagas",
+       "as": "নগাৰ ওচৰলৈ"
+      },
+      {
+       "en": "To his mother's family, the king of Kamata",
+       "as": "মাকৰ পৰিয়াল, কমতাৰ ৰজাৰ ওচৰলৈ"
+      },
+      {
+       "en": "To Mong Mao",
+       "as": "মং মাওলৈ"
+      },
+      {
+       "en": "To the Chutias",
+       "as": "চুতীয়াৰ ওচৰলৈ"
+      }
+     ],
+     "answer": 1,
+     "why": {
+      "en": "To his kinsman, the king of Kamata, who agreed to help him.",
+      "as": "আত্মীয় কমতাৰ ৰজাৰ ওচৰলৈ, যি সহায় কৰিবলৈ মান্তি হ'ল।"
+     }
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "A plot",
+      "as": "ষড়যন্ত্ৰ"
+     },
+     "text": [
+      {
+       "en": "Chao Pulai <mark>plotted</mark> against the king, but the plot was found out.",
+       "as": "চাও পুলাইয়ে ৰজাৰ বিৰুদ্ধে <mark>ষড়যন্ত্ৰ</mark> কৰিলে, কিন্তু সেয়া ধৰা পৰিল।"
+      },
+      {
+       "en": "He fled to his kinsman, the king of [[kamata]], who agreed to help him.",
+       "as": "তেওঁ আত্মীয় [[kamata]] ৰজাৰ ওচৰলৈ পলাই গ'ল, আৰু ৰজাই তেওঁক সহায় কৰিবলৈ মান্তি হ'ল।"
+      }
+     ],
+     "id": "skr.u1.04",
+     "img": "kamata-envoys.webp"
+    },
+    {
+     "type": "story",
+     "id": "skr.m1",
+     "title": {
+      "en": "To his mother's people",
+      "as": "মাকৰ মানুহৰ ওচৰলৈ"
+     },
+     "map": {
+      "route": true,
+      "labels": true
+     },
+     "text": [
+      {
+       "en": "Follow Chao Pulai's flight: west from the Ahom land, down the whole valley, to his mother's family in <mark>Kamata</mark>.",
+       "as": "চাও পুলাইৰ পলায়ন চোৱা: আহোম দেশৰ পৰা পশ্চিমে, গোটেই উপত্যকা নামি, মাকৰ পৰিয়াল <mark>কমতা</mark>লৈ।"
+      },
+      {
+       "en": "Soon an army would march back the other way.",
+       "as": "সোনকালে এক সৈন্য বিপৰীত দিশে আগবাঢ়িব।"
+      }
+     ]
+    },
+    {
+     "type": "mcq",
+     "guess": true,
+     "id": "skr.d1",
+     "q": {
+      "en": "You are Sukhrangphaa. The Kamata army is at Charing, and you doubt your own troops. What do you do?",
+      "as": "তুমি চুখ্ৰাংফা। কমতাৰ সৈন্য চৰিঙত, আৰু নিজৰ সৈন্যৰ ওপৰত তোমাৰ সন্দেহ। তুমি কি কৰিবা?"
+     },
+     "options": [
+      {
+       "en": "Fight anyway",
+       "as": "তথাপি যুঁজা"
+      },
+      {
+       "en": "Make peace with your brother",
+       "as": "ভায়েৰৰ সৈতে শান্তি"
+      },
+      {
+       "en": "Flee east",
+       "as": "পূবলৈ পলোৱা"
+      }
+     ],
+     "answer": 1,
+     "why": {
+      "en": "He opened talks and made peace with Chao Pulai, without a battle.",
+      "as": "তেওঁ আলোচনা কৰি চাও পুলাইৰ সৈতে যুদ্ধ নোহোৱাকৈ শান্তি কৰিলে।"
+     },
+     "decide": true
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "Peace between brothers",
+      "as": "দুই ভাইৰ মিলন"
+     },
+     "text": [
+      {
+       "en": "The Kamata king marched east to Athgaon and then to Charing.",
+       "as": "কামতা ৰজাই পূবলৈ আঠগাঁও আৰু তাৰ পিছত চাৰিংলৈ আগবাঢ়িল।"
+      },
+      {
+       "en": "Unsure of his own troops' loyalty, Sukhrangphaa opened talks and made <mark>peace</mark> with Chao Pulai.",
+       "as": "নিজৰ সৈন্যৰ আনুগত্যত সন্দেহ থকাত চুখ্ৰাংফাই আলোচনা কৰি চাও পুলাইৰ সৈতে <mark>মিলন</mark> কৰিলে।"
+      }
+     ],
+     "id": "skr.u1.05",
+     "art": "embassy"
+    },
+    {
+     "type": "order",
+     "q": {
+      "en": "Put the events in order.",
+      "as": "ঘটনাবোৰ ক্ৰম অনুসৰি সজোৱা।"
+     },
+     "items": [
+      {
+       "en": "Chao Pulai is made Charing Raja",
+       "as": "চাও পুলাই চাৰিং ৰজা হয়"
+      },
+      {
+       "en": "His plot is found out",
+       "as": "তেওঁৰ ষড়যন্ত্ৰ ধৰা পৰে"
+      },
+      {
+       "en": "He flees to Kamata",
+       "as": "তেওঁ কামতালৈ পলায়"
+      },
+      {
+       "en": "The Kamata king marches to Charing",
+       "as": "কামতা ৰজা চাৰিংলৈ আহে"
+      },
+      {
+       "en": "The brothers make peace",
+       "as": "দুই ভাইৰ মিলন হয়"
+      }
+     ],
+     "why": {
+      "en": "Title → plot found out → flight to Kamata → Kamata marches in → peace.",
+      "as": "উপাধি → ষড়যন্ত্ৰ ধৰা পৰে → কামতালৈ পলায়ন → কামতাৰ অভিযান → মিলন।"
+     },
+     "id": "skr.u1.06"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Sukhrangphaa defeated the Kamata army in a great battle.",
+      "as": "চুখ্ৰাংফাই এক ডাঙৰ যুদ্ধত কামতাৰ সৈন্যক পৰাস্ত কৰিছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. Unsure of his troops, he negotiated and made peace with Chao Pulai.",
+      "as": "অশুদ্ধ। সৈন্যৰ ওপৰত ভৰসা নথকাত তেওঁ আলোচনা কৰি চাও পুলাইৰ সৈতে মিলন কৰিছিল।"
+     },
+     "id": "skr.u1.07"
+    },
+    {
+     "type": "story",
+     "img": "reconciliation.webp",
+     "title": {
+      "en": "Brothers again",
+      "as": "পুনৰ ভাই-ভাই"
+     },
+     "text": [
+      {
+       "en": "The two half-brothers made peace without a battle. Chao Pulai came back into the kingdom.",
+       "as": "দুয়োজন বৈমাত্ৰেয় ভাইয়ে যুদ্ধ নকৰাকৈ শান্তি কৰিলে। চাও পুলাই ৰাজ্যলৈ উভতি আহিল।"
+      },
+      {
+       "en": "A family quarrel had nearly become a war with Kamata. It was a warning of how marriages could pull kingdoms in.",
+       "as": "এটা পাৰিবাৰিক বিবাদ কামতাৰ সৈতে যুদ্ধলৈ পৰিণত হ'বলৈ ওলাইছিল। বিবাহে কেনেকৈ ৰাজ্যক টানি আনিব পাৰে, ই আছিল তাৰ সতৰ্কবাণী।"
+      }
+     ],
+     "id": "skr2.u2.05"
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "My mother was a Kamata princess.",
+       "as": "মোৰ মাতৃ কামতাৰ কুঁৱৰী আছিল।"
+      },
+      {
+       "en": "My half-brother made me the Charing Raja.",
+       "as": "মোৰ বৈমাত্ৰেয় ভাইয়ে মোক চাৰিং ৰজা পাতিছিল।"
+      },
+      {
+       "en": "I fled to Kamata after my plot was found out.",
+       "as": "ষড়যন্ত্ৰ ধৰা পৰাৰ পিছত মই কামতালৈ পলাইছিলোঁ।"
+      }
+     ],
+     "options": [
+      {
+       "en": "Chao Pulai",
+       "as": "চাও পুলাই"
+      },
+      {
+       "en": "Sutuphaa",
+       "as": "চুতুফা"
+      },
+      {
+       "en": "Tyao Khamti",
+       "as": "ত্যাও খামতি"
+      },
+      {
+       "en": "Sukhrangphaa",
+       "as": "চুখ্ৰাংফা"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "Chao Pulai, son of Sukhaangphaa and a Kamata princess.",
+      "as": "চাও পুলাই, চুখাংফা আৰু কামতাৰ কুঁৱৰীৰ পুত্ৰ।"
+     },
+     "id": "skr.u1.08"
+    },
+    {
+     "type": "picture",
+     "q": {
+      "en": "Which picture shows Chao Pulai with the Kamata envoys?",
+      "as": "কোনখন ছবিত কামতাৰ দূতৰ সৈতে চাও পুলাইক দেখুওৱা হৈছে?"
+     },
+     "options": [
+      "kamata-envoys.webp",
+      "reconciliation.webp",
+      "empty-throne.webp",
+      "sukhrangphaa-portrait.webp"
+     ],
+     "answer": 0,
+     "answerText": {
+      "en": "The meeting with Kamata's envoys",
+      "as": "কামতাৰ দূতৰ সৈতে সাক্ষাৎ"
+     },
+     "why": {
+      "en": "Chao Pulai turning to his mother's kin in Kamata.",
+      "as": "মাতৃৰ আত্মীয় কামতাৰ ওচৰলৈ চাও পুলাই।"
+     },
+     "id": "skr2.u2.07"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Sukhrangphaa made peace because he doubted his troops' loyalty.",
+      "as": "সৈন্যৰ আনুগত্যত সন্দেহ কৰি চুখ্ৰাংফাই শান্তি কৰিছিল।"
+     },
+     "answer": true,
+     "why": {
+      "en": "True. Gait says he was not sure enough of their loyalty to fight.",
+      "as": "শুদ্ধ। গেইটৰ মতে যুঁজিবলৈ তেওঁ সৈন্যৰ আনুগত্যত নিশ্চিত নাছিল।"
+     },
+     "id": "skr3.u2.01"
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "icon": "moon",
+   "title": {
+    "en": "The empty throne",
+    "as": "খালী সিংহাসন"
+   },
+   "learned": [
+    {
+     "en": "The Borgohain was blamed; he hid to escape death and was later forgiven",
+     "as": "বৰগোহাঁইক দোষ দিয়া হ'ল; মৃত্যু এৰাবলৈ লুকাল, পিছত ক্ষমা পালে"
+    },
+    {
+     "en": "Sukhrangphaa died in 1364 after 32 years",
+     "as": "৩২ বছৰৰ পিছত ১৩৬৪ চনত চুখ্ৰাংফাৰ মৃত্যু"
+    },
+    {
+     "en": "No king from 1364 to 1369: the first interregnum",
+     "as": "১৩৬৪–১৩৬৯ কোনো ৰজা নাছিল: প্ৰথম ৰাজশূন্য কাল"
+    },
+    {
+     "en": "His brother Sutuphaa then became king",
+     "as": "তাৰ পিছত ভাই চুতুফা ৰজা হ'ল"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "title": {
+      "en": "Who was to blame?",
+      "as": "দোষী কোন?"
+     },
+     "text": [
+      {
+       "en": "Some accounts say the [[borgohain]] started Chao Pulai's plot. Others say he turned the king against Chao Pulai.",
+       "as": "কিছুমান বিৱৰণমতে [[borgohain]]য়ে চাও পুলাইৰ ষড়যন্ত্ৰ আৰম্ভ কৰাইছিল। আন কিছুমানৰ মতে তেওঁহে ৰজাক চাও পুলাইৰ বিৰুদ্ধে উচটাইছিল।"
+      },
+      {
+       "en": "All agree the Borgohain suffered. He escaped death only by <mark>hiding</mark>, and was later forgiven.",
+       "as": "সকলোৱে মানে যে বৰগোহাঁইয়েই ভুগিছিল। <mark>লুকাই</mark> থাকিহে তেওঁ প্ৰাণ বচাইছিল, পিছত ক্ষমা পাইছিল।"
+      }
+     ],
+     "id": "skr.u2.01",
+     "art": "scroll"
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "Some say I started Chao Pulai's plot.",
+       "as": "কোনোৱে কয় মই চাও পুলাইৰ ষড়যন্ত্ৰ আৰম্ভ কৰিছিলোঁ।"
+      },
+      {
+       "en": "I hid to escape death.",
+       "as": "মৃত্যু এৰাবলৈ মই লুকাইছিলোঁ।"
+      },
+      {
+       "en": "I was forgiven later.",
+       "as": "পিছত মোক ক্ষমা কৰা হৈছিল।"
+      }
+     ],
+     "options": [
+      {
+       "en": "The Borgohain",
+       "as": "বৰগোহাঁই"
+      },
+      {
+       "en": "The Burhagohain",
+       "as": "বুঢ়াগোহাঁই"
+      },
+      {
+       "en": "Chao Pulai",
+       "as": "চাও পুলাই"
+      },
+      {
+       "en": "The Kamata king",
+       "as": "কামতা ৰজা"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "The Borgohain.",
+      "as": "বৰগোহাঁই।"
+     },
+     "id": "skr3.u3.01"
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "No king",
+      "as": "ৰজা নাই"
+     },
+     "text": [
+      {
+       "en": "Sukhrangphaa died in <mark>1364</mark>, after a reign of 32 years.",
+       "as": "৩২ বছৰ ৰাজত্বৰ পিছত <mark>১৩৬৪</mark> চনত চুখ্ৰাংফাৰ মৃত্যু হয়।"
+      },
+      {
+       "en": "Modern historians think the throne then stayed empty until <mark>1369</mark>. A gap with no king is called an [[interregnum]].",
+       "as": "আধুনিক ইতিহাসবিদৰ মতে তাৰ পিছত <mark>১৩৬৯</mark> লৈকে সিংহাসন খালী আছিল। ৰজা নথকা এনে সময়ক [[interregnum]] বোলে।"
+      }
+     ],
+     "id": "skr.u2.03",
+     "img": "empty-throne.webp"
+    },
+    {
+     "type": "unscramble",
+     "q": {
+      "en": "Unscramble the word for a time with no king.",
+      "as": "ৰজা নথকা সময়ৰ শব্দটো সজাই লিখা।"
+     },
+     "word": {
+      "en": [
+       "I",
+       "N",
+       "T",
+       "E",
+       "R",
+       "R",
+       "E",
+       "G",
+       "N",
+       "U",
+       "M"
+      ],
+      "as": [
+       "ৰাজ",
+       "শূন্য",
+       "কাল"
+      ]
+     },
+     "answerText": {
+      "en": "INTERREGNUM",
+      "as": "ৰাজশূন্যকাল"
+     },
+     "why": {
+      "en": "Interregnum: 'between reigns'.",
+      "as": "ৰাজশূন্য কাল।"
+     },
+     "id": "skr3.u3.02"
+    },
+    {
+     "type": "picture",
+     "q": {
+      "en": "Which picture shows the empty throne?",
+      "as": "কোনখন ছবিত খালী সিংহাসন দেখুওৱা হৈছে?"
+     },
+     "options": [
+      "empty-throne.webp",
+      "kamata-envoys.webp",
+      "reconciliation.webp",
+      "sukhrangphaa-portrait.webp"
+     ],
+     "answer": 0,
+     "answerText": {
+      "en": "The empty throne",
+      "as": "খালী সিংহাসন"
+     },
+     "why": {
+      "en": "After his death in 1364 there was no king until 1369.",
+      "as": "১৩৬৪ চনত তেওঁৰ মৃত্যুৰ পিছত ১৩৬৯ লৈকে ৰজা নাছিল।"
+     },
+     "id": "skr3.u3.03"
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1332",
+       "l": {
+        "en": "Sukhrangphaa becomes king",
+        "as": "চুখ্ৰাংফা ৰজা হয়"
+       }
+      },
+      {
+       "y": "1364",
+       "l": {
+        "en": "Sukhrangphaa dies",
+        "as": "চুখ্ৰাংফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Kamata war under Sukhaangphaa",
+        "as": "চুখাংফাৰ দিনৰ কামতা যুদ্ধ"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "Chao Pulai's plot",
+        "as": "চাও পুলাইৰ ষড়যন্ত্ৰ"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "No king until 1369",
+        "as": "১৩৬৯ লৈকে ৰজা নাই"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "The Kamata war came first, Chao Pulai's plot during this reign, and the empty throne after 1364.",
+      "as": "কামতা যুদ্ধ আগতে, চাও পুলাইৰ ষড়যন্ত্ৰ এই ৰাজত্বকালত, আৰু ১৩৬৪ৰ পিছত খালী সিংহাসন।"
+     },
+     "id": "skr.u2.06"
+    },
+    {
+     "type": "spot",
+     "q": {
+      "en": "One word in this sentence is wrong. Tap it.",
+      "as": "এই বাক্যটোৰ এটা শব্দ ভুল। সেইটো টিপা।"
+     },
+     "tokens": {
+      "en": [
+       "Sukhrangphaa",
+       "ruled",
+       "for",
+       "39",
+       "years",
+       "and",
+       "died",
+       "in",
+       "1364."
+      ],
+      "as": [
+       "চুখ্ৰাংফাই",
+       "৩৯",
+       "বছৰ",
+       "ৰাজত্ব",
+       "কৰি",
+       "১৩৬৪",
+       "চনত",
+       "মৃত্যুবৰণ",
+       "কৰে।"
+      ]
+     },
+     "wrong": {
+      "en": 3,
+      "as": 1
+     },
+     "fix": {
+      "en": "→ 32",
+      "as": "→ ৩২"
+     },
+     "answerText": {
+      "en": "39 → 32",
+      "as": "৩৯ → ৩২"
+     },
+     "why": {
+      "en": "He ruled for 32 years (1332–1364). It was his father Sukhaangphaa who ruled for 39.",
+      "as": "তেওঁ ৩২ বছৰ ৰাজত্ব কৰিছিল (১৩৩২–১৩৬৪)। ৩৯ বছৰ ৰাজত্ব কৰিছিল তেওঁৰ পিতৃ চুখাংফাই।"
+     },
+     "id": "skr.u2.07"
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "I was Sukhrangphaa's brother.",
+       "as": "মই চুখ্ৰাংফাৰ ভাই।"
+      },
+      {
+       "en": "I became king after the empty years, in 1369.",
+       "as": "খালী বছৰবোৰৰ পিছত ১৩৬৯ চনত মই ৰজা হৈছিলোঁ।"
+      },
+      {
+       "en": "The Chutia king killed me on the Safrai.",
+       "as": "চুতীয়া ৰজাই মোক চাফ্ৰাইত হত্যা কৰিছিল।"
+      }
+     ],
+     "options": [
+      {
+       "en": "Sutuphaa",
+       "as": "চুতুফা"
+      },
+      {
+       "en": "Tyao Khamti",
+       "as": "ত্যাও খামতি"
+      },
+      {
+       "en": "Chao Pulai",
+       "as": "চাও পুলাই"
+      },
+      {
+       "en": "Sudangphaa",
+       "as": "চুদাংফা"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "Sutuphaa (1369–1376).",
+      "as": "চুতুফা (১৩৬৯–১৩৭৬)।"
+     },
+     "id": "skr2.u3.08"
+    },
+    {
+     "type": "story",
+     "id": "skr.next",
+     "title": {
+      "en": "An empty throne",
+      "as": "খালী সিংহাসন"
+     },
+     "art": "scroll",
+     "text": [
+      {
+       "en": "Mystery solved: the army was <mark>Kamata's</mark>, and the king chose peace because he could not trust his troops.",
+       "as": "ৰহস্যৰ সমাধান: সৈন্য আছিল <mark>কমতাৰ</mark>, আৰু নিজৰ সৈন্যক বিশ্বাস কৰিব নোৱাৰি ৰজাই শান্তি বাছিলে।"
+      },
+      {
+       "en": "When he died, the throne stood empty. The next king would accept a friendly invitation to a boat race...",
+       "as": "তেওঁৰ মৃত্যুৰ পিছত সিংহাসন খালী থাকিল। পিছৰ ৰজাই নাওখেলৰ এটা বন্ধুত্বপূৰ্ণ নিমন্ত্ৰণ গ্ৰহণ কৰিব..."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "test": {
+  "id": "test",
+  "title": {
+   "en": "Lesson test",
+   "as": "পাঠৰ পৰীক্ষা"
+  },
+  "learned": [
+   {
+    "en": "You have completed the reign of Swargadeo Sukhrangphaa",
+    "as": "তুমি স্বৰ্গদেউ চুখ্ৰাংফাৰ ৰাজত্বকাল সম্পূৰ্ণ কৰিলা"
+   }
+  ],
+  "steps": [
+   {
+    "type": "mcq",
+    "q": {
+     "en": "Consider the statements:<br>1. Sukhrangphaa made Chao Pulai the Charing Raja.<br>2. Chao Pulai fled to the Chutia king for help.<br>Which is/are correct?",
+     "as": "উক্তিবোৰ বিবেচনা কৰা:<br>১. চুখ্ৰাংফাই চাও পুলাইক চাৰিং ৰজা পাতিছিল।<br>২. চাও পুলাই সহায়ৰ বাবে চুতীয়া ৰজাৰ ওচৰলৈ পলাইছিল।<br>কোনটো/কোনবোৰ শুদ্ধ?"
+    },
+    "options": [
+     {
+      "en": "1 only",
+      "as": "কেৱল ১"
+     },
+     {
+      "en": "2 only",
+      "as": "কেৱল ২"
+     },
+     {
+      "en": "Both 1 and 2",
+      "as": "১ আৰু ২ দুয়োটা"
+     },
+     {
+      "en": "Neither 1 nor 2",
+      "as": "১ বা ২ কোনোটো নহয়"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Only 1. Chao Pulai fled to the king of Kamata, his kinsman.",
+     "as": "কেৱল ১। চাও পুলাই আত্মীয় কামতা ৰজাৰ ওচৰলৈ পলাইছিল।"
+    },
+    "id": "skr.test.01",
+    "small": true
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "Chao Pulai was my kinsman.",
+      "as": "চাও পুলাই মোৰ আত্মীয়।"
+     },
+     {
+      "en": "I marched east to Athgaon and Charing.",
+      "as": "মই পূবলৈ আঠগাঁও আৰু চাৰিঙলৈ আহিছিলোঁ।"
+     },
+     {
+      "en": "My kingdom lay near Cooch Behar.",
+      "as": "মোৰ ৰাজ্য কোচবিহাৰৰ ওচৰত।"
+     }
+    ],
+    "options": [
+     {
+      "en": "The king of Kamata",
+      "as": "কামতা ৰজা"
+     },
+     {
+      "en": "The Chutia king",
+      "as": "চুতীয়া ৰজা"
+     },
+     {
+      "en": "The king of Mungkang",
+      "as": "মুংকাঙৰ ৰজা"
+     },
+     {
+      "en": "The Kachari king",
+      "as": "কছাৰী ৰজা"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "The king of Kamata.",
+     "as": "কামতা ৰজা।"
+    },
+    "id": "skr3.test.01"
+   },
+   {
+    "type": "tf",
+    "s": {
+     "en": "Sukhrangphaa and Chao Pulai made peace without a battle.",
+     "as": "চুখ্ৰাংফা আৰু চাও পুলাইৰ মাজত যুদ্ধ নোহোৱাকৈ মিলন হৈছিল।"
+    },
+    "answer": true,
+    "why": {
+     "en": "True. Sukhrangphaa negotiated because he doubted his troops' loyalty.",
+     "as": "শুদ্ধ। সৈন্যৰ আনুগত্যত সন্দেহ থকাত চুখ্ৰাংফাই আলোচনা কৰিছিল।"
+    },
+    "id": "skr.test.03"
+   },
+   {
+    "type": "timeline",
+    "q": {
+     "en": "Place each event on the timeline.",
+     "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+    },
+    "anchors": [
+     {
+      "y": "1364",
+      "l": {
+       "en": "Sukhrangphaa dies",
+       "as": "চুখ্ৰাংফাৰ মৃত্যু"
+      }
+     },
+     {
+      "y": "1376",
+      "l": {
+       "en": "Sutuphaa killed",
+       "as": "চুতুফা নিহত"
+      }
+     }
+    ],
+    "items": [
+     {
+      "t": {
+       "en": "Chao Pulai's plot",
+       "as": "চাও পুলাইৰ ষড়যন্ত্ৰ"
+      },
+      "slot": 0
+     },
+     {
+      "t": {
+       "en": "Sutuphaa becomes king (1369)",
+       "as": "চুতুফা ৰজা হয় (১৩৬৯)"
+      },
+      "slot": 1
+     },
+     {
+      "t": {
+       "en": "Tyao Khamti becomes king",
+       "as": "ত্যাও খামতি ৰজা হয়"
+      },
+      "slot": 2
+     }
+    ],
+    "why": {
+     "en": "Plot (before 1364) → 1364 → 1369 → 1376 → 1380.",
+     "as": "ষড়যন্ত্ৰ (১৩৬৪ৰ আগত) → ১৩৬৪ → ১৩৬৯ → ১৩৭৬ → ১৩৮০।"
+    },
+    "id": "skr3.test.02"
+   },
+   {
+    "type": "odd",
+    "q": {
+     "en": "Which one is NOT connected with Chao Pulai?",
+     "as": "কোনটো চাও পুলাইৰ সৈতে জড়িত নহয়?"
+    },
+    "options": [
+     {
+      "en": "Charing Raja",
+      "as": "চাৰিং ৰজা"
+     },
+     {
+      "en": "Kamata",
+      "as": "কামতা"
+     },
+     {
+      "en": "A plot",
+      "as": "ষড়যন্ত্ৰ"
+     },
+     {
+      "en": "The Patkai treaty",
+      "as": "পাটকাই সন্ধি"
+     }
+    ],
+    "answer": 3,
+    "why": {
+     "en": "The Patkai treaty came in 1401, under Sudangphaa.",
+     "as": "পাটকাই সন্ধি হৈছিল ১৪০১ চনত, চুদাংফাৰ দিনত।"
+    },
+    "id": "skr.test.05"
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "I was the fifth Ahom king.",
+      "as": "মই পঞ্চম আহোম ৰজা।"
+     },
+     {
+      "en": "My half-brother plotted against me.",
+      "as": "মোৰ বৈমাত্ৰেয় ভাইয়ে মোৰ বিৰুদ্ধে ষড়যন্ত্ৰ কৰিছিল।"
+     },
+     {
+      "en": "After my death the throne stayed empty.",
+      "as": "মোৰ মৃত্যুৰ পিছত সিংহাসন খালী আছিল।"
+     }
+    ],
+    "options": [
+     {
+      "en": "Sukhrangphaa",
+      "as": "চুখ্ৰাংফা"
+     },
+     {
+      "en": "Sukhaangphaa",
+      "as": "চুখাংফা"
+     },
+     {
+      "en": "Sutuphaa",
+      "as": "চুতুফা"
+     },
+     {
+      "en": "Tyao Khamti",
+      "as": "ত্যাও খামতি"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Sukhrangphaa (1332–1364).",
+     "as": "চুখ্ৰাংফা (১৩৩২–১৩৬৪)।"
+    },
+    "id": "skr2.test.06"
+   },
+   {
+    "type": "spot",
+    "q": {
+     "en": "One word in this sentence is wrong. Tap it.",
+     "as": "এই বাক্যটোৰ এটা শব্দ ভুল। সেইটো টিপা।"
+    },
+    "tokens": {
+     "en": [
+      "Sukhrangphaa",
+      "ruled",
+      "for",
+      "13",
+      "years."
+     ],
+     "as": [
+      "চুখ্ৰাংফাই",
+      "১৩",
+      "বছৰ",
+      "ৰাজত্ব",
+      "কৰিছিল।"
+     ]
+    },
+    "wrong": {
+     "en": 3,
+     "as": 1
+    },
+    "fix": {
+     "en": "→ 32",
+     "as": "→ ৩২"
+    },
+    "answerText": {
+     "en": "13 → 32",
+     "as": "১৩ → ৩২"
+    },
+    "why": {
+     "en": "32 years, 1332–1364.",
+     "as": "৩২ বছৰ, ১৩৩২–১৩৬৪।"
+    },
+    "id": "skr3.test.03"
+   },
+   {
+    "type": "map",
+    "q": {
+     "en": "Tap the kingdom that sent an army for Chao Pulai.",
+     "as": "চাও পুলাইৰ বাবে সৈন্য পঠোৱা ৰাজ্যখন টিপা।"
+    },
+    "target": "kamata",
+    "choices": [
+     "kamata",
+     "sadiya",
+     "charaideo"
+    ],
+    "answerText": {
+     "en": "Kamata",
+     "as": "কামতা"
+    },
+    "why": {
+     "en": "Kamata, far to the west.",
+     "as": "পশ্চিমৰ দূৰৈৰ কামতা।"
+    },
+    "id": "skr2.test.08"
+   }
+  ]
+ }
+}

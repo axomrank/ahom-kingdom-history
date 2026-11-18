@@ -1,0 +1,1228 @@
+{
+ "id": "supimphaa",
+ "no": 13,
+ "version": 3,
+ "king": {
+  "en": "Swargadeo Supimphaa",
+  "as": "স্বৰ্গদেউ চুপিম্ফা"
+ },
+ "reign": {
+  "en": "Reign 1493–1497",
+  "as": "ৰাজত্বকাল ১৪৯৩–১৪৯৭"
+ },
+ "portrait": "supimphaa-portrait.webp",
+ "sources": [
+  {
+   "title": "E. A. Gait, A History of Assam (1906), pp. 83, 86–87",
+   "url": "https://archive.org/details/historyofassam00gait",
+   "used_for": "Hunt for Suhenphaa's murderers, Burha Gohain's revolt, the wife sent to the Naga chief, death or assassination in 1497, Suhungmung's Hindu name Swarga Narayan; Senglung made the first Barpatra Gohain"
+  },
+  {
+   "title": "Supimphaa",
+   "url": "https://en.wikipedia.org/wiki/Supimphaa",
+   "used_for": "Senglung, later known as Konseng (Kancheng)"
+  }
+ ],
+ "review_notes": "Gait calls Supimphaa's son Senglung; he is better known as Konseng. The year 1527 for the Borpatrogohain comes from Lesson 1. Rebuilt 2026-10-23 (version 2): published steps kept with their ids; new units add context and exam practice, nothing beyond Gait (1906) and the cited articles. Exercise mix upgraded 2026-10-23: plain MCQ and fill-the-year questions replaced with game-like types.",
+ "buildsOn": {
+  "no": 12,
+  "title": {
+   "en": "Suhenphaa",
+   "as": "চুহেনফা"
+  },
+  "id": "suhenphaa"
+ },
+ "guide": {
+  "timeline": [
+   {
+    "y": "1493",
+    "t": {
+     "en": "Becomes the thirteenth Ahom king",
+     "as": "ত্ৰয়োদশ আহোম ৰজা হয়"
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Punishes his father's murderers; the Burhagohain revolts",
+     "as": "পিতৃৰ হত্যাকাৰীক শাস্তি; বুঢ়াগোহাঁইৰ বিদ্ৰোহ"
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "A pregnant wife sent to a Naga village; Konseng born",
+     "as": "সন্তানসম্ভৱা পত্নীক নগা গাঁৱলৈ পঠিওৱা হয়; কনচেঙৰ জন্ম"
+    }
+   },
+   {
+    "y": "1497",
+    "t": {
+     "en": "Dies (or is killed); Suhungmung succeeds",
+     "as": "মৃত্যু (বা হত্যা); চুহুংমুং ৰজা"
+    }
+   }
+  ]
+ },
+ "map": {
+  "box": [
+   94.2,
+   26.45,
+   95.35,
+   27.3
+  ],
+  "show": [
+   "brahmaputra",
+   "dikhou",
+   "disang",
+   "dihing",
+   "charaideo",
+   "sivasagar"
+  ],
+  "routes": [],
+  "texts": [],
+  "labels": {
+   "sivasagar": {
+    "t": {
+     "en": "Sivasagar (today)",
+     "as": "শিৱসাগৰ (আজি)"
+    },
+    "pos": "w"
+   },
+   "charaideo": {
+    "pos": "ne"
+   },
+   "dikhou": {
+    "at": [
+     26.8,
+     94.79
+    ],
+    "pos": "e"
+   },
+   "disang": {
+    "at": [
+     27.1,
+     95.2
+    ],
+    "pos": "s"
+   },
+   "dihing": {
+    "at": [
+     27.25,
+     95.0
+    ],
+    "pos": "s"
+   },
+   "brahmaputra": {
+    "at": [
+     27.12,
+     94.42
+    ],
+    "pos": "n"
+   }
+  }
+ },
+ "units": [
+  {
+   "id": "u1",
+   "icon": "crown",
+   "title": {
+    "en": "Justice for a father",
+    "as": "পিতৃৰ বাবে ন্যায়"
+   },
+   "learned": [
+    {
+     "en": "Supimphaa, son of Suhenphaa, ruled 1493–1497",
+     "as": "চুহেনফাৰ পুত্ৰ চুপিম্ফাই ১৪৯৩–১৪৯৭ লৈকে ৰাজত্ব কৰে"
+    },
+    {
+     "en": "He hunted down and punished his father's murderers",
+     "as": "তেওঁ পিতৃৰ হত্যাকাৰীক বিচাৰি শাস্তি দিলে"
+    },
+    {
+     "en": "The Burhagohain, under suspicion, revolted",
+     "as": "সন্দেহৰ পাত্ৰ বুঢ়াগোহাঁইয়ে বিদ্ৰোহ কৰিলে"
+    },
+    {
+     "en": "His reign lasted only four years",
+     "as": "তেওঁৰ ৰাজত্ব মাত্ৰ চাৰি বছৰ"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "id": "spm.hook",
+     "title": {
+      "en": "A careless compliment",
+      "as": "অসাৱধান প্ৰশংসা"
+     },
+     "img": "queen-nagas.webp",
+     "text": [
+      {
+       "en": "A queen praised a visitor's good looks within the king's hearing. The angry king sent her to live in a Naga village.",
+       "as": "এগৰাকী ৰাণীয়ে ৰজাই শুনাকৈ এজন অতিথিৰ ৰূপৰ প্ৰশংসা কৰিলে। খঙত ৰজাই তেওঁক নগা গাঁৱত থাকিবলৈ পঠালে।"
+      },
+      {
+       "en": "That angry moment would one day give the kingdom a new great minister. How?",
+       "as": "সেই খঙৰ মুহূৰ্তই এদিন ৰাজ্যক এজন নতুন প্ৰধান মন্ত্ৰী দিব। কেনেকৈ?"
+      }
+     ]
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The thirteenth king",
+      "as": "ত্ৰয়োদশ ৰজা"
+     },
+     "text": [
+      {
+       "en": "[[supimphaa]], son of Suhenphaa, became king in <mark>1493</mark>.",
+       "as": "চুহেনফাৰ পুত্ৰ [[supimphaa]] <mark>১৪৯৩</mark> চনত ৰজা হয়।"
+      },
+      {
+       "en": "At once he set out to find and <mark>punish</mark> his father's murderers.",
+       "as": "লগে লগে তেওঁ পিতৃৰ হত্যাকাৰীক বিচাৰি উলিয়াই <mark>শাস্তি</mark> দিবলৈ ওলাল।"
+      }
+     ],
+     "id": "spm.u1.01",
+     "img": "tribunal.webp",
+     "link": {
+      "lesson": 12,
+      "lessonId": "suhenphaa",
+      "unitNo": 3,
+      "unitTitle": {
+       "en": "Murder in the palace",
+       "as": "ৰাজপ্ৰসাদত হত্যা"
+      },
+      "note": {
+       "en": "Suhenphaa was stabbed to death in his palace in 1493.",
+       "as": "১৪৯৩ চনত চুহেনফাক ৰাজকাৰেঙত খোচি হত্যা কৰা হৈছিল।"
+      }
+     }
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The Burhagohain revolts",
+      "as": "বুঢ়াগোহাঁইৰ বিদ্ৰোহ"
+     },
+     "text": [
+      {
+       "en": "The search led to a <mark>revolt</mark> by the [[burhagohain]].",
+       "as": "এই অনুসন্ধানৰ ফলত [[burhagohain]]য়ে <mark>বিদ্ৰোহ</mark> কৰিলে।"
+      },
+      {
+       "en": "He seems to have been suspected of a part in the murder.",
+       "as": "হত্যাকাণ্ডত তেওঁৰ হাত থকা বুলি সন্দেহ কৰা হৈছিল যেন লাগে।"
+      }
+     ],
+     "id": "spm.u1.02",
+     "art": "scroll"
+    },
+    {
+     "type": "picture",
+     "q": {
+      "en": "Which picture shows Supimphaa's first act as king?",
+      "as": "কোনখন ছবিত ৰজা হিচাপে চুপিম্ফাৰ প্ৰথম কাম দেখুওৱা হৈছে?"
+     },
+     "options": [
+      "tribunal.webp",
+      "queen-nagas.webp",
+      "naga-village-son.webp",
+      "supimphaa-portrait.webp"
+     ],
+     "answer": 0,
+     "answerText": {
+      "en": "The tribunal",
+      "as": "বিচাৰসভা"
+     },
+     "why": {
+      "en": "He traced and punished his father's murderers.",
+      "as": "তেওঁ পিতৃৰ হত্যাকাৰীক বিচাৰি শাস্তি দিছিল।"
+     },
+     "id": "spm3.u1.01"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "The Burhagohain was suspected of a part in Suhenphaa's murder.",
+      "as": "চুহেনফাৰ হত্যাত বুঢ়াগোহাঁইৰ হাত থকা বুলি সন্দেহ কৰা হৈছিল।"
+     },
+     "answer": true,
+     "why": {
+      "en": "True. The suspicion led to his revolt.",
+      "as": "শুদ্ধ। এই সন্দেহৰ ফলতে তেওঁ বিদ্ৰোহ কৰিছিল।"
+     },
+     "id": "spm.u1.04"
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1488",
+       "l": {
+        "en": "Suhenphaa becomes king",
+        "as": "চুহেনফা ৰজা হয়"
+       }
+      },
+      {
+       "y": "1497",
+       "l": {
+        "en": "Supimphaa dies",
+        "as": "চুপিম্ফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Susenphaa rules",
+        "as": "চুচেনফাৰ ৰাজত্ব"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "Supimphaa becomes king",
+        "as": "চুপিম্ফা ৰজা হয়"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Suhungmung becomes king",
+        "as": "চুহুংমুং ৰজা হয়"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "1439–1488 → 1488 → 1493 → 1497 → 1497.",
+      "as": "১৪৩৯–১৪৮৮ → ১৪৮৮ → ১৪৯৩ → ১৪৯৭ → ১৪৯৭।"
+     },
+     "id": "spm3.u1.02"
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "I was the son of Suhenphaa.",
+       "as": "মই চুহেনফাৰ পুত্ৰ।"
+      },
+      {
+       "en": "I punished my father's killers.",
+       "as": "মই পিতৃৰ হত্যাকাৰীক শাস্তি দিছিলোঁ।"
+      },
+      {
+       "en": "My son Suhungmung became a great king.",
+       "as": "মোৰ পুত্ৰ চুহুংমুং মহান ৰজা হৈছিল।"
+      }
+     ],
+     "options": [
+      {
+       "en": "Supimphaa",
+       "as": "চুপিম্ফা"
+      },
+      {
+       "en": "Suhenphaa",
+       "as": "চুহেনফা"
+      },
+      {
+       "en": "Susenphaa",
+       "as": "চুচেনফা"
+      },
+      {
+       "en": "Suklenmung",
+       "as": "চুক্লেনমুং"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "Supimphaa (1493–1497).",
+      "as": "চুপিম্ফা (১৪৯৩–১৪৯৭)।"
+     },
+     "id": "spm2.u1.06"
+    },
+    {
+     "type": "picture",
+     "q": {
+      "en": "Which picture shows Supimphaa judging his father's killers?",
+      "as": "কোনখন ছবিত চুপিম্ফাই পিতৃৰ হত্যাকাৰীৰ বিচাৰ কৰা দেখুওৱা হৈছে?"
+     },
+     "options": [
+      "tribunal.webp",
+      "queen-nagas.webp",
+      "naga-village-son.webp",
+      "supimphaa-portrait.webp"
+     ],
+     "answer": 0,
+     "answerText": {
+      "en": "The tribunal",
+      "as": "বিচাৰসভা"
+     },
+     "why": {
+      "en": "The king's inquiry into the murder.",
+      "as": "হত্যাৰ বিষয়ে ৰজাৰ তদন্ত।"
+     },
+     "id": "spm2.u1.07"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Supimphaa ruled for about forty years.",
+      "as": "চুপিম্ফাই প্ৰায় চল্লিশ বছৰ ৰাজত্ব কৰিছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False: four years, 1493–1497.",
+      "as": "অশুদ্ধ: চাৰি বছৰ, ১৪৯৩–১৪৯৭।"
+     },
+     "id": "spm2.u1.08"
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "icon": "hands",
+   "title": {
+    "en": "The son among the Nagas",
+    "as": "নগাৰ মাজত পুত্ৰ"
+   },
+   "learned": [
+    {
+     "en": "A wife praised a Naga chief, and the king sent her to his village",
+     "as": "এগৰাকী পত্নীয়ে নগা মুখিয়াৰ প্ৰশংসা কৰাত ৰজাই তেওঁক তাৰ গাঁৱলৈ পঠালে"
+    },
+    {
+     "en": "She was pregnant; her son Senglung, later Konseng, grew up there",
+     "as": "তেওঁ গৰ্ভৱতী আছিল; পুত্ৰ চেংলুং, পিছৰ কনচেং, তাতে ডাঙৰ হ'ল"
+    },
+    {
+     "en": "Under Suhungmung, Konseng became the first Borpatrogohain",
+     "as": "চুহুংমুঙৰ দিনত কনচেং প্ৰথম বৰপাত্ৰগোহাঁই হ'ল"
+    },
+    {
+     "en": "Supimphaa died, or was killed, in 1497",
+     "as": "১৪৯৭ চনত চুপিম্ফাৰ মৃত্যু বা হত্যা"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "title": {
+      "en": "A careless word",
+      "as": "অসাৱধান কথা"
+     },
+     "text": [
+      {
+       "en": "A Naga chief came to pay tribute. One of Supimphaa's wives saw him and <mark>praised his good looks</mark> in the king's hearing.",
+       "as": "এজন নগা মুখিয়াল কৰ দিবলৈ আহিছিল। চুপিম্ফাৰ এগৰাকী পত্নীয়ে তেওঁক দেখি ৰজাৰ শুনাকৈ <mark>তেওঁৰ ৰূপৰ প্ৰশংসা</mark> কৰিলে।"
+      },
+      {
+       "en": "The angry king sent her away to the Naga chief's village.",
+       "as": "খঙত ৰজাই তাইক নগা মুখিয়ালৰ গাঁৱলৈ পঠিয়াই দিলে।"
+      }
+     ],
+     "id": "spm.u2.01",
+     "img": "queen-nagas.webp"
+    },
+    {
+     "type": "mcq",
+     "guess": true,
+     "id": "spm.g1",
+     "q": {
+      "en": "The queen was already pregnant when she was sent away. What do you think became of her child?",
+      "as": "পঠিওৱাৰ সময়ত ৰাণী গৰ্ভৱতী আছিল। তোমাৰ অনুমানত তেওঁৰ সন্তানৰ কি হ'ল?"
+     },
+     "options": [
+      {
+       "en": "He died young",
+       "as": "সৰুতে মৃত্যু"
+      },
+      {
+       "en": "He became a great minister",
+       "as": "প্ৰধান মন্ত্ৰী হ'ল"
+      },
+      {
+       "en": "He became a Naga chief",
+       "as": "নগা মুখীয়াল হ'ল"
+      },
+      {
+       "en": "He became king",
+       "as": "ৰজা হ'ল"
+      }
+     ],
+     "answer": 1,
+     "why": {
+      "en": "Her son Konseng became the first Borpatrogohain.",
+      "as": "তেওঁৰ পুত্ৰ কনচেং প্ৰথম বৰপাত্ৰগোহাঁই হ'ল।"
+     }
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "A son among the Nagas",
+      "as": "নগাৰ মাজত পুত্ৰ"
+     },
+     "text": [
+      {
+       "en": "She was already <mark>pregnant</mark>. In the Naga village she gave birth to a son, Senglung, later known as [[konseng]].",
+       "as": "তাই আগৰে পৰা <mark>সন্তানসম্ভৱা</mark> আছিল। নগা গাঁৱত তাই এটি পুত্ৰ, চেংলুঙক জন্ম দিলে, যাক পিছত [[konseng]] বুলি জনা গ'ল।"
+      }
+     ],
+     "id": "spm.u2.02",
+     "img": "naga-village-son.webp"
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "A new great office",
+      "as": "এটা নতুন ডাঙৰ পদ"
+     },
+     "text": [
+      {
+       "en": "The next king, [[suhungmung]], was struck by the youth's noble looks and took him into favour.",
+       "as": "পৰৱৰ্তী ৰজা [[suhungmung]] ডেকাজনৰ অভিজাত চেহেৰা দেখি মুগ্ধ হ'ল আৰু তেওঁক অনুগ্ৰহ কৰিলে।"
+      },
+      {
+       "en": "He made Konseng the first [[borpatrogohain]], a new office equal to the Burhagohain and the Borgohain.",
+       "as": "তেওঁ কনচেঙক প্ৰথম [[borpatrogohain]] পাতিলে, যি নতুন পদ বুঢ়াগোহাঁই আৰু বৰগোহাঁইৰ সমান।"
+      }
+     ],
+     "id": "spm.u2.03",
+     "art": "scroll",
+     "link": {
+      "lesson": 1,
+      "lessonId": "sukaphaa",
+      "unitNo": 4,
+      "unitTitle": {
+       "en": "Running the kingdom",
+       "as": "ৰাজ্য পৰিচালনা"
+      },
+      "note": {
+       "en": "Sukaphaa's two great offices became three when the Borpatrogohain was added in 1527.",
+       "as": "১৫২৭ চনত বৰপাত্ৰগোহাঁই যোগ হোৱাত চুকাফাৰ দুটা প্ৰধান পদ তিনিটা হ'ল।"
+      }
+     }
+    },
+    {
+     "type": "unscramble",
+     "q": {
+      "en": "Unscramble the name of the son born among the Nagas.",
+      "as": "নগাৰ মাজত জন্ম হোৱা পুত্ৰৰ নামটো সজাই লিখা।"
+     },
+     "word": {
+      "en": [
+       "K",
+       "O",
+       "N",
+       "S",
+       "E",
+       "N",
+       "G"
+      ],
+      "as": [
+       "কন",
+       "চেং"
+      ]
+     },
+     "answerText": {
+      "en": "KONSENG",
+      "as": "কনচেং"
+     },
+     "why": {
+      "en": "Konseng, the first Borpatrogohain.",
+      "as": "কনচেং, প্ৰথম বৰপাত্ৰগোহাঁই।"
+     },
+     "id": "spm3.u2.01"
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The end of an era",
+      "as": "এক যুগৰ অন্ত"
+     },
+     "text": [
+      {
+       "en": "Supimphaa died in <mark>1497</mark>. Some say he was assassinated.",
+       "as": "<mark>১৪৯৭</mark> চনত চুপিম্ফাৰ মৃত্যু হয়। কিছুমানৰ মতে তেওঁক হত্যা কৰা হৈছিল।"
+      },
+      {
+       "en": "His son Suhungmung became king and also took a Hindu name, <mark>Swarganarayan</mark>. A great age of expansion was about to begin.",
+       "as": "তেওঁৰ পুত্ৰ চুহুংমুং ৰজা হ'ল আৰু এটা হিন্দু নামো ল'লে, <mark>স্বৰ্গনাৰায়ণ</mark>। সম্প্ৰসাৰণৰ এক মহান যুগ আৰম্ভ হ'বলৈ ওলাইছিল।"
+      }
+     ],
+     "id": "spm.u2.05",
+     "art": "calendar"
+    },
+    {
+     "type": "order",
+     "q": {
+      "en": "Put the events in order.",
+      "as": "ঘটনাবোৰ ক্ৰম অনুসৰি সজোৱা।"
+     },
+     "items": [
+      {
+       "en": "A wife praises a Naga chief",
+       "as": "পত্নীয়ে নগা মুখিয়ালৰ প্ৰশংসা কৰে"
+      },
+      {
+       "en": "She is sent to the Naga village",
+       "as": "তাইক নগা গাঁৱলৈ পঠিওৱা হয়"
+      },
+      {
+       "en": "Konseng is born",
+       "as": "কনচেঙৰ জন্ম"
+      },
+      {
+       "en": "Konseng becomes the first Borpatrogohain",
+       "as": "কনচেং প্ৰথম বৰপাত্ৰগোহাঁই হয়"
+      }
+     ],
+     "why": {
+      "en": "Praise → exile → birth → a new great office under Suhungmung.",
+      "as": "প্ৰশংসা → নিৰ্বাসন → জন্ম → চুহুংমুঙৰ দিনত নতুন পদ।"
+     },
+     "id": "spm.u2.06"
+    },
+    {
+     "type": "match",
+     "q": {
+      "en": "Tap the matching pairs.",
+      "as": "যোৰাবোৰ মিলোৱা।"
+     },
+     "pairs": [
+      [
+       {
+        "en": "Supimphaa",
+        "as": "চুপিম্ফা"
+       },
+       {
+        "en": "Punished his father's killers",
+        "as": "পিতৃৰ হত্যাকাৰীক শাস্তি"
+       }
+      ],
+      [
+       {
+        "en": "Konseng",
+        "as": "কনচেং"
+       },
+       {
+        "en": "First Borpatrogohain",
+        "as": "প্ৰথম বৰপাত্ৰগোহাঁই"
+       }
+      ],
+      [
+       {
+        "en": "Suhungmung",
+        "as": "চুহুংমুং"
+       },
+       {
+        "en": "Swarganarayan",
+        "as": "স্বৰ্গনাৰায়ণ"
+       }
+      ],
+      [
+       {
+        "en": "Burhagohain",
+        "as": "বুঢ়াগোহাঁই"
+       },
+       {
+        "en": "Suspected; revolted",
+        "as": "সন্দেহ; বিদ্ৰোহ"
+       }
+      ]
+     ],
+     "why": {
+      "en": "The people at the end of the founding era.",
+      "as": "প্ৰতিষ্ঠাকালৰ শেষৰ লোকসকল।"
+     },
+     "id": "spm.u2.07"
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1493",
+       "l": {
+        "en": "Supimphaa becomes king",
+        "as": "চুপিম্ফা ৰজা হয়"
+       }
+      },
+      {
+       "y": "1497",
+       "l": {
+        "en": "Supimphaa dies",
+        "as": "চুপিম্ফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Defeat at Dampuk",
+        "as": "দামপুকত পৰাজয়"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "Konseng born among the Nagas",
+        "as": "নগাৰ মাজত কনচেঙৰ জন্ম"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Suhungmung becomes king",
+        "as": "চুহুংমুং ৰজা হয়"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "Dampuk (1490) → Konseng's birth in Supimphaa's reign → Suhungmung from 1497.",
+      "as": "দামপুক (১৪৯০) → চুপিম্ফাৰ দিনত কনচেঙৰ জন্ম → ১৪৯৭ৰ পৰা চুহুংমুং।"
+     },
+     "id": "spm.u2.08"
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "icon": "star",
+   "title": {
+    "en": "The founding era",
+    "as": "প্ৰতিষ্ঠাকাল"
+   },
+   "learned": [
+    {
+     "en": "Thirteen kings ruled from 1228 to 1497",
+     "as": "১২২৮ৰ পৰা ১৪৯৭ লৈকে তেৰজন ৰজাই ৰাজত্ব কৰিছিল"
+    },
+    {
+     "en": "The kingdom stayed in Upper Assam, between the Patkai and the Dikhou",
+     "as": "ৰাজ্য উজনি অসমত, পাটকাই আৰু দিখৌৰ মাজত আছিল"
+    },
+    {
+     "en": "Three times the nobles ruled without a king",
+     "as": "তিনিবাৰ বিষয়াসকলে ৰজা নোহোৱাকৈ শাসন কৰিছিল"
+    },
+    {
+     "en": "The next king, Suhungmung, began an age of expansion",
+     "as": "পৰৱৰ্তী ৰজা চুহুংমুঙে সম্প্ৰসাৰণৰ যুগ আৰম্ভ কৰিছিল"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "img": "shared/moidams.webp",
+     "title": {
+      "en": "Thirteen kings",
+      "as": "তেৰজন ৰজা"
+     },
+     "text": [
+      {
+       "en": "From Sukaphaa's arrival in 1228 to Supimphaa's death in 1497, <mark>thirteen kings</mark> ruled the Ahoms: the founding era.",
+       "as": "১২২৮ চনত চুকাফাৰ আগমনৰ পৰা ১৪৯৭ চনত চুপিম্ফাৰ মৃত্যুলৈকে <mark>তেৰজন ৰজা</mark>ই আহোমক শাসন কৰিছিল: প্ৰতিষ্ঠাকাল।"
+      },
+      {
+       "en": "The kingdom was still small, in Upper Assam. Its borders: the [[patkai]] in the east (1401) and the [[dikhou]] against the Kacharis.",
+       "as": "ৰাজ্যখন তেতিয়াও সৰু, উজনি অসমত। ইয়াৰ সীমা: পূবত [[patkai]] (১৪০১) আৰু কছাৰীৰ সৈতে [[dikhou]]।"
+      }
+     ],
+     "id": "spm2.u3.01"
+    },
+    {
+     "type": "order",
+     "q": {
+      "en": "Put these founding kings in order.",
+      "as": "প্ৰতিষ্ঠাকালৰ এই ৰজাসকলক ক্ৰমত সজোৱা।"
+     },
+     "items": [
+      {
+       "en": "Sukaphaa",
+       "as": "চুকাফা"
+      },
+      {
+       "en": "Sukhaangphaa",
+       "as": "চুখাংফা"
+      },
+      {
+       "en": "Sudangphaa",
+       "as": "চুদাংফা"
+      },
+      {
+       "en": "Susenphaa",
+       "as": "চুচেনফা"
+      },
+      {
+       "en": "Supimphaa",
+       "as": "চুপিম্ফা"
+      }
+     ],
+     "why": {
+      "en": "1228 → 1293 → 1397 → 1439 → 1493.",
+      "as": "১২২৮ → ১২৯৩ → ১৩৯৭ → ১৪৩৯ → ১৪৯৩।"
+     },
+     "id": "spm2.u3.02"
+    },
+    {
+     "type": "match",
+     "q": {
+      "en": "Tap the matching pairs.",
+      "as": "যোৰাবোৰ মিলোৱা।"
+     },
+     "pairs": [
+      [
+       {
+        "en": "Sukaphaa",
+        "as": "চুকাফা"
+       },
+       {
+        "en": "Founded the kingdom",
+        "as": "ৰাজ্য স্থাপন"
+       }
+      ],
+      [
+       {
+        "en": "Sukhaangphaa",
+        "as": "চুখাংফা"
+       },
+       {
+        "en": "First big war, with Kamata",
+        "as": "কামতাৰ সৈতে প্ৰথম ডাঙৰ যুদ্ধ"
+       }
+      ],
+      [
+       {
+        "en": "Sudangphaa",
+        "as": "চুদাংফা"
+       },
+       {
+        "en": "Patkai treaty, 1401",
+        "as": "পাটকাই সন্ধি, ১৪০১"
+       }
+      ],
+      [
+       {
+        "en": "Susenphaa",
+        "as": "চুচেনফা"
+       },
+       {
+        "en": "Ruled 49 years",
+        "as": "৪৯ বছৰ ৰাজত্ব"
+       }
+      ]
+     ],
+     "why": {
+      "en": "One fact for each of four founding kings.",
+      "as": "প্ৰতিষ্ঠাকালৰ চাৰিজন ৰজাৰ প্ৰত্যেকৰে এটা তথ্য।"
+     },
+     "id": "spm2.u3.03"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Thirteen kings ruled in the founding era (1228–1497).",
+      "as": "প্ৰতিষ্ঠাকালত (১২২৮–১৪৯৭) তেৰজন ৰজাই ৰাজত্ব কৰিছিল।"
+     },
+     "answer": true,
+     "why": {
+      "en": "True: Sukaphaa to Supimphaa.",
+      "as": "শুদ্ধ: চুকাফাৰ পৰা চুপিম্ফালৈ।"
+     },
+     "id": "spm3.u3.01"
+    },
+    {
+     "type": "map",
+     "q": {
+      "en": "Tap the river that was the Kachari border in the founding era.",
+      "as": "প্ৰতিষ্ঠাকালত কছাৰী সীমা হোৱা নদীখন টিপা।"
+     },
+     "target": "dikhou",
+     "choices": [
+      "dikhou",
+      "disang",
+      "dihing"
+     ],
+     "answerText": {
+      "en": "The Dikhou",
+      "as": "দিখৌ"
+     },
+     "why": {
+      "en": "The Dikhou in the west, the Patkai in the east.",
+      "as": "পশ্চিমত দিখৌ, পূবত পাটকাই।"
+     },
+     "id": "spm3.u3.02"
+    },
+    {
+     "type": "story",
+     "art": "embassy",
+     "title": {
+      "en": "What came next",
+      "as": "তাৰ পিছত কি হ'ল"
+     },
+     "text": [
+      {
+       "en": "Supimphaa's son [[suhungmung]] would take the Hindu title Swarganarayan, annex the Chutia kingdom and beat back invaders from Bengal.",
+       "as": "চুপিম্ফাৰ পুত্ৰ [[suhungmung]]এ স্বৰ্গনাৰায়ণ হিন্দু উপাধি ল'ব, চুতীয়া ৰাজ্য অধিকাৰ কৰিব আৰু বংগৰ আক্ৰমণকাৰীক খেদি পঠাব।"
+      },
+      {
+       "en": "The small kingdom of the founders was about to grow.",
+       "as": "প্ৰতিষ্ঠাপকসকলৰ সৰু ৰাজ্যখন বাঢ়িবলৈ ওলাইছিল।"
+      }
+     ],
+     "id": "spm2.u3.06",
+     "link": {
+      "lesson": 14,
+      "lessonId": "suhungmung",
+      "unitNo": 1,
+      "unitTitle": {
+       "en": "The Dihingia Raja",
+       "as": "দিহিঙীয়া ৰজা"
+      },
+      "note": {
+       "en": "Suhungmung, the Dihingia Raja, began the age of expansion in 1497.",
+       "as": "দিহিঙীয়া ৰজা চুহুংমুঙে ১৪৯৭ চনত সম্প্ৰসাৰণৰ যুগ আৰম্ভ কৰিছিল।"
+      }
+     }
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1228",
+       "l": {
+        "en": "Sukaphaa arrives",
+        "as": "চুকাফাৰ আগমন"
+       }
+      },
+      {
+       "y": "1497",
+       "l": {
+        "en": "Supimphaa dies",
+        "as": "চুপিম্ফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Sukaphaa leaves Mong Mao",
+        "as": "চুকাফাই মং মাও এৰে"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "Patkai treaty",
+        "as": "পাটকাই সন্ধি"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Chutia kingdom annexed",
+        "as": "চুতীয়া ৰাজ্য অধিকাৰ"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "1215 → 1228 → 1401 → 1497 → 1523.",
+      "as": "১২১৫ → ১২২৮ → ১৪০১ → ১৪৯৭ → ১৫২৩।"
+     },
+     "id": "spm2.u3.07"
+    },
+    {
+     "type": "story",
+     "id": "spm.next",
+     "title": {
+      "en": "The founders' age ends",
+      "as": "প্ৰতিষ্ঠাৰ যুগৰ অন্ত"
+     },
+     "art": "scroll",
+     "text": [
+      {
+       "en": "Mystery solved: her son <mark>Konseng</mark> became the first Borpatrogohain.",
+       "as": "ৰহস্যৰ সমাধান: তেওঁৰ পুত্ৰ <mark>কনচেং</mark> প্ৰথম বৰপাত্ৰগোহাঁই হ'ল।"
+      },
+      {
+       "en": "The founding era is over. Next comes a king with a Hindu title, firearms, and a kingdom twice the size...",
+       "as": "প্ৰতিষ্ঠাৰ যুগ শেষ। এতিয়া আহিব হিন্দু উপাধি, বন্দুক আৰু দুগুণ ডাঙৰ ৰাজ্যৰ এজন ৰজা..."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "test": {
+  "id": "test",
+  "title": {
+   "en": "Lesson test",
+   "as": "পাঠৰ পৰীক্ষা"
+  },
+  "learned": [
+   {
+    "en": "You have completed the reign of Swargadeo Supimphaa",
+    "as": "তুমি স্বৰ্গদেউ চুপিম্ফাৰ ৰাজত্বকাল সম্পূৰ্ণ কৰিলা"
+   }
+  ],
+  "steps": [
+   {
+    "type": "mcq",
+    "q": {
+     "en": "Consider the statements:<br>1. Supimphaa punished his father's murderers.<br>2. Konseng became the first Burhagohain.<br>Which is/are correct?",
+     "as": "উক্তিবোৰ বিবেচনা কৰা:<br>১. চুপিম্ফাই পিতৃৰ হত্যাকাৰীক শাস্তি দিছিল।<br>২. কনচেং প্ৰথম বুঢ়াগোহাঁই হৈছিল।<br>কোনটো/কোনবোৰ শুদ্ধ?"
+    },
+    "options": [
+     {
+      "en": "1 only",
+      "as": "কেৱল ১"
+     },
+     {
+      "en": "2 only",
+      "as": "কেৱল ২"
+     },
+     {
+      "en": "Both 1 and 2",
+      "as": "১ আৰু ২ দুয়োটা"
+     },
+     {
+      "en": "Neither 1 nor 2",
+      "as": "১ বা ২ কোনোটো নহয়"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Only 1. Konseng became the first Borpatrogohain; the Burhagohain office dates from Sukaphaa.",
+     "as": "কেৱল ১। কনচেং প্ৰথম বৰপাত্ৰগোহাঁইহে হৈছিল; বুঢ়াগোহাঁই পদ চুকাফাৰ দিনৰ।"
+    },
+    "id": "spm.test.01",
+    "small": true
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "I was born in a Naga village.",
+      "as": "মোৰ জন্ম এখন নগা গাঁৱত হৈছিল।"
+     },
+     {
+      "en": "My father was Supimphaa.",
+      "as": "মোৰ পিতৃ আছিল চুপিম্ফা।"
+     },
+     {
+      "en": "I became the first Borpatrogohain.",
+      "as": "মই প্ৰথম বৰপাত্ৰগোহাঁই হৈছিলোঁ।"
+     }
+    ],
+    "options": [
+     {
+      "en": "Konseng",
+      "as": "কনচেং"
+     },
+     {
+      "en": "Chao Pulai",
+      "as": "চাও পুলাই"
+     },
+     {
+      "en": "Sudangphaa",
+      "as": "চুদাংফা"
+     },
+     {
+      "en": "Thao Cheoken",
+      "as": "থাও চেওকেন"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Konseng (Senglung).",
+     "as": "কনচেং (চেংলুং)।"
+    },
+    "id": "spm.test.02"
+   },
+   {
+    "type": "picture",
+    "q": {
+     "en": "Which picture shows Konseng's birth among the Nagas?",
+     "as": "কোনখন ছবিত নগাৰ মাজত কনচেঙৰ জন্ম দেখুওৱা হৈছে?"
+    },
+    "options": [
+     "naga-village-son.webp",
+     "queen-nagas.webp",
+     "tribunal.webp",
+     "shared/moidams.webp"
+    ],
+    "answer": 0,
+    "answerText": {
+     "en": "The Naga village",
+     "as": "নগা গাঁও"
+    },
+    "why": {
+     "en": "Senglung, later Konseng, grew up there.",
+     "as": "চেংলুং, পিছৰ কনচেং, তাতে ডাঙৰ হৈছিল।"
+    },
+    "id": "spm3.test.01"
+   },
+   {
+    "type": "tf",
+    "s": {
+     "en": "Suhungmung also took the Hindu name Swarganarayan.",
+     "as": "চুহুংমুঙে স্বৰ্গনাৰায়ণ নামৰ এটা হিন্দু নামো লৈছিল।"
+    },
+    "answer": true,
+    "why": {
+     "en": "True. It shows the growing Brahmanical influence that began under Sudangphaa.",
+     "as": "শুদ্ধ। ই চুদাংফাৰ দিনত আৰম্ভ হোৱা ব্ৰাহ্মণ্য প্ৰভাৱৰ বৃদ্ধি দেখুৱায়।"
+    },
+    "id": "spm.test.04"
+   },
+   {
+    "type": "order",
+    "q": {
+     "en": "Put the kings in order.",
+     "as": "ৰজাসকলক ক্ৰম অনুসৰি সজোৱা।"
+    },
+    "items": [
+     {
+      "en": "Susenphaa (1439)",
+      "as": "চুচেনফা (১৪৩৯)"
+     },
+     {
+      "en": "Suhenphaa (1488)",
+      "as": "চুহেনফা (১৪৮৮)"
+     },
+     {
+      "en": "Supimphaa (1493)",
+      "as": "চুপিম্ফা (১৪৯৩)"
+     },
+     {
+      "en": "Suhungmung (1497)",
+      "as": "চুহুংমুং (১৪৯৭)"
+     }
+    ],
+    "why": {
+     "en": "Four generations, father to son.",
+     "as": "পিতৃৰ পৰা পুত্ৰলৈ চাৰি পুৰুষ।"
+    },
+    "id": "spm.test.05"
+   },
+   {
+    "type": "spot",
+    "q": {
+     "en": "One word in this sentence is wrong. Tap it.",
+     "as": "এই বাক্যটোৰ এটা শব্দ ভুল। সেইটো টিপা।"
+    },
+    "tokens": {
+     "en": [
+      "Supimphaa",
+      "sent",
+      "his",
+      "pregnant",
+      "wife",
+      "to",
+      "a",
+      "Kachari",
+      "chief's",
+      "village."
+     ],
+     "as": [
+      "চুপিম্ফাই",
+      "সন্তানসম্ভৱা",
+      "পত্নীক",
+      "এজন",
+      "কছাৰী",
+      "মুখিয়ালৰ",
+      "গাঁৱলৈ",
+      "পঠিয়াইছিল।"
+     ]
+    },
+    "wrong": {
+     "en": 7,
+     "as": 4
+    },
+    "fix": {
+     "en": "→ Naga",
+     "as": "→ নগা"
+    },
+    "answerText": {
+     "en": "Kachari → Naga",
+     "as": "কছাৰী → নগা"
+    },
+    "why": {
+     "en": "She was sent to a Naga chief's village.",
+     "as": "তাইক এজন নগা মুখিয়ালৰ গাঁৱলৈ পঠিওৱা হৈছিল।"
+    },
+    "id": "spm.test.06"
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "I was the son of Suhenphaa.",
+      "as": "মই চুহেনফাৰ পুত্ৰ।"
+     },
+     {
+      "en": "I sent a queen to a Naga village.",
+      "as": "মই এগৰাকী ৰাণীক নগা গাঁৱলৈ পঠাইছিলোঁ।"
+     },
+     {
+      "en": "I was the last king of the founding era.",
+      "as": "মই প্ৰতিষ্ঠাকালৰ শেষ ৰজা।"
+     }
+    ],
+    "options": [
+     {
+      "en": "Supimphaa",
+      "as": "চুপিম্ফা"
+     },
+     {
+      "en": "Suhenphaa",
+      "as": "চুহেনফা"
+     },
+     {
+      "en": "Suhungmung",
+      "as": "চুহুংমুং"
+     },
+     {
+      "en": "Susenphaa",
+      "as": "চুচেনফা"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Supimphaa.",
+     "as": "চুপিম্ফা।"
+    },
+    "id": "spm3.test.02"
+   },
+   {
+    "type": "tf",
+    "s": {
+     "en": "The Burhagohain revolted when Supimphaa searched for his father's killers.",
+     "as": "চুপিম্ফাই পিতৃৰ হত্যাকাৰী বিচাৰোঁতে বুঢ়াগোহাঁইয়ে বিদ্ৰোহ কৰিছিল।"
+    },
+    "answer": true,
+    "why": {
+     "en": "True.",
+     "as": "শুদ্ধ।"
+    },
+    "id": "spm2.test.08"
+   }
+  ]
+ }
+}

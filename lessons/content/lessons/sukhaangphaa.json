@@ -1,0 +1,1448 @@
+{
+ "id": "sukhaangphaa",
+ "no": 4,
+ "version": 3,
+ "king": {
+  "en": "Swargadeo Sukhaangphaa",
+  "as": "স্বৰ্গদেউ চুখাংফা"
+ },
+ "reign": {
+  "en": "Reign 1293–1332",
+  "as": "ৰাজত্বকাল ১২৯৩–১৩৩২"
+ },
+ "portrait": "sukhaangphaa-portrait.webp",
+ "sources": [
+  {
+   "title": "E. A. Gait, A History of Assam (1906), ch. IV, pp. 77–83",
+   "url": "https://archive.org/details/historyofassam00gait",
+   "used_for": "pp. 77–78: growth of the Ahoms, first war against the Raja of Kamata (not the Chutiyas or Kacharis), treaty and marriage of Rajani, Mungkang's tribute demand, death in 1332 after 39 years, four sons"
+  },
+  {
+   "title": "Sukhaangphaa",
+   "url": "https://en.wikipedia.org/wiki/Sukhaangphaa",
+   "used_for": "Kamata war from about 1324 ending in a truce; marriage to Rajani"
+  }
+ ],
+ "review_notes": "Gait says Chao Pulai's mother was Rajani; the Wikipedia article says Bhajani. The lesson says only 'a Kamata princess'. The war's start (about 1324) is given only in the Wikipedia article, so it is not asked. Rebuilt 2026-10-23 (version 2) into four units. Exercise mix upgraded 2026-10-23: plain MCQ and fill-the-year questions replaced with game-like types.",
+ "buildsOn": {
+  "no": 3,
+  "title": {
+   "en": "Subinphaa",
+   "as": "চুবিনফা"
+  },
+  "id": "subinphaa"
+ },
+ "guide": {
+  "timeline": [
+   {
+    "y": "1293",
+    "t": {
+     "en": "Becomes the fourth Ahom king",
+     "as": "চতুৰ্থ আহোম ৰজা হয়"
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "First major war: against Kamata",
+     "as": "প্ৰথম ডাঙৰ যুদ্ধ: কামতাৰ বিৰুদ্ধে"
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Treaty; marries the Kamata princess Rajani",
+     "as": "সন্ধি; কামতাৰ কুঁৱৰী ৰজনীৰ সৈতে বিবাহ"
+    }
+   },
+   {
+    "y": "",
+    "t": {
+     "en": "Refuses Mungkang's demand for tribute",
+     "as": "মুংকাঙৰ কৰ দাবী নাকচ"
+    }
+   },
+   {
+    "y": "1332",
+    "t": {
+     "en": "Dies; Sukhrangphaa succeeds",
+     "as": "মৃত্যু; চুখ্ৰাংফা ৰজা"
+    }
+   }
+  ]
+ },
+ "map": {
+  "box": [
+   89.2,
+   25.7,
+   96.3,
+   28.1
+  ],
+  "show": [
+   "brahmaputra",
+   "kamata",
+   "charaideo",
+   "sadiya"
+  ],
+  "routes": [
+   [
+    "charaideo",
+    "kamata"
+   ]
+  ],
+  "texts": [
+   {
+    "t": {
+     "en": "ASSAM",
+     "as": "অসম"
+    },
+    "at": [
+     26.75,
+     92.6
+    ]
+   }
+  ],
+  "labels": {
+   "kamata": {
+    "t": {
+     "en": "Kamata",
+     "as": "কামতা"
+    },
+    "pos": "ne"
+   },
+   "charaideo": {
+    "pos": "s"
+   },
+   "sadiya": {
+    "pos": "w"
+   },
+   "brahmaputra": {
+    "at": [
+     26.25,
+     91.3
+    ],
+    "pos": "n"
+   }
+  }
+ },
+ "units": [
+  {
+   "id": "u1",
+   "icon": "crown",
+   "title": {
+    "en": "Ready for war",
+    "as": "যুদ্ধৰ বাবে সাজু"
+   },
+   "learned": [
+    {
+     "en": "Sukhaangphaa, son of Subinphaa, ruled 1293–1332",
+     "as": "চুবিনফাৰ পুত্ৰ চুখাংফাই ১২৯৩–১৩৩২ লৈকে ৰাজত্ব কৰে"
+    },
+    {
+     "en": "The Ahoms had grown in number during a long peace",
+     "as": "দীঘলীয়া শান্তিত আহোমৰ সংখ্যা বাঢ়িছিল"
+    },
+    {
+     "en": "They grew by birth, by local people joining, and by newcomers",
+     "as": "জন্ম, স্থানীয় লোকৰ যোগদান আৰু নতুন আগন্তুকৰ দ্বাৰা বৃদ্ধি"
+    },
+    {
+     "en": "Now they could face the big kingdoms around them",
+     "as": "এতিয়া তেওঁলোকে চাৰিওফালৰ ডাঙৰ ৰাজ্যৰ মুখামুখি হ'ব পাৰিলে"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "id": "skg.hook",
+     "title": {
+      "en": "War, then a wedding",
+      "as": "যুদ্ধ, তাৰ পিছত বিয়া"
+     },
+     "img": "kamata-war.webp",
+     "text": [
+      {
+       "en": "The Ahoms' first big war was not against a neighbour. It was against a kingdom far down the river, and it went on for years.",
+       "as": "আহোমৰ প্ৰথম ডাঙৰ যুদ্ধ ওচৰ-চুবুৰীয়াৰ সৈতে নাছিল। নদীৰ বহু নামনিৰ এখন ৰাজ্যৰ সৈতে, আৰু ই বছৰ বছৰ চলিল।"
+      },
+      {
+       "en": "Nobody could win. So how did it end?",
+       "as": "কোনেও জিকিব নোৱাৰিলে। তেন্তে কেনেকৈ শেষ হ'ল?"
+      }
+     ]
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The fourth king",
+      "as": "চতুৰ্থ ৰজা"
+     },
+     "text": [
+      {
+       "en": "[[sukhaangphaa]], son of Subinphaa, became king in <mark>1293</mark>.",
+       "as": "চুবিনফাৰ পুত্ৰ [[sukhaangphaa]] <mark>১২৯৩</mark> চনত ৰজা হয়।"
+      },
+      {
+       "en": "He ruled for <mark>39 years</mark>, until 1332.",
+       "as": "তেওঁ ১৩৩২ লৈকে <mark>৩৯ বছৰ</mark> ৰাজত্ব কৰিছিল।"
+      }
+     ],
+     "id": "skg.u1.01",
+     "art": "calendar",
+     "link": {
+      "lesson": 3,
+      "lessonId": "subinphaa",
+      "unitNo": 3,
+      "unitTitle": {
+       "en": "The seven houses",
+       "as": "সাত ঘৰ"
+      },
+      "note": {
+       "en": "His father Subinphaa organised the Ahoms into the Satgharia, the seven houses.",
+       "as": "তেওঁৰ পিতৃ চুবিনফাই আহোমসকলক সাতঘৰীয়াত সংগঠিত কৰিছিল।"
+      }
+     }
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1268",
+       "l": {
+        "en": "Suteuphaa becomes king",
+        "as": "চুতেউফা ৰজা হয়"
+       }
+      },
+      {
+       "y": "1332",
+       "l": {
+        "en": "Sukhaangphaa dies",
+        "as": "চুখাংফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Charaideo founded",
+        "as": "চৰাইদেউ স্থাপন"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "Sukhaangphaa becomes king",
+        "as": "চুখাংফা ৰজা হয়"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Sukhrangphaa becomes king",
+        "as": "চুখ্ৰাংফা ৰজা হয়"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "1253 → 1268 → 1293 → 1332.",
+      "as": "১২৫৩ → ১২৬৮ → ১২৯৩ → ১৩৩২।"
+     },
+     "id": "skg3.u1.01"
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "Stronger every year",
+      "as": "বছৰে বছৰে শক্তিশালী"
+     },
+     "text": [
+      {
+       "en": "In a long peace the Ahoms had grown: by <mark>natural growth</mark>, by <mark>local people joining</mark> them, and probably by new arrivals from the old homeland.",
+       "as": "দীঘলীয়া শান্তিৰ সময়ত আহোমসকল বাঢ়িছিল: <mark>স্বাভাৱিক বৃদ্ধি</mark>, <mark>স্থানীয় লোক যোগদান</mark> আৰু সম্ভৱতঃ পুৰণি জন্মভূমিৰ পৰা অহা নতুন লোকৰ দ্বাৰা।"
+      },
+      {
+       "en": "Now they could stand up to the bigger kingdoms around them.",
+       "as": "এতিয়া তেওঁলোকে চাৰিওফালৰ ডাঙৰ ৰাজ্যবোৰৰ সন্মুখীন হ'ব পৰা হ'ল।"
+      }
+     ],
+     "id": "skg.u1.02",
+     "art": "scroll"
+    },
+    {
+     "type": "match",
+     "q": {
+      "en": "How did the Ahoms grow? Match.",
+      "as": "আহোম কেনেকৈ বাঢ়িল? মিলোৱা।"
+     },
+     "pairs": [
+      [
+       {
+        "en": "Natural growth",
+        "as": "স্বাভাৱিক বৃদ্ধি"
+       },
+       {
+        "en": "More births in peace",
+        "as": "শান্তিত অধিক জন্ম"
+       }
+      ],
+      [
+       {
+        "en": "Local recruits",
+        "as": "স্থানীয় লোক"
+       },
+       {
+        "en": "Neighbours who joined the Ahoms",
+        "as": "আহোমত যোগ দিয়া চুবুৰীয়া"
+       }
+      ],
+      [
+       {
+        "en": "New arrivals",
+        "as": "নতুন আগন্তুক"
+       },
+       {
+        "en": "Tai from the old homeland",
+        "as": "পুৰণি জন্মভূমিৰ টাই"
+       }
+      ]
+     ],
+     "why": {
+      "en": "Three ways the Ahoms grew strong enough for a big war.",
+      "as": "আহোম ডাঙৰ যুদ্ধৰ বাবে শক্তিশালী হোৱাৰ তিনিটা উপায়।"
+     },
+     "id": "skg3.u1.02"
+    },
+    {
+     "type": "order",
+     "q": {
+      "en": "Put the first four kings in order.",
+      "as": "প্ৰথম চাৰিজন ৰজাক ক্ৰমত সজোৱা।"
+     },
+     "items": [
+      {
+       "en": "Sukaphaa",
+       "as": "চুকাফা"
+      },
+      {
+       "en": "Suteuphaa",
+       "as": "চুতেউফা"
+      },
+      {
+       "en": "Subinphaa",
+       "as": "চুবিনফা"
+      },
+      {
+       "en": "Sukhaangphaa",
+       "as": "চুখাংফা"
+      }
+     ],
+     "why": {
+      "en": "Father to son, four generations.",
+      "as": "পিতৃৰ পৰা পুত্ৰ, চাৰি পুৰুষ।"
+     },
+     "id": "skg2.u1.05",
+     "link": {
+      "lesson": 3,
+      "lessonId": "subinphaa",
+      "unitNo": 1,
+      "unitTitle": {
+       "en": "A time of peace",
+       "as": "শান্তিৰ সময়"
+      },
+      "note": {
+       "en": "Subinphaa's quiet reign let the Ahoms grow.",
+       "as": "চুবিনফাৰ শান্ত ৰাজত্বত আহোমৰ সংখ্যা বাঢ়িছিল।"
+      }
+     }
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "The Ahoms grew partly because local people joined them.",
+      "as": "স্থানীয় লোক যোগ দিয়াৰ বাবেও আহোমৰ সংখ্যা বাঢ়িছিল।"
+     },
+     "answer": true,
+     "why": {
+      "en": "True: natural growth, local recruits and probably new arrivals from the old homeland.",
+      "as": "শুদ্ধ: স্বাভাৱিক বৃদ্ধি, স্থানীয় লোকৰ যোগদান আৰু সম্ভৱতঃ পুৰণি জন্মভূমিৰ পৰা নতুন আগন্তুক।"
+     },
+     "id": "skg2.u1.06"
+    },
+    {
+     "type": "unscramble",
+     "q": {
+      "en": "Unscramble the fourth king's name.",
+      "as": "চতুৰ্থ ৰজাৰ নামটো সজাই লিখা।"
+     },
+     "word": {
+      "en": [
+       "S",
+       "U",
+       "K",
+       "H",
+       "A",
+       "A",
+       "N",
+       "G",
+       "P",
+       "H",
+       "A",
+       "A"
+      ],
+      "as": [
+       "চু",
+       "খাং",
+       "ফা"
+      ]
+     },
+     "answerText": {
+      "en": "SUKHAANGPHAA",
+      "as": "চুখাংফা"
+     },
+     "why": {
+      "en": "Sukhaangphaa, 1293–1332.",
+      "as": "চুখাংফা, ১২৯৩–১৩৩২।"
+     },
+     "id": "skg3.u1.03"
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "icon": "flag",
+   "title": {
+    "en": "The Kamata war",
+    "as": "কামতা যুদ্ধ"
+   },
+   "learned": [
+    {
+     "en": "Their first big war was with Kamata, far to the west",
+     "as": "প্ৰথম ডাঙৰ যুদ্ধ পশ্চিমৰ দূৰৈৰ কামতাৰ সৈতে"
+    },
+    {
+     "en": "Not with their neighbours, the Chutias or Kacharis",
+     "as": "চুবুৰীয়া চুতীয়া বা কছাৰীৰ সৈতে নহয়"
+    },
+    {
+     "en": "Kamata's capital, Kamatapur, was near today's Cooch Behar",
+     "as": "কামতাৰ ৰাজধানী কামতাপুৰ আজিৰ কোচবিহাৰৰ ওচৰত"
+    },
+    {
+     "en": "The war lasted years, with heavy losses on both sides",
+     "as": "যুদ্ধ বছৰ বছৰ চলিল, দুয়োপক্ষৰে বহু ক্ষতি"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "title": {
+      "en": "A surprising first enemy",
+      "as": "আচৰিত প্ৰথম শত্ৰু"
+     },
+     "text": [
+      {
+       "en": "Their first big war was <mark>not</mark> with their nearest neighbours, the [[chutia]] or the [[kachari]].",
+       "as": "তেওঁলোকৰ প্ৰথম ডাঙৰ যুদ্ধ ওচৰৰ চুবুৰীয়া [[chutia]] বা [[kachari]]ৰ সৈতে <mark>নাছিল</mark>।"
+      },
+      {
+       "en": "It was with the Raja of [[kamata]], far to the west.",
+       "as": "সেয়া আছিল পশ্চিমৰ দূৰৈৰ [[kamata]] ৰজাৰ সৈতে।"
+      }
+     ],
+     "id": "skg.u1.04",
+     "img": "kamata-war.webp"
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "Where was Kamata?",
+      "as": "কামতা ক'ত আছিল?"
+     },
+     "text": [
+      {
+       "en": "Kamata lay far to the <mark>west</mark>, beyond today's Dhubri. Its capital, Kamatapur, was near today's Cooch Behar.",
+       "as": "কামতা আছিল বহু দূৰ <mark>পশ্চিমে</mark>, আজিৰ ধুবুৰীৰো সিপাৰে। ইয়াৰ ৰাজধানী কামতাপুৰ আজিৰ কোচবিহাৰৰ ওচৰত।"
+      },
+      {
+       "en": "The Chutias lived in the north-east, around [[sadiya]].",
+       "as": "চুতীয়াসকল আছিল উত্তৰ-পূবত, [[sadiya]]ৰ চাৰিওফালে।"
+      }
+     ],
+     "id": "skg.u1.05",
+     "map": {
+      "route": true,
+      "labels": true
+     }
+    },
+    {
+     "type": "map",
+     "q": {
+      "en": "Tap the Kamata kingdom.",
+      "as": "কামতা ৰাজ্য টিপা।"
+     },
+     "target": "kamata",
+     "choices": [
+      "kamata",
+      "sadiya",
+      "charaideo"
+     ],
+     "answerText": {
+      "en": "Kamata, far to the west",
+      "as": "কামতা, বহু দূৰ পশ্চিমে"
+     },
+     "why": {
+      "en": "Kamata was in the far west. Sadiya (Chutias) was in the north-east, and Charaideo was the Ahom capital.",
+      "as": "কামতা আছিল বহু দূৰ পশ্চিমত। শদিয়া (চুতীয়া) আছিল উত্তৰ-পূবত, আৰু চৰাইদেউ আছিল আহোম ৰাজধানী।"
+     },
+     "id": "skg.u1.06"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "The Ahoms' first major war was against their neighbours, the Chutias.",
+      "as": "আহোমৰ প্ৰথম ডাঙৰ যুদ্ধ আছিল চুবুৰীয়া চুতীয়াৰ বিৰুদ্ধে।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. It was against the Raja of Kamata, in the west. The wars with the Chutias came later.",
+      "as": "অশুদ্ধ। সেয়া আছিল পশ্চিমৰ কামতা ৰজাৰ বিৰুদ্ধে। চুতীয়াৰ সৈতে যুদ্ধ পিছত হৈছিল।"
+     },
+     "id": "skg.u1.07"
+    },
+    {
+     "type": "story",
+     "map": {
+      "labels": true,
+      "route": true
+     },
+     "title": {
+      "en": "Where the road led",
+      "as": "পথ ক'লৈ গৈছিল"
+     },
+     "text": [
+      {
+       "en": "Kamata, with its capital [[kamatapur]], ruled the lands that had once been the old kingdom of Kamarupa.",
+       "as": "[[kamatapur]] ৰাজধানীৰ কামতাই এসময়ৰ পুৰণি কামৰূপ ৰাজ্যৰ এলেকা শাসন কৰিছিল।"
+      },
+      {
+       "en": "For the Ahoms it meant a long march down the Brahmaputra, the longest they had yet made.",
+       "as": "আহোমৰ বাবে ই আছিল ব্ৰহ্মপুত্ৰৰ ভাটিলৈ দীঘলীয়া যাত্ৰা, আজিলৈকে আটাইতকৈ দীঘল।"
+      }
+     ],
+     "id": "skg2.u2.05"
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "Years of fighting",
+      "as": "বছৰৰ পিছত বছৰ যুদ্ধ"
+     },
+     "text": [
+      {
+       "en": "The war with Kamata went on for <mark>some years</mark>, with <mark>heavy losses on both sides</mark>.",
+       "as": "কামতাৰ সৈতে যুদ্ধ <mark>কেইবা বছৰো</mark> চলিছিল, <mark>দুয়োপক্ষৰে বহুত ক্ষতি</mark> হৈছিল।"
+      },
+      {
+       "en": "Neither side could win.",
+       "as": "কোনো পক্ষই জিকিব পৰা নাছিল।"
+      }
+     ],
+     "id": "skg.u2.01",
+     "img": "stalemate.webp"
+    },
+    {
+     "type": "map",
+     "q": {
+      "en": "Tap Kamata, the kingdom of the first big war.",
+      "as": "প্ৰথম ডাঙৰ যুদ্ধৰ ৰাজ্য কামতা টিপা।"
+     },
+     "target": "kamata",
+     "choices": [
+      "kamata",
+      "charaideo",
+      "sadiya"
+     ],
+     "answerText": {
+      "en": "Kamata",
+      "as": "কামতা"
+     },
+     "why": {
+      "en": "Kamata, far to the west, near today's Cooch Behar.",
+      "as": "পশ্চিমৰ দূৰৈৰ কামতা, আজিৰ কোচবিহাৰৰ ওচৰত।"
+     },
+     "id": "skg3.u2.01"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "The Kamata war ended in a clear Ahom victory.",
+      "as": "কামতা যুদ্ধ আহোমৰ স্পষ্ট জয়েৰে শেষ হৈছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. Neither side won; it ended in a treaty and a marriage.",
+      "as": "অশুদ্ধ। কোনো পক্ষই জিকা নাছিল; সন্ধি আৰু বিবাহেৰে শেষ হৈছিল।"
+     },
+     "id": "skg.u2.07"
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "icon": "hands",
+   "title": {
+    "en": "Peace by marriage",
+    "as": "বিবাহেৰে শান্তি"
+   },
+   "learned": [
+    {
+     "en": "The Kamata king, tired of war, asked for peace",
+     "as": "যুদ্ধত ভাগৰি কামতা ৰজাই শান্তি বিচাৰিলে"
+    },
+    {
+     "en": "A treaty was made",
+     "as": "সন্ধি হ'ল"
+    },
+    {
+     "en": "His daughter Rajani married Sukhaangphaa",
+     "as": "তেওঁৰ জীয়েক ৰজনীৰ সৈতে চুখাংফাৰ বিবাহ"
+    },
+    {
+     "en": "Their son Chao Pulai would matter in the next reign",
+     "as": "তেওঁলোকৰ পুত্ৰ চাও পুলাই পৰৱৰ্তী ৰাজত্বত গুৰুত্বপূৰ্ণ হ'ব"
+    }
+   ],
+   "steps": [
+    {
+     "type": "mcq",
+     "guess": true,
+     "id": "skg.g1",
+     "q": {
+      "en": "Neither side could win the Kamata war. How do you think it ended?",
+      "as": "কমতা যুদ্ধত কোনো পক্ষই জিকিব নোৱাৰিলে। তোমাৰ অনুমানত কেনেকৈ শেষ হ'ল?"
+     },
+     "options": [
+      {
+       "en": "One side was wiped out",
+       "as": "এটা পক্ষ ধ্বংস হ'ল"
+      },
+      {
+       "en": "A treaty and a marriage",
+       "as": "সন্ধি আৰু বিয়া"
+      },
+      {
+       "en": "The Ahoms fled home",
+       "as": "আহোম ঘৰলৈ পলাল"
+      },
+      {
+       "en": "A plague ended it",
+       "as": "মহামাৰীয়ে শেষ কৰিলে"
+      }
+     ],
+     "answer": 1,
+     "why": {
+      "en": "Kamata asked for peace and gave Princess Rajani to Sukhaangphaa.",
+      "as": "কমতাই শান্তি বিচাৰিলে আৰু ৰাজকুমাৰী ৰজনীক চুখাংফাক দিলে।"
+     }
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "Peace by marriage",
+      "as": "বিবাহেৰে শান্তি"
+     },
+     "text": [
+      {
+       "en": "At last the Kamata king grew tired of war. On his ministers' advice he sent an envoy to ask for <mark>peace</mark>.",
+       "as": "শেষত কামতা ৰজা যুদ্ধত ভাগৰি পৰিল। মন্ত্ৰীৰ পৰামৰ্শত তেওঁ <mark>শান্তি</mark>ৰ বাবে দূত পঠিয়ালে।"
+      },
+      {
+       "en": "A treaty was made, and his daughter [[rajani]] was given in marriage to Sukhaangphaa.",
+       "as": "সন্ধি হ'ল, আৰু তেওঁৰ কন্যা [[rajani]]ক চুখাংফালৈ বিয়া দিয়া হ'ল।"
+      }
+     ],
+     "id": "skg.u2.02",
+     "img": "royal-marriage.webp"
+    },
+    {
+     "type": "order",
+     "q": {
+      "en": "Put the events in order.",
+      "as": "ঘটনাবোৰ ক্ৰম অনুসৰি সজোৱা।"
+     },
+     "items": [
+      {
+       "en": "War with Kamata begins",
+       "as": "কামতাৰ সৈতে যুদ্ধ আৰম্ভ"
+      },
+      {
+       "en": "Years of heavy losses",
+       "as": "বছৰ বছৰ ধৰি বহুত ক্ষতি"
+      },
+      {
+       "en": "The Kamata king sends an envoy",
+       "as": "কামতা ৰজাই দূত পঠিয়ায়"
+      },
+      {
+       "en": "Treaty and marriage of Rajani",
+       "as": "সন্ধি আৰু ৰজনীৰ বিবাহ"
+      }
+     ],
+     "why": {
+      "en": "War → years of losses → envoy for peace → treaty sealed by Rajani's marriage.",
+      "as": "যুদ্ধ → বছৰ বছৰ ক্ষতি → শান্তিৰ দূত → ৰজনীৰ বিবাহেৰে সন্ধি।"
+     },
+     "id": "skg.u2.03"
+    },
+    {
+     "type": "picture",
+     "q": {
+      "en": "Which picture shows how the Kamata war ended?",
+      "as": "কোনখন ছবিত কামতা যুদ্ধৰ অন্ত দেখুওৱা হৈছে?"
+     },
+     "options": [
+      "royal-marriage.webp",
+      "kamata-war.webp",
+      "stalemate.webp",
+      "royal-son.webp"
+     ],
+     "answer": 0,
+     "answerText": {
+      "en": "The royal wedding",
+      "as": "ৰাজকীয় বিবাহ"
+     },
+     "why": {
+      "en": "A treaty, sealed by Rajani's marriage to Sukhaangphaa.",
+      "as": "ৰজনীৰ সৈতে চুখাংফাৰ বিবাহেৰে বান্ধ খোৱা সন্ধি।"
+     },
+     "id": "skg3.u3.01"
+    },
+    {
+     "type": "fill",
+     "before": {
+      "en": "The Kamata princess who married Sukhaangphaa was",
+      "as": "চুখাংফাৰ সৈতে বিয়া হোৱা কামতাৰ কুঁৱৰীগৰাকী আছিল"
+     },
+     "after": {
+      "en": ".",
+      "as": "।"
+     },
+     "answer": "Rajani",
+     "asOptions": [
+      "ৰজনী",
+      "মূলা",
+      "জয়মতী",
+      "ফুলেশ্বৰী"
+     ],
+     "asAnswer": 0,
+     "answerText": {
+      "en": "Rajani",
+      "as": "ৰজনী"
+     },
+     "why": {
+      "en": "Rajani, daughter of the Kamata king. Joymoti, Mula Gabharu and Phuleswari belong to later reigns.",
+      "as": "কামতা ৰজাৰ কন্যা ৰজনী। জয়মতী, মূলা গাভৰু আৰু ফুলেশ্বৰী পিছৰ ৰাজত্বকালৰ।"
+     },
+     "id": "skg.u2.05"
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "I was a princess of Kamata.",
+       "as": "মই কামতাৰ কুঁৱৰী আছিলোঁ।"
+      },
+      {
+       "en": "My marriage sealed a peace treaty.",
+       "as": "মোৰ বিবাহে এখন শান্তি সন্ধি পকা কৰিছিল।"
+      },
+      {
+       "en": "My husband was the fourth Ahom king.",
+       "as": "মোৰ স্বামী চতুৰ্থ আহোম ৰজা আছিল।"
+      }
+     ],
+     "options": [
+      {
+       "en": "Rajani",
+       "as": "ৰজনী"
+      },
+      {
+       "en": "Mula Gabharu",
+       "as": "মূলা গাভৰু"
+      },
+      {
+       "en": "Joymoti",
+       "as": "জয়মতী"
+      },
+      {
+       "en": "Phuleswari",
+       "as": "ফুলেশ্বৰী"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "Rajani, married to Sukhaangphaa under the treaty with Kamata.",
+      "as": "ৰজনী, কামতাৰ সৈতে হোৱা সন্ধিমতে চুখাংফাৰ সৈতে বিবাহ।"
+     },
+     "id": "skg.u2.06"
+    },
+    {
+     "type": "story",
+     "img": "royal-son.webp",
+     "title": {
+      "en": "A Kamata prince",
+      "as": "কামতাৰ ভাগিন"
+     },
+     "text": [
+      {
+       "en": "Rajani bore Sukhaangphaa a son, [[chao-pulai]]. Through his mother he was kin to the Kamata king.",
+       "as": "ৰজনীৰ গৰ্ভত চুখাংফাৰ পুত্ৰ [[chao-pulai]]ৰ জন্ম হয়। মাতৃৰ ফালৰ পৰা তেওঁ কামতা ৰজাৰ আত্মীয়।"
+      },
+      {
+       "en": "That family tie would bring a Kamata army east in the next reign.",
+       "as": "এই আত্মীয়তাই পৰৱৰ্তী ৰাজত্বত কামতাৰ সৈন্যক পূবলৈ আনিব।"
+      }
+     ],
+     "id": "skg2.u3.06"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Making peace by marriage was new for the Ahoms.",
+      "as": "বিবাহেৰে শান্তি স্থাপন আহোমৰ বাবে নতুন আছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. Sukaphaa had married the daughters of the Moran and Barahi chiefs to win their peoples.",
+      "as": "অশুদ্ধ। চুকাফাই মৰাণ আৰু বৰাহী ৰজাৰ জীয়েকক বিয়া কৰাই তেওঁলোকক আপোন কৰিছিল।"
+     },
+     "id": "skg2.u3.07",
+     "link": {
+      "lesson": 1,
+      "lessonId": "sukaphaa",
+      "unitNo": 3,
+      "unitTitle": {
+       "en": "Friends, not enemies",
+       "as": "শত্ৰু নহয়, বন্ধু"
+      },
+      "note": {
+       "en": "Sukaphaa married into the Moran and Barahi ruling families.",
+       "as": "চুকাফাই মৰাণ আৰু বৰাহী ৰাজপৰিয়ালত বিয়া কৰাইছিল।"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "icon": "star",
+   "title": {
+    "en": "Four sons",
+    "as": "চাৰিজন পুত্ৰ"
+   },
+   "learned": [
+    {
+     "en": "Mungkang demanded tribute; Sukhaangphaa refused",
+     "as": "মুংকাঙে কৰ দাবী কৰিলে; চুখাংফাই নাকচ কৰিলে"
+    },
+    {
+     "en": "He died in 1332 after 39 years",
+     "as": "৩৯ বছৰৰ পিছত ১৩৩২ চনত মৃত্যু"
+    },
+    {
+     "en": "He left four sons, three of whom became kings",
+     "as": "চাৰিজন পুত্ৰ এৰি গ'ল, তিনিজন ৰজা হ'ল"
+    },
+    {
+     "en": "Chao Pulai's mother was the Kamata princess Rajani",
+     "as": "চাও পুলাইৰ মাতৃ কামতা কুমাৰী ৰজনী"
+    }
+   ],
+   "steps": [
+    {
+     "type": "story",
+     "title": {
+      "en": "A demand for tribute",
+      "as": "কৰৰ দাবী"
+     },
+     "text": [
+      {
+       "en": "One chronicle says the ruler of [[mungkang]] demanded <mark>tribute</mark> from Sukhaangphaa.",
+       "as": "এখন বুৰঞ্জীমতে [[mungkang]]ৰ ৰজাই চুখাংফাৰ পৰা <mark>কৰ</mark> দাবী কৰিছিল।"
+      },
+      {
+       "en": "He claimed descent from the chief of Maulung, in whose time Sukaphaa had left the homeland.",
+       "as": "তেওঁ নিজকে মাওলুঙৰ সেই প্ৰধানৰ বংশধৰ বুলি দাবী কৰিছিল, যাৰ দিনত চুকাফাই জন্মভূমি এৰিছিল।"
+      }
+     ],
+     "id": "skg.u3.01",
+     "art": "embassy",
+     "link": {
+      "lesson": 1,
+      "lessonId": "sukaphaa",
+      "unitNo": 1,
+      "unitTitle": {
+       "en": "The journey",
+       "as": "যাত্ৰা"
+      },
+      "note": {
+       "en": "Sukaphaa left the Tai homeland of Mong Mao in 1215.",
+       "as": "চুকাফাই ১২১৫ চনত টাই জন্মভূমি মং মাও এৰিছিল।"
+      }
+     }
+    },
+    {
+     "type": "mcq",
+     "guess": true,
+     "id": "skg.d1",
+     "q": {
+      "en": "You are Sukhaangphaa. Mungkang demands tribute, saying the Ahoms still owe the old homeland. What do you do?",
+      "as": "তুমি চুখাংফা। মুংকঙে কৰ বিচাৰিছে, কয় আহোমে এতিয়াও পুৰণি দেশক ধাৰে। তুমি কি কৰিবা?"
+     },
+     "options": [
+      {
+       "en": "Pay it",
+       "as": "কৰ দিয়া"
+      },
+      {
+       "en": "Refuse",
+       "as": "অস্বীকাৰ কৰা"
+      },
+      {
+       "en": "Send hostages",
+       "as": "জামিন পঠিওৱা"
+      }
+     ],
+     "answer": 1,
+     "why": {
+      "en": "He refused. The Mungkang ruler soon died and the demand was dropped.",
+      "as": "তেওঁ অস্বীকাৰ কৰিলে। মুংকঙৰ শাসক সোনকালে মৰিল আৰু দাবী এৰা হ'ল।"
+     },
+     "decide": true
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "The demand is dropped",
+      "as": "দাবী এৰি দিয়া হ'ল"
+     },
+     "text": [
+      {
+       "en": "Sukhaangphaa <mark>refused</mark> to pay.",
+       "as": "চুখাংফাই কৰ দিবলৈ <mark>অস্বীকাৰ</mark> কৰিলে।"
+      },
+      {
+       "en": "Soon after, the Mungkang ruler died and the matter was dropped.",
+       "as": "অলপ পিছতে মুংকাঙৰ ৰজাৰ মৃত্যু হ'ল আৰু কথাটো তাতেই শেষ হ'ল।"
+      }
+     ],
+     "id": "skg.u3.02",
+     "art": "embassy"
+    },
+    {
+     "type": "tf",
+     "s": {
+      "en": "Sukhaangphaa paid the tribute Mungkang demanded.",
+      "as": "মুংকাঙে দাবী কৰা কৰ চুখাংফাই দিছিল।"
+     },
+     "answer": false,
+     "why": {
+      "en": "False. He refused, and the matter was dropped when Mungkang's ruler died.",
+      "as": "অশুদ্ধ। তেওঁ নাকচ কৰিছিল; মুংকাঙৰ শাসকৰ মৃত্যুৰ পিছত কথাটো থমকি ৰ'ল।"
+     },
+     "id": "skg3.u4.01"
+    },
+    {
+     "type": "story",
+     "title": {
+      "en": "Four sons",
+      "as": "চাৰি পুত্ৰ"
+     },
+     "text": [
+      {
+       "en": "Sukhaangphaa died in <mark>1332</mark>, after a reign of 39 years.",
+       "as": "৩৯ বছৰ ৰাজত্বৰ পিছত <mark>১৩৩২</mark> চনত চুখাংফাৰ মৃত্যু হয়।"
+      },
+      {
+       "en": "He left four sons: [[sukhrangphaa]], [[sutuphaa]], [[tyao-khamti]] and [[chao-pulai]], whose mother was a Kamata princess.",
+       "as": "তেওঁৰ চাৰিজন পুত্ৰ আছিল: [[sukhrangphaa]], [[sutuphaa]], [[tyao-khamti]] আৰু [[chao-pulai]], যাৰ মাতৃ আছিল কামতাৰ কুঁৱৰী।"
+      }
+     ],
+     "id": "skg.u3.04",
+     "img": "royal-son.webp"
+    },
+    {
+     "type": "match",
+     "q": {
+      "en": "Tap the matching pairs.",
+      "as": "যোৰাবোৰ মিলোৱা।"
+     },
+     "pairs": [
+      [
+       {
+        "en": "Sukhrangphaa",
+        "as": "চুখ্ৰাংফা"
+       },
+       {
+        "en": "Next king (5th)",
+        "as": "পৰৱৰ্তী ৰজা (৫ম)"
+       }
+      ],
+      [
+       {
+        "en": "Sutuphaa",
+        "as": "চুতুফা"
+       },
+       {
+        "en": "6th king",
+        "as": "৬ষ্ঠ ৰজা"
+       }
+      ],
+      [
+       {
+        "en": "Tyao Khamti",
+        "as": "ত্যাও খামতি"
+       },
+       {
+        "en": "7th king",
+        "as": "৭ম ৰজা"
+       }
+      ],
+      [
+       {
+        "en": "Chao Pulai",
+        "as": "চাও পুলাই"
+       },
+       {
+        "en": "Son of a Kamata princess",
+        "as": "কামতাৰ কুঁৱৰীৰ পুত্ৰ"
+       }
+      ]
+     ],
+     "why": {
+      "en": "Three of the four sons became kings one after another; Chao Pulai never did.",
+      "as": "চাৰিজন পুত্ৰৰ তিনিজন এজনৰ পিছত এজনকৈ ৰজা হৈছিল; চাও পুলাই কেতিয়াও হোৱা নাছিল।"
+     },
+     "id": "skg.u3.05"
+    },
+    {
+     "type": "timeline",
+     "q": {
+      "en": "Place each event on the timeline.",
+      "as": "প্ৰতিটো ঘটনা সময়ৰেখাত বহুওৱা।"
+     },
+     "anchors": [
+      {
+       "y": "1293",
+       "l": {
+        "en": "Sukhaangphaa becomes king",
+        "as": "চুখাংফা ৰজা হয়"
+       }
+      },
+      {
+       "y": "1332",
+       "l": {
+        "en": "Sukhaangphaa dies",
+        "as": "চুখাংফাৰ মৃত্যু"
+       }
+      }
+     ],
+     "items": [
+      {
+       "t": {
+        "en": "Subinphaa's reign",
+        "as": "চুবিনফাৰ ৰাজত্ব"
+       },
+       "slot": 0
+      },
+      {
+       "t": {
+        "en": "War and treaty with Kamata",
+        "as": "কামতাৰ সৈতে যুদ্ধ আৰু সন্ধি"
+       },
+       "slot": 1
+      },
+      {
+       "t": {
+        "en": "Sukhrangphaa becomes king",
+        "as": "চুখ্ৰাংফা ৰজা হয়"
+       },
+       "slot": 2
+      }
+     ],
+     "why": {
+      "en": "Subinphaa (1281–1293) → Sukhaangphaa's reign with the Kamata war → Sukhrangphaa from 1332.",
+      "as": "চুবিনফা (১২৮১–১২৯৩) → কামতা যুদ্ধসহ চুখাংফাৰ ৰাজত্ব → ১৩৩২ৰ পৰা চুখ্ৰাংফা।"
+     },
+     "id": "skg.u3.06"
+    },
+    {
+     "type": "spot",
+     "q": {
+      "en": "One word in this sentence is wrong. Tap it.",
+      "as": "এই বাক্যটোৰ এটা শব্দ ভুল। সেইটো টিপা।"
+     },
+     "tokens": {
+      "en": [
+       "Sukhaangphaa",
+       "ruled",
+       "for",
+       "51",
+       "years."
+      ],
+      "as": [
+       "চুখাংফাই",
+       "৫১",
+       "বছৰ",
+       "ৰাজত্ব",
+       "কৰিছিল।"
+      ]
+     },
+     "wrong": {
+      "en": 3,
+      "as": 1
+     },
+     "fix": {
+      "en": "→ 39",
+      "as": "→ ৩৯"
+     },
+     "answerText": {
+      "en": "51 → 39",
+      "as": "৫১ → ৩৯"
+     },
+     "why": {
+      "en": "39 years. The 51-year reign was Sukhaamphaa's, much later.",
+      "as": "৩৯ বছৰ। ৫১ বছৰীয়া ৰাজত্ব বহু পিছৰ চুখাম্ফাৰ।"
+     },
+     "id": "skg3.u4.02"
+    },
+    {
+     "type": "whoami",
+     "clues": [
+      {
+       "en": "My father was Sukhaangphaa.",
+       "as": "মোৰ পিতৃ চুখাংফা।"
+      },
+      {
+       "en": "My mother was a Kamata princess.",
+       "as": "মোৰ মাতৃ কামতা কুমাৰী।"
+      },
+      {
+       "en": "I never became king.",
+       "as": "মই কেতিয়াও ৰজা হোৱা নাছিলোঁ।"
+      }
+     ],
+     "options": [
+      {
+       "en": "Chao Pulai",
+       "as": "চাও পুলাই"
+      },
+      {
+       "en": "Sukhrangphaa",
+       "as": "চুখ্ৰাংফা"
+      },
+      {
+       "en": "Sutuphaa",
+       "as": "চুতুফা"
+      },
+      {
+       "en": "Tyao Khamti",
+       "as": "ত্যাও খামতি"
+      }
+     ],
+     "answer": 0,
+     "why": {
+      "en": "Chao Pulai. His three half-brothers all became kings.",
+      "as": "চাও পুলাই। তেওঁৰ তিনিজন বৈমাত্ৰেয় ভাই ৰজা হৈছিল।"
+     },
+     "id": "skg2.u4.08"
+    },
+    {
+     "type": "story",
+     "id": "skg.next",
+     "title": {
+      "en": "A prince with two families",
+      "as": "দুই পৰিয়ালৰ কোঁৱৰ"
+     },
+     "art": "scroll",
+     "text": [
+      {
+       "en": "Mystery solved: the war ended with a <mark>marriage</mark> to Princess Rajani of Kamata.",
+       "as": "ৰহস্যৰ সমাধান: কমতাৰ ৰাজকুমাৰী ৰজনীৰ সৈতে <mark>বিয়াৰে</mark> যুদ্ধ শেষ হ'ল।"
+      },
+      {
+       "en": "But her son, Chao Pulai, had a powerful family in the west. In the next reign, that family would march east...",
+       "as": "কিন্তু তেওঁৰ পুত্ৰ চাও পুলাইৰ পশ্চিমত শক্তিশালী পৰিয়াল আছিল। পিছৰ ৰাজত্বত সেই পৰিয়াল পূবলৈ আগবাঢ়িব..."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "test": {
+  "id": "test",
+  "title": {
+   "en": "Lesson test",
+   "as": "পাঠৰ পৰীক্ষা"
+  },
+  "learned": [
+   {
+    "en": "You have completed the reign of Swargadeo Sukhaangphaa",
+    "as": "তুমি স্বৰ্গদেউ চুখাংফাৰ ৰাজত্বকাল সম্পূৰ্ণ কৰিলা"
+   }
+  ],
+  "steps": [
+   {
+    "type": "mcq",
+    "q": {
+     "en": "Consider the statements:<br>1. The Ahoms' first major war was against Kamata.<br>2. The Kamata war ended when the Ahoms annexed Kamata.<br>Which is/are correct?",
+     "as": "উক্তিবোৰ বিবেচনা কৰা:<br>১. আহোমৰ প্ৰথম ডাঙৰ যুদ্ধ আছিল কামতাৰ বিৰুদ্ধে।<br>২. আহোমে কামতা দখল কৰাত কামতা যুদ্ধ শেষ হৈছিল।<br>কোনটো/কোনবোৰ শুদ্ধ?"
+    },
+    "options": [
+     {
+      "en": "1 only",
+      "as": "কেৱল ১"
+     },
+     {
+      "en": "2 only",
+      "as": "কেৱল ২"
+     },
+     {
+      "en": "Both 1 and 2",
+      "as": "১ আৰু ২ দুয়োটা"
+     },
+     {
+      "en": "Neither 1 nor 2",
+      "as": "১ বা ২ কোনোটো নহয়"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Only 1. The war ended in a treaty and a marriage, not annexation.",
+     "as": "কেৱল ১। যুদ্ধ সন্ধি আৰু বিবাহেৰে শেষ হৈছিল, দখলেৰে নহয়।"
+    },
+    "id": "skg.test.01",
+    "small": true
+   },
+   {
+    "type": "map",
+    "q": {
+     "en": "Tap the kingdom of Sukhaangphaa's first war.",
+     "as": "চুখাংফাৰ প্ৰথম যুদ্ধৰ ৰাজ্যখন টিপা।"
+    },
+    "target": "kamata",
+    "choices": [
+     "kamata",
+     "sadiya",
+     "charaideo"
+    ],
+    "answerText": {
+     "en": "Kamata, in the west",
+     "as": "কামতা, পশ্চিমত"
+    },
+    "why": {
+     "en": "Kamata, far to the west of the Ahom kingdom.",
+     "as": "কামতা, আহোম ৰাজ্যৰ বহু দূৰ পশ্চিমত।"
+    },
+    "id": "skg.test.02"
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "I was a princess of Kamata.",
+      "as": "মই কামতাৰ কুমাৰী।"
+     },
+     {
+      "en": "My marriage ended a war.",
+      "as": "মোৰ বিবাহে যুদ্ধৰ অন্ত পেলাইছিল।"
+     },
+     {
+      "en": "My son was Chao Pulai.",
+      "as": "মোৰ পুত্ৰ চাও পুলাই।"
+     }
+    ],
+    "options": [
+     {
+      "en": "Rajani",
+      "as": "ৰজনী"
+     },
+     {
+      "en": "Mangaldoi",
+      "as": "মংগলদৈ"
+     },
+     {
+      "en": "Sankala",
+      "as": "শংকলা"
+     },
+     {
+      "en": "Joymoti",
+      "as": "জয়মতী"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Rajani.",
+     "as": "ৰজনী।"
+    },
+    "id": "skg3.test.01"
+   },
+   {
+    "type": "tf",
+    "s": {
+     "en": "Sukhaangphaa paid the tribute Mungkang demanded.",
+     "as": "মুংকাঙে দাবী কৰা কৰ চুখাংফাই দিছিল।"
+    },
+    "answer": false,
+    "why": {
+     "en": "False. He refused, and the matter was dropped.",
+     "as": "অশুদ্ধ। তেওঁ অস্বীকাৰ কৰিছিল, আৰু কথাটো শেষ হৈছিল।"
+    },
+    "id": "skg.test.04"
+   },
+   {
+    "type": "odd",
+    "q": {
+     "en": "Which one was NOT a son of Sukhaangphaa?",
+     "as": "কোনজন চুখাংফাৰ পুত্ৰ নাছিল?"
+    },
+    "options": [
+     {
+      "en": "Sukhrangphaa",
+      "as": "চুখ্ৰাংফা"
+     },
+     {
+      "en": "Sutuphaa",
+      "as": "চুতুফা"
+     },
+     {
+      "en": "Subinphaa",
+      "as": "চুবিনফা"
+     },
+     {
+      "en": "Tyao Khamti",
+      "as": "ত্যাও খামতি"
+     }
+    ],
+    "answer": 2,
+    "why": {
+     "en": "Subinphaa was his father. The others were his sons.",
+     "as": "চুবিনফা আছিল তেওঁৰ পিতৃ। বাকীসকল তেওঁৰ পুত্ৰ।"
+    },
+    "id": "skg.test.05"
+   },
+   {
+    "type": "picture",
+    "q": {
+     "en": "Which picture shows the long war with Kamata?",
+     "as": "কোনখন ছবিত কামতাৰ সৈতে দীঘলীয়া যুদ্ধ দেখুওৱা হৈছে?"
+    },
+    "options": [
+     "stalemate.webp",
+     "royal-marriage.webp",
+     "royal-son.webp",
+     "sukhaangphaa-portrait.webp"
+    ],
+    "answer": 0,
+    "answerText": {
+     "en": "The stalemate",
+     "as": "অচলাৱস্থা"
+    },
+    "why": {
+     "en": "Years of fighting with heavy losses on both sides.",
+     "as": "দুয়োপক্ষৰ বহু ক্ষতিৰে বছৰ বছৰ যুদ্ধ।"
+    },
+    "id": "skg3.test.02"
+   },
+   {
+    "type": "order",
+    "q": {
+     "en": "Put these in order.",
+     "as": "ক্ৰম অনুসৰি সজোৱা।"
+    },
+    "items": [
+     {
+      "en": "Sukhaangphaa becomes king",
+      "as": "চুখাংফা ৰজা হয়"
+     },
+     {
+      "en": "War with Kamata",
+      "as": "কামতাৰ সৈতে যুদ্ধ"
+     },
+     {
+      "en": "Marries Rajani",
+      "as": "ৰজনীক বিয়া"
+     },
+     {
+      "en": "Sukhaangphaa dies",
+      "as": "চুখাংফাৰ মৃত্যু"
+     }
+    ],
+    "why": {
+     "en": "1293 → war → treaty and marriage → 1332.",
+     "as": "১২৯৩ → যুদ্ধ → সন্ধি আৰু বিবাহ → ১৩৩২।"
+    },
+    "id": "skg2.test.07"
+   },
+   {
+    "type": "whoami",
+    "clues": [
+     {
+      "en": "I was the fourth Ahom king.",
+      "as": "মই চতুৰ্থ আহোম ৰজা।"
+     },
+     {
+      "en": "I fought the Ahoms' first big war, against Kamata.",
+      "as": "মই কামতাৰ বিৰুদ্ধে আহোমৰ প্ৰথম ডাঙৰ যুদ্ধ কৰিছিলোঁ।"
+     },
+     {
+      "en": "I married Rajani.",
+      "as": "মই ৰজনীক বিয়া কৰাইছিলোঁ।"
+     }
+    ],
+    "options": [
+     {
+      "en": "Sukhaangphaa",
+      "as": "চুখাংফা"
+     },
+     {
+      "en": "Sukhrangphaa",
+      "as": "চুখ্ৰাংফা"
+     },
+     {
+      "en": "Subinphaa",
+      "as": "চুবিনফা"
+     },
+     {
+      "en": "Sudangphaa",
+      "as": "চুদাংফা"
+     }
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Sukhaangphaa (1293–1332).",
+     "as": "চুখাংফা (১২৯৩–১৩৩২)।"
+    },
+    "id": "skg2.test.08"
+   },
+   {
+    "type": "tf",
+    "s": {
+     "en": "The Ahoms fought Kamata before they fought the Chutias or Kacharis in a big war.",
+     "as": "চুতীয়া বা কছাৰীৰ সৈতে ডাঙৰ যুদ্ধৰ আগতে আহোমে কামতাৰ সৈতে যুঁজিছিল।"
+    },
+    "answer": true,
+    "why": {
+     "en": "True. Gait calls it curious: the first big war was against distant Kamata.",
+     "as": "শুদ্ধ। গেইটে ইয়াক আচৰিত বুলিছে: প্ৰথম ডাঙৰ যুদ্ধ দূৰৈৰ কামতাৰ সৈতে।"
+    },
+    "id": "skg2.test.09"
+   }
+  ]
+ }
+}

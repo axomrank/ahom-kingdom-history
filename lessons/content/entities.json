@@ -1,0 +1,3176 @@
+{
+ "mongmao": {
+  "type": "place",
+  "name": {
+   "en": "Mong Mao",
+   "as": "মং মাও"
+  },
+  "meaning": {
+   "en": "Tai state near present-day Ruili, Yunnan (China); Sukaphaa's homeland",
+   "as": "বৰ্তমান চীনৰ ইউনানৰ ৰুইলিৰ ওচৰৰ টাই ৰাজ্য; চুকাফাৰ জন্মভূমি"
+  },
+  "geo": [
+   24.018,
+   97.856
+  ],
+  "lessons": [
+   "sukaphaa",
+   "suteuphaa"
+  ]
+ },
+ "patkai": {
+  "type": "ridge",
+  "name": {
+   "en": "Patkai hills",
+   "as": "পাটকাই পাহাৰ"
+  },
+  "meaning": {
+   "en": "Hills on today's India–Myanmar border, crossed by Sukaphaa",
+   "as": "আজিৰ ভাৰত–ম্যানমাৰ সীমান্তৰ পাহাৰ, চুকাফাই পাৰ হৈছিল"
+  },
+  "lessons": [
+   "sukaphaa",
+   "sudangphaa"
+  ]
+ },
+ "pangsau": {
+  "type": "pass",
+  "name": {
+   "en": "Pangsau Pass",
+   "as": "পাংচাউ গিৰিপথ"
+  },
+  "meaning": {
+   "en": "Pass over the Patkai in Changlang district, Arunachal Pradesh; Sukaphaa's route, later the Stilwell (Ledo) Road",
+   "as": "অৰুণাচলৰ চাংলাং জিলাত পাটকাইৰ গিৰিপথ; চুকাফাৰ পথ, পিছত ষ্টিলৱেল (লেডো) পথ"
+  },
+  "geo": [
+   27.2476,
+   96.156
+  ],
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "namrup": {
+  "type": "place",
+  "name": {
+   "en": "Namrup",
+   "as": "নামৰূপ"
+  },
+  "meaning": {
+   "en": "Where Sukaphaa arrived in December 1228",
+   "as": "১২২৮ চনৰ ডিচেম্বৰত চুকাফা য'ত উপস্থিত হৈছিল"
+  },
+  "geo": [
+   27.1836,
+   95.3469
+  ],
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "tipam": {
+  "type": "place",
+  "name": {
+   "en": "Tipam",
+   "as": "তিপাম"
+  },
+  "meaning": {
+   "en": "Sukaphaa's first settlement, near the Dihing river",
+   "as": "ডিহিং নদীৰ কাষত চুকাফাৰ প্ৰথম বসতি"
+  },
+  "geo": [
+   27.2723,
+   95.4018
+  ],
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "abhoypur": {
+  "type": "place",
+  "name": {
+   "en": "Abhoypur",
+   "as": "অভয়পুৰ"
+  },
+  "meaning": {
+   "en": "Sukaphaa's settlement from 1236",
+   "as": "১২৩৬ৰ পৰা চুকাফাৰ বসতি"
+  },
+  "geo": [
+   27.001,
+   94.9593
+  ]
+ },
+ "habung": {
+  "type": "place",
+  "name": {
+   "en": "Habung",
+   "as": "হাবুং"
+  },
+  "meaning": {
+   "en": "Sukaphaa's settlement from 1240, north of the Brahmaputra",
+   "as": "১২৪০ৰ পৰা চুকাফাৰ বসতি, ব্ৰহ্মপুত্ৰৰ উত্তৰে"
+  },
+  "geo": [
+   27.3415,
+   94.5009
+  ],
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "ligirigaon": {
+  "type": "place",
+  "name": {
+   "en": "Ligirigaon",
+   "as": "লিগিৰীগাঁও"
+  },
+  "meaning": {
+   "en": "Sukaphaa's settlement from 1244",
+   "as": "১২৪৪ৰ পৰা চুকাফাৰ বসতি"
+  }
+ },
+ "simaluguri": {
+  "type": "place",
+  "name": {
+   "en": "Simaluguri",
+   "as": "চিমলুগুৰি"
+  },
+  "meaning": {
+   "en": "Sukaphaa's settlement from 1246",
+   "as": "১২৪৬ৰ পৰা চুকাফাৰ বসতি"
+  },
+  "geo": [
+   26.9199,
+   94.7614
+  ]
+ },
+ "charaideo": {
+  "type": "place",
+  "name": {
+   "en": "Charaideo",
+   "as": "চৰাইদেউ"
+  },
+  "meaning": {
+   "en": "First Ahom capital (1253), from Tai Che-Rai-Doi, 'a shining town on a hilltop'; royal burial ground",
+   "as": "প্ৰথম আহোম ৰাজধানী (১২৫৩), টাই চে-ৰাই-দৈ, 'পাহাৰৰ ওপৰৰ উজ্জ্বল নগৰ'; ৰাজকীয় সমাধিস্থল"
+  },
+  "geo": [
+   26.9419,
+   94.8761
+  ],
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "sivasagar": {
+  "type": "place",
+  "name": {
+   "en": "Sivasagar",
+   "as": "শিৱসাগৰ"
+  },
+  "meaning": {
+   "en": "Town on the Dikhou river, near Charaideo",
+   "as": "দিখৌ নদীৰ পাৰৰ নগৰ, চৰাইদেউৰ ওচৰত"
+  },
+  "geo": [
+   26.9889,
+   94.639
+  ]
+ },
+ "brahmaputra": {
+  "type": "river",
+  "name": {
+   "en": "Brahmaputra",
+   "as": "ব্ৰহ্মপুত্ৰ"
+  },
+  "meaning": {
+   "en": "The great river of the Assam valley",
+   "as": "অসম উপত্যকাৰ মহানদী"
+  }
+ },
+ "dikhou": {
+  "type": "river",
+  "name": {
+   "en": "Dikhou",
+   "as": "দিখৌ"
+  },
+  "meaning": {
+   "en": "River near Sivasagar; under Suteuphaa the Kacharis left the land east of it",
+   "as": "শিৱসাগৰৰ ওচৰৰ নদী; চুতেউফাৰ দিনত কছাৰীসকলে ইয়াৰ পূব পাৰ এৰিছিল"
+  },
+  "lessons": [
+   "suhenphaa"
+  ]
+ },
+ "disang": {
+  "type": "river",
+  "name": {
+   "en": "Disang",
+   "as": "দিচাং"
+  },
+  "meaning": {
+   "en": "South-bank river of Upper Assam, east of the Dikhou",
+   "as": "দিখৌৰ পূবে উজনি অসমৰ দক্ষিণ পাৰৰ নদী"
+  }
+ },
+ "dihing": {
+  "type": "river",
+  "name": {
+   "en": "Dihing",
+   "as": "ডিহিং"
+  },
+  "meaning": {
+   "en": "The Burhidihing, a south-bank river of Upper Assam",
+   "as": "বুঢ়ীডিহিং, উজনি অসমৰ দক্ষিণ পাৰৰ নদী"
+  },
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "mungkang": {
+  "type": "place",
+  "name": {
+   "en": "Mungkang",
+   "as": "মুংকাং"
+  },
+  "meaning": {
+   "en": "Shan kingdom in Upper Burma (Mong Kawng)",
+   "as": "উজনি বাৰ্মাৰ শ্যান ৰাজ্য (মং কাং)"
+  },
+  "lessons": [
+   "suteuphaa",
+   "sukhaangphaa",
+   "sudangphaa"
+  ],
+  "geo": [
+   25.3014,
+   96.9417
+  ]
+ },
+ "moran": {
+  "type": "people",
+  "name": {
+   "en": "Morans",
+   "as": "মৰাণ"
+  },
+  "meaning": {
+   "en": "People of the valley; Sukaphaa married the daughter of their chief Badaucha",
+   "as": "উপত্যকাৰ জনগোষ্ঠী; চুকাফাই তেওঁলোকৰ ৰজা বদৌচাৰ জীয়েকক বিয়া কৰাইছিল"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "barahi": {
+  "type": "people",
+  "name": {
+   "en": "Barahis",
+   "as": "বৰাহী"
+  },
+  "meaning": {
+   "en": "People of the valley; Sukaphaa married the daughter of their chief Thakumatha",
+   "as": "উপত্যকাৰ জনগোষ্ঠী; চুকাফাই তেওঁলোকৰ ৰজা থাকুমথাৰ জীয়েকক বিয়া কৰাইছিল"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "kachari": {
+  "type": "people",
+  "name": {
+   "en": "Kacharis",
+   "as": "কছাৰী"
+  },
+  "meaning": {
+   "en": "Neighbouring people and kingdom; left the land east of the Dikhou under Suteuphaa",
+   "as": "চুবুৰীয়া জনগোষ্ঠী আৰু ৰাজ্য; চুতেউফাৰ দিনত দিখৌৰ পূব পাৰ এৰিছিল"
+  },
+  "lessons": [
+   "suteuphaa",
+   "sukhaangphaa",
+   "suhenphaa"
+  ]
+ },
+ "naras": {
+  "type": "people",
+  "name": {
+   "en": "Naras",
+   "as": "নৰা"
+  },
+  "meaning": {
+   "en": "The Shans of Mungkang in Upper Burma",
+   "as": "উজনি বাৰ্মাৰ মুংকাঙৰ শ্যান লোক"
+  },
+  "lessons": [
+   "suteuphaa"
+  ]
+ },
+ "sukaphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sukaphaa",
+   "as": "চুকাফা"
+  },
+  "meaning": {
+   "en": "Founder and first Ahom king (1228–1268), title Chaolung",
+   "as": "আহোম ৰাজ্যৰ প্ৰতিষ্ঠাপক আৰু প্ৰথম ৰজা (১২২৮–১২৬৮), উপাধি চাওলুং"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "suteuphaa": {
+  "type": "person",
+  "name": {
+   "en": "Suteuphaa",
+   "as": "চুতেউফা"
+  },
+  "meaning": {
+   "en": "Second Ahom king (1268–1281), Sukaphaa's eldest son",
+   "as": "দ্বিতীয় আহোম ৰজা (১২৬৮–১২৮১), চুকাফাৰ জ্যেষ্ঠ পুত্ৰ"
+  },
+  "lessons": [
+   "sukaphaa",
+   "suteuphaa"
+  ]
+ },
+ "subinphaa": {
+  "type": "person",
+  "name": {
+   "en": "Subinphaa",
+   "as": "চুবিনফা"
+  },
+  "meaning": {
+   "en": "Third Ahom king (1281–1293), Suteuphaa's son",
+   "as": "তৃতীয় আহোম ৰজা (১২৮১–১২৯৩), চুতেউফাৰ পুত্ৰ"
+  },
+  "lessons": [
+   "suteuphaa",
+   "subinphaa"
+  ]
+ },
+ "badaucha": {
+  "type": "person",
+  "name": {
+   "en": "Badaucha",
+   "as": "বদৌচা"
+  },
+  "meaning": {
+   "en": "Moran chief whose daughter married Sukaphaa",
+   "as": "মৰাণ ৰজা, যাৰ জীয়েকক চুকাফাই বিয়া কৰাইছিল"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "thakumatha": {
+  "type": "person",
+  "name": {
+   "en": "Thakumatha",
+   "as": "থাকুমথা"
+  },
+  "meaning": {
+   "en": "Barahi chief whose daughter married Sukaphaa",
+   "as": "বৰাহী ৰজা, যাৰ জীয়েকক চুকাফাই বিয়া কৰাইছিল"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "burhagohain": {
+  "type": "office",
+  "name": {
+   "en": "Burhagohain",
+   "as": "বুঢ়াগোহাঁই"
+  },
+  "meaning": {
+   "en": "One of the two great ministers (Dangarias) created by Sukaphaa",
+   "as": "চুকাফাই সৃষ্টি কৰা দুজন প্ৰধান মন্ত্ৰী (ডাঙৰীয়া)ৰ এজন"
+  },
+  "lessons": [
+   "sukaphaa",
+   "suteuphaa",
+   "subinphaa",
+   "sutuphaa",
+   "sudangphaa",
+   "suhenphaa",
+   "supimphaa"
+  ]
+ },
+ "borgohain": {
+  "type": "office",
+  "name": {
+   "en": "Borgohain",
+   "as": "বৰগোহাঁই"
+  },
+  "meaning": {
+   "en": "One of the two great ministers (Dangarias) created by Sukaphaa",
+   "as": "চুকাফাই সৃষ্টি কৰা দুজন প্ৰধান মন্ত্ৰী (ডাঙৰীয়া)ৰ এজন"
+  },
+  "lessons": [
+   "sukaphaa",
+   "suteuphaa",
+   "subinphaa",
+   "sukhrangphaa",
+   "sutuphaa"
+  ]
+ },
+ "borpatrogohain": {
+  "type": "office",
+  "name": {
+   "en": "Borpatrogohain",
+   "as": "বৰপাত্ৰগোহাঁই"
+  },
+  "meaning": {
+   "en": "Third great minister, added by Suhungmung in 1527 (not by Sukaphaa)",
+   "as": "তৃতীয় প্ৰধান মন্ত্ৰী, ১৫২৭ চনত চুহুংমুঙে যোগ কৰিছিল (চুকাফাই নহয়)"
+  },
+  "lessons": [
+   "supimphaa"
+  ]
+ },
+ "dangaria": {
+  "type": "office",
+  "name": {
+   "en": "Dangaria",
+   "as": "ডাঙৰীয়া"
+  },
+  "meaning": {
+   "en": "Title of the great ministers (Burhagohain, Borgohain)",
+   "as": "প্ৰধান মন্ত্ৰীসকলৰ উপাধি (বুঢ়াগোহাঁই, বৰগোহাঁই)"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "buranji": {
+  "type": "term",
+  "name": {
+   "en": "Buranji",
+   "as": "বুৰঞ্জী"
+  },
+  "meaning": {
+   "en": "Ahom court chronicles, begun under Sukaphaa; a major source of Assam's history",
+   "as": "চুকাফাৰ দিনৰ পৰা লিখা আহোম ৰাজসভাৰ ইতিহাস; অসমৰ ইতিহাসৰ প্ৰধান উৎস"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "moidam": {
+  "type": "term",
+  "name": {
+   "en": "Moidam",
+   "as": "মৈদাম"
+  },
+  "meaning": {
+   "en": "Ahom royal burial mound; the Charaideo Moidams became India's 43rd UNESCO World Heritage Site in 2024",
+   "as": "আহোম ৰাজকীয় সমাধি-স্তূপ; ২০২৪ চনত চৰাইদেউৰ মৈদাম ভাৰতৰ ৪৩তম ইউনেস্কো বিশ্ব ঐতিহ্য ক্ষেত্ৰ হয়"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "bor-asom": {
+  "type": "term",
+  "name": {
+   "en": "Bor Asom",
+   "as": "বৰ অসম"
+  },
+  "meaning": {
+   "en": "'Greater Assam': one land for many peoples, the idea linked with Sukaphaa",
+   "as": "'বৃহত্তৰ অসম': বহু জনগোষ্ঠীৰ এক দেশ, চুকাফাৰ সৈতে জড়িত ধাৰণা"
+  }
+ },
+ "asom-divas": {
+  "type": "term",
+  "name": {
+   "en": "Asom Divas",
+   "as": "অসম দিৱস"
+  },
+  "meaning": {
+   "en": "2 December, marking Sukaphaa's arrival; official since 1996 (24 November is Lachit Divas)",
+   "as": "২ ডিচেম্বৰ, চুকাফাৰ আগমন সোঁৱৰি; ১৯৯৬ৰ পৰা চৰকাৰী (২৪ নৱেম্বৰ লাচিত দিৱস)"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "chaolung": {
+  "type": "term",
+  "name": {
+   "en": "Chaolung",
+   "as": "চাওলুং"
+  },
+  "meaning": {
+   "en": "Sukaphaa's title: Chao = lord, Lung = great",
+   "as": "চুকাফাৰ উপাধি: চাও = প্ৰভু, লুং = মহান"
+  }
+ },
+ "wet-rice": {
+  "type": "term",
+  "name": {
+   "en": "wet-rice farming",
+   "as": "পানীখেতি"
+  },
+  "meaning": {
+   "en": "Rice grown in flooded fields; the Tai settlers looked for flat land near rivers",
+   "as": "পানী ভৰা পথাৰত ধান খেতি; টাই বসতিস্থাপনকাৰীয়ে নদীৰ কাষৰ সমতল মাটি বিচাৰিছিল"
+  },
+  "lessons": [
+   "sukaphaa"
+  ]
+ },
+ "satgharia": {
+  "type": "term",
+  "name": {
+   "en": "Satgharia",
+   "as": "সাতঘৰীয়া"
+  },
+  "meaning": {
+   "en": "The Ahom nobility of 'seven houses': three ruling clans (royal Gohain, Burhagohain, Borgohain) and four priestly clans (Deodhai, Bailung, Mohan, Siring)",
+   "as": "'সাত ঘৰ'ৰ আহোম অভিজাত বৰ্গ: তিনিটা শাসক ফৈদ (ৰাজকীয় গোহাঁই, বুঢ়াগোহাঁই, বৰগোহাঁই) আৰু চাৰিটা পুৰোহিত ফৈদ (দেওধাই, বাইলুং, মোহন, চিৰিং)"
+  },
+  "lessons": [
+   "subinphaa"
+  ]
+ },
+ "sukhaangphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sukhaangphaa",
+   "as": "চুখাংফা"
+  },
+  "meaning": {
+   "en": "Fourth Ahom king (1293–1332); fought the first Ahom–Kamata war and married the Kamata princess Rajani",
+   "as": "চতুৰ্থ আহোম ৰজা (১২৯৩–১৩৩২); প্ৰথম আহোম–কামতা যুদ্ধ কৰিছিল আৰু কামতাৰ কুঁৱৰী ৰজনীক বিয়া কৰাইছিল"
+  },
+  "lessons": [
+   "sukhaangphaa"
+  ]
+ },
+ "sukhrangphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sukhrangphaa",
+   "as": "চুখ্ৰাংফা"
+  },
+  "meaning": {
+   "en": "Fifth Ahom king (1332–1364); made his half-brother Chao Pulai the Charing Raja",
+   "as": "পঞ্চম আহোম ৰজা (১৩৩২–১৩৬৪); বৈমাত্ৰেয় ভাই চাও পুলাইক চাৰিং ৰজা পাতিছিল"
+  },
+  "lessons": [
+   "sukhaangphaa",
+   "sukhrangphaa"
+  ]
+ },
+ "sutuphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sutuphaa",
+   "as": "চুতুফা"
+  },
+  "meaning": {
+   "en": "Sixth Ahom king (1369–1376); killed by the Chutia king on the Safrai river",
+   "as": "ষষ্ঠ আহোম ৰজা (১৩৬৯–১৩৭৬); চাফ্ৰাই নদীত চুতীয়া ৰজাৰ হাতত নিহত"
+  },
+  "lessons": [
+   "sukhaangphaa",
+   "sutuphaa"
+  ]
+ },
+ "tyao-khamti": {
+  "type": "person",
+  "name": {
+   "en": "Tyao Khamti",
+   "as": "ত্যাও খামতি"
+  },
+  "meaning": {
+   "en": "Seventh Ahom king (1380–1389); father of Sudangphaa; killed on his nobles' orders",
+   "as": "সপ্তম আহোম ৰজা (১৩৮০–১৩৮৯); চুদাংফাৰ পিতৃ; ডাঙৰীয়াৰ আদেশত নিহত"
+  },
+  "lessons": [
+   "sukhaangphaa",
+   "tyao-khamti"
+  ]
+ },
+ "sudangphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sudangphaa",
+   "as": "চুদাংফা"
+  },
+  "meaning": {
+   "en": "Eighth Ahom king (1397–1407), the Bamuni Konwar; fixed the Patkai boundary in 1401",
+   "as": "অষ্টম আহোম ৰজা (১৩৯৭–১৪০৭), বামুণী কোঁৱৰ; ১৪০১ চনত পাটকাই সীমা নিৰ্ধাৰণ কৰিছিল"
+  },
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "sujangphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sujangphaa",
+   "as": "চুজাংফা"
+  },
+  "meaning": {
+   "en": "Ninth Ahom king (1407–1422), son of Sudangphaa",
+   "as": "নৱম আহোম ৰজা (১৪০৭–১৪২২), চুদাংফাৰ পুত্ৰ"
+  },
+  "lessons": [
+   "sudangphaa",
+   "sujangphaa"
+  ]
+ },
+ "suphakphaa": {
+  "type": "person",
+  "name": {
+   "en": "Suphakphaa",
+   "as": "চুফাকফা"
+  },
+  "meaning": {
+   "en": "Tenth Ahom king (1422–1439), son of Sujangphaa",
+   "as": "দশম আহোম ৰজা (১৪২২–১৪৩৯), চুজাংফাৰ পুত্ৰ"
+  },
+  "lessons": [
+   "suphakphaa"
+  ]
+ },
+ "susenphaa": {
+  "type": "person",
+  "name": {
+   "en": "Susenphaa",
+   "as": "চুচেনফা"
+  },
+  "meaning": {
+   "en": "Eleventh Ahom king (1439–1488); reigned 49 years and fought the Tangsu Nagas",
+   "as": "একাদশ আহোম ৰজা (১৪৩৯–১৪৮৮); ৪৯ বছৰ ৰাজত্ব কৰিছিল আৰু টাংচু নগাৰ সৈতে যুঁজিছিল"
+  },
+  "lessons": [
+   "suphakphaa",
+   "susenphaa"
+  ]
+ },
+ "suhenphaa": {
+  "type": "person",
+  "name": {
+   "en": "Suhenphaa",
+   "as": "চুহেনফা"
+  },
+  "meaning": {
+   "en": "Twelfth Ahom king (1488–1493); lost to the Kacharis on the Dikhou; killed in his palace",
+   "as": "দ্বাদশ আহোম ৰজা (১৪৮৮–১৪৯৩); দিখৌত কছাৰীৰ হাতত পৰাজয়; ৰাজকাৰেঙত নিহত"
+  },
+  "lessons": [
+   "susenphaa",
+   "suhenphaa"
+  ]
+ },
+ "supimphaa": {
+  "type": "person",
+  "name": {
+   "en": "Supimphaa",
+   "as": "চুপিম্ফা"
+  },
+  "meaning": {
+   "en": "Thirteenth Ahom king (1493–1497), son of Suhenphaa",
+   "as": "ত্ৰয়োদশ আহোম ৰজা (১৪৯৩–১৪৯৭), চুহেনফাৰ পুত্ৰ"
+  },
+  "lessons": [
+   "supimphaa"
+  ]
+ },
+ "suhungmung": {
+  "type": "person",
+  "name": {
+   "en": "Suhungmung",
+   "as": "চুহুংমুং"
+  },
+  "meaning": {
+   "en": "Fourteenth Ahom king (1497–1539), also called Swarganarayan; created the post of Borpatrogohain",
+   "as": "চতুৰ্দশ আহোম ৰজা (১৪৯৭–১৫৩৯), স্বৰ্গনাৰায়ণ নামেও জনাজাত; বৰপাত্ৰগোহাঁই পদ সৃষ্টি কৰিছিল"
+  },
+  "lessons": [
+   "supimphaa"
+  ]
+ },
+ "kamata": {
+  "type": "place",
+  "name": {
+   "en": "Kamata",
+   "as": "কামতা"
+  },
+  "meaning": {
+   "en": "Kingdom west of the Ahoms, with its capital at Kamatapur, near today's Cooch Behar",
+   "as": "আহোমৰ পশ্চিমৰ ৰাজ্য; ৰাজধানী কামতাপুৰ, আজিৰ কোচবিহাৰৰ ওচৰত"
+  },
+  "geo": [
+   26.16,
+   89.36
+  ],
+  "lessons": [
+   "sukhaangphaa",
+   "sukhrangphaa",
+   "sudangphaa"
+  ]
+ },
+ "rajani": {
+  "type": "person",
+  "name": {
+   "en": "Rajani",
+   "as": "ৰজনী"
+  },
+  "meaning": {
+   "en": "Kamata princess married to Sukhaangphaa to seal the peace treaty",
+   "as": "শান্তি সন্ধি পকা কৰিবলৈ চুখাংফাৰ সৈতে বিয়া হোৱা কামতাৰ কুঁৱৰী"
+  },
+  "lessons": [
+   "sukhaangphaa"
+  ]
+ },
+ "chao-pulai": {
+  "type": "person",
+  "name": {
+   "en": "Chao Pulai",
+   "as": "চাও পুলাই"
+  },
+  "meaning": {
+   "en": "Son of Sukhaangphaa and a Kamata princess; Charing Raja under Sukhrangphaa; plotted and fled to Kamata",
+   "as": "চুখাংফা আৰু কামতাৰ কুঁৱৰীৰ পুত্ৰ; চুখ্ৰাংফাৰ দিনৰ চাৰিং ৰজা; ষড়যন্ত্ৰ কৰি কামতালৈ পলাইছিল"
+  },
+  "lessons": [
+   "sukhaangphaa",
+   "sukhrangphaa"
+  ]
+ },
+ "charing-raja": {
+  "type": "office",
+  "name": {
+   "en": "Charing Raja",
+   "as": "চাৰিং ৰজা"
+  },
+  "meaning": {
+   "en": "Title of a senior Ahom prince, named after Charing; later held by the heir to the throne",
+   "as": "চাৰিঙৰ নামেৰে এজন জ্যেষ্ঠ আহোম কোঁৱৰৰ উপাধি; পিছলৈ সিংহাসনৰ উত্তৰাধিকাৰীয়ে ধৰিছিল"
+  },
+  "lessons": [
+   "sukhrangphaa"
+  ]
+ },
+ "chutia": {
+  "type": "people",
+  "name": {
+   "en": "Chutias",
+   "as": "চুতীয়া"
+  },
+  "meaning": {
+   "en": "People of the Chutia kingdom in the north-east, centred on Sadiya",
+   "as": "উত্তৰ-পূবৰ শদিয়া কেন্দ্ৰিক চুতীয়া ৰাজ্যৰ লোক"
+  },
+  "lessons": [
+   "sukhaangphaa",
+   "sutuphaa",
+   "tyao-khamti"
+  ]
+ },
+ "sadiya": {
+  "type": "place",
+  "name": {
+   "en": "Sadiya",
+   "as": "শদিয়া"
+  },
+  "meaning": {
+   "en": "Centre of the Chutia kingdom, in today's Tinsukia district",
+   "as": "চুতীয়া ৰাজ্যৰ কেন্দ্ৰ, আজিৰ তিনিচুকীয়া জিলাত"
+  },
+  "geo": [
+   27.83,
+   95.67
+  ],
+  "lessons": [
+   "sukhaangphaa",
+   "sutuphaa"
+  ]
+ },
+ "safrai": {
+  "type": "river",
+  "name": {
+   "en": "Safrai",
+   "as": "চাফ্ৰাই"
+  },
+  "meaning": {
+   "en": "A river of Upper Assam; Sutuphaa was killed on it in 1376",
+   "as": "উজনি অসমৰ এখন নদী; ১৩৭৬ চনত ইয়াতে চুতুফা নিহত হৈছিল"
+  },
+  "lessons": [
+   "sutuphaa"
+  ]
+ },
+ "interregnum": {
+  "type": "term",
+  "name": {
+   "en": "Interregnum",
+   "as": "ৰজাবিহীন কাল"
+  },
+  "meaning": {
+   "en": "A period when the throne is empty and the great ministers rule. Three before 1397: 1364–69, 1376–80 and 1389–97",
+   "as": "যি সময়ত সিংহাসন খালী থাকে আৰু প্ৰধান ডাঙৰীয়াই শাসন কৰে। ১৩৯৭ৰ আগতে তিনিটা: ১৩৬৪–৬৯, ১৩৭৬–৮০ আৰু ১৩৮৯–৯৭"
+  },
+  "lessons": [
+   "sukhrangphaa"
+  ]
+ },
+ "thao-cheoken": {
+  "type": "person",
+  "name": {
+   "en": "Thao Cheoken",
+   "as": "থাও চেওকেন"
+  },
+  "meaning": {
+   "en": "Cattle trader who recognised the lost prince Sudang in Habung",
+   "as": "হাবুঙত হেৰোৱা কোঁৱৰ সুদাঙক চিনি পোৱা গৰুৰ বেপাৰী"
+  },
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "singarigharutha": {
+  "type": "term",
+  "name": {
+   "en": "Singarigharutha",
+   "as": "সিংগৰিঘৰ উঠা"
+  },
+  "meaning": {
+   "en": "Ahom coronation ceremony begun by Sudangphaa, named after the Singari wood of the king's platform",
+   "as": "চুদাংফাই আৰম্ভ কৰা আহোম অভিষেক অনুষ্ঠান; ৰজাৰ মঞ্চৰ সিংগৰি কাঠৰ নামেৰে"
+  },
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "charguya": {
+  "type": "place",
+  "name": {
+   "en": "Charguya",
+   "as": "চৰগুৱা"
+  },
+  "meaning": {
+   "en": "Sudangphaa's capital from 1403, near the Dihing river",
+   "as": "১৪০৩ৰ পৰা চুদাংফাৰ ৰাজধানী, ডিহিং নদীৰ ওচৰত"
+  },
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "tai-sulai": {
+  "type": "person",
+  "name": {
+   "en": "Tai Sulai",
+   "as": "তাই চুলাই"
+  },
+  "meaning": {
+   "en": "Tipam man who fled to Mungkang and then Kamata; his flight led to the war ended by the 1401 Patkai treaty",
+   "as": "মুংকাং আৰু পিছত কামতালৈ পলোৱা টিপামীয়া; তেওঁৰ পলায়নৰ পৰাই যুদ্ধ, যাৰ অন্ত ১৪০১ৰ পাটকাই সন্ধিত"
+  },
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "nongnyang": {
+  "type": "place",
+  "name": {
+   "en": "Nongnyang lake",
+   "as": "নংনিয়াং হ্ৰদ"
+  },
+  "meaning": {
+   "en": "Lake just beyond the Pangsau Pass where the oath of the 1401 Patkai treaty was sworn",
+   "as": "পাংচাউ গিৰিপথৰ সিপাৰৰ হ্ৰদ, য'ত ১৪০১ৰ পাটকাই সন্ধিৰ শপত খোৱা হৈছিল"
+  },
+  "geo": [
+   27.22,
+   96.17
+  ],
+  "lessons": [
+   "sudangphaa"
+  ]
+ },
+ "tangsu": {
+  "type": "people",
+  "name": {
+   "en": "Tangsu Nagas",
+   "as": "টাংচু নগা"
+  },
+  "meaning": {
+   "en": "A Naga group that raided Ahom villages; fought by Susenphaa and Suhenphaa",
+   "as": "আহোম গাঁৱত আক্ৰমণ কৰা এটা নগা গোষ্ঠী; চুচেনফা আৰু চুহেনফাই যুঁজিছিল"
+  },
+  "lessons": [
+   "susenphaa",
+   "suhenphaa"
+  ]
+ },
+ "konseng": {
+  "type": "person",
+  "name": {
+   "en": "Konseng",
+   "as": "কনচেং"
+  },
+  "meaning": {
+   "en": "Supimphaa's son (Senglung), born in a Naga village; the first Borpatrogohain, under Suhungmung",
+   "as": "চুপিম্ফাৰ পুত্ৰ (চেংলুং), নগা গাঁৱত জন্ম; চুহুংমুঙৰ দিনত প্ৰথম বৰপাত্ৰগোহাঁই"
+  },
+  "lessons": [
+   "supimphaa"
+  ]
+ },
+ "swarganarayan": {
+  "type": "term",
+  "name": {
+   "en": "Swarganarayan",
+   "as": "স্বৰ্গনাৰায়ণ"
+  },
+  "meaning": {
+   "en": "Hindu title taken by Suhungmung, the first Ahom king to use a Hindu name",
+   "as": "চুহুংমুঙে লোৱা হিন্দু উপাধি; হিন্দু নাম লোৱা প্ৰথম আহোম ৰজা"
+  }
+ },
+ "saka": {
+  "type": "term",
+  "name": {
+   "en": "Saka era",
+   "as": "শকাব্দ"
+  },
+  "meaning": {
+   "en": "Indian calendar era (from 78 CE) adopted by the Ahoms under Suhungmung, in place of the Tai 60-year cycle",
+   "as": "ভাৰতীয় পঞ্জিকাৰ অব্দ (৭৮ খ্ৰীষ্টাব্দৰ পৰা); চুহুংমুঙৰ দিনত টাই ষাঠি বছৰীয়া চক্ৰৰ ঠাইত গ্ৰহণ কৰা হয়"
+  }
+ },
+ "dihingia": {
+  "type": "term",
+  "name": {
+   "en": "Dihingia Raja",
+   "as": "দিহিঙীয়া ৰজা"
+  },
+  "meaning": {
+   "en": "Suhungmung's popular name: he made his capital at Bakata on the Dihing river",
+   "as": "চুহুংমুঙৰ জনপ্ৰিয় নাম: তেওঁ ডিহিং নদীৰ পাৰৰ বকতাত ৰাজধানী পাতিছিল"
+  }
+ },
+ "dhirnarayan": {
+  "type": "person",
+  "name": {
+   "en": "Dhirnarayan",
+   "as": "ধীৰনাৰায়ণ"
+  },
+  "meaning": {
+   "en": "Last king of the Chutias, killed in battle with the Ahoms in 1523",
+   "as": "শেষ চুতীয়া ৰজা; ১৫২৩ চনত আহোমৰ সৈতে যুদ্ধত নিহত"
+  }
+ },
+ "sadiya-khowa-gohain": {
+  "type": "office",
+  "name": {
+   "en": "Sadiya Khowa Gohain",
+   "as": "সদিয়াখোৱা গোহাঁই"
+  },
+  "meaning": {
+   "en": "Ahom governor of Sadiya, created after the Chutia kingdom was annexed (1523–24)",
+   "as": "সদিয়াৰ আহোম শাসনকৰ্তা; চুতীয়া ৰাজ্য অধিকাৰৰ পিছত (১৫২৩–২৪) সৃষ্টি"
+  }
+ },
+ "rikkhvan": {
+  "type": "term",
+  "name": {
+   "en": "Rikkhvan",
+   "as": "ৰিকখ্ৱান"
+  },
+  "meaning": {
+   "en": "Ahom ceremony for long life, held at a coronation, in danger, or after a victory",
+   "as": "দীৰ্ঘায়ুৰ বাবে আহোম অনুষ্ঠান; অভিষেক, বিপদ বা বিজয়ৰ পিছত পালন কৰা হয়"
+  }
+ },
+ "dimapur": {
+  "type": "place",
+  "name": {
+   "en": "Dimapur",
+   "as": "ডিমাপুৰ"
+  },
+  "meaning": {
+   "en": "Kachari capital on the Dhansiri, taken by the Ahoms in 1531 and 1536; today in Nagaland",
+   "as": "ধনশিৰিৰ পাৰৰ কছাৰী ৰাজধানী; ১৫৩১ আৰু ১৫৩৬ চনত আহোমে দখল কৰে; আজি নগালেণ্ডত"
+  },
+  "geo": [
+   25.91,
+   93.73
+  ]
+ },
+ "detsung": {
+  "type": "person",
+  "name": {
+   "en": "Detsung",
+   "as": "দেৎচুং"
+  },
+  "meaning": {
+   "en": "Kachari king set up by the Ahoms in 1531; killed in 1536 when Dimapur fell again",
+   "as": "১৫৩১ চনত আহোমে পতা কছাৰী ৰজা; ১৫৩৬ চনত ডিমাপুৰ পুনৰ পতন হোৱাত নিহত"
+  }
+ },
+ "turbak": {
+  "type": "person",
+  "name": {
+   "en": "Turbak",
+   "as": "তুৰবক"
+  },
+  "meaning": {
+   "en": "Commander from Bengal who invaded in 1532; killed near the Bharali in 1533",
+   "as": "বংগৰ সেনাপতি; ১৫৩২ চনত আক্ৰমণ কৰে; ১৫৩৩ চনত ভৰলীৰ ওচৰত নিহত"
+  }
+ },
+ "mula-gabharu": {
+  "type": "person",
+  "name": {
+   "en": "Mula Gabharu",
+   "as": "মূলা গাভৰু"
+  },
+  "meaning": {
+   "en": "Wife of Phrasengmung Borgohain; died fighting Turbak's army in 1533",
+   "as": "ফ্ৰাচেংমুং বৰগোহাঁইৰ পত্নী; ১৫৩৩ চনত তুৰবকৰ সৈন্যৰ সৈতে যুঁজি প্ৰাণ দিয়ে"
+  }
+ },
+ "phrasengmung": {
+  "type": "person",
+  "name": {
+   "en": "Phrasengmung Borgohain",
+   "as": "ফ্ৰাচেংমুং বৰগোহাঁই"
+  },
+  "meaning": {
+   "en": "Ahom commander killed fighting Turbak; husband of Mula Gabharu",
+   "as": "তুৰবকৰ সৈতে যুঁজত নিহত আহোম সেনাপতি; মূলা গাভৰুৰ স্বামী"
+  }
+ },
+ "suklenmung": {
+  "type": "person",
+  "name": {
+   "en": "Suklenmung",
+   "as": "চুক্লেনমুং"
+  },
+  "meaning": {
+   "en": "Son of Suhungmung; king 1539–1552; built Garhgaon",
+   "as": "চুহুংমুঙৰ পুত্ৰ; ১৫৩৯–১৫৫২ লৈকে ৰজা; গড়গাঁও নিৰ্মাতা"
+  }
+ },
+ "paik": {
+  "type": "term",
+  "name": {
+   "en": "Paik",
+   "as": "পাইক"
+  },
+  "meaning": {
+   "en": "A free adult man who owed the state work or military service in turn; the base of the Ahom system",
+   "as": "ৰাজ্যক পাল পাতি শ্ৰম বা সামৰিক সেৱা দিবলগীয়া প্ৰাপ্তবয়স্ক পুৰুষ; আহোম ব্যৱস্থাৰ ভেটি"
+  }
+ },
+ "dikhowmukh": {
+  "type": "place",
+  "name": {
+   "en": "Dikhowmukh",
+   "as": "দিখৌমুখ"
+  },
+  "meaning": {
+   "en": "Where the Dikhow meets the Brahmaputra; scene of battles with the Chutias and the Koches",
+   "as": "দিখৌ আৰু ব্ৰহ্মপুত্ৰৰ সংগমস্থল; চুতীয়া আৰু কোচৰ সৈতে যুদ্ধৰ ঠাই"
+  },
+  "geo": [
+   26.98,
+   94.38
+  ]
+ },
+ "singri": {
+  "type": "place",
+  "name": {
+   "en": "Singri",
+   "as": "শিংৰি"
+  },
+  "meaning": {
+   "en": "Hill and fort on the north bank of the Brahmaputra, in today's Sonitpur, where Turbak defeated Suklen in 1532",
+   "as": "ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰৰ পাহাৰ আৰু গড়, আজিৰ শোণিতপুৰত; ১৫৩২ চনত তুৰবকে চুক্লেনক ইয়াতে হৰুৱায়"
+  },
+  "geo": [
+   26.66,
+   92.38
+  ]
+ },
+ "karatoya": {
+  "type": "river",
+  "name": {
+   "en": "Karatoya",
+   "as": "কৰতোৱা"
+  },
+  "meaning": {
+   "en": "River in north Bengal; the old western limit of Kamarupa. The Ahoms chased Turbak's army to it in 1533",
+   "as": "উত্তৰ বংগৰ নদী; পুৰণি কামৰূপৰ পশ্চিম সীমা। ১৫৩৩ চনত আহোমে তুৰবকৰ সৈন্যক ইয়ালৈকে খেদি নিছিল"
+  },
+  "geo": [
+   25.85,
+   89.35
+  ]
+ },
+ "kaliabor": {
+  "type": "place",
+  "name": {
+   "en": "Kaliabor",
+   "as": "কলিয়াবৰ"
+  },
+  "meaning": {
+   "en": "Place on the south bank in today's Nagaon district; later the seat of the Borphukan",
+   "as": "আজিৰ নগাঁও জিলাৰ দক্ষিণ পাৰৰ ঠাই; পিছলৈ বৰফুকনৰ কেন্দ্ৰ"
+  },
+  "geo": [
+   26.58,
+   93.0
+  ]
+ },
+ "moria": {
+  "type": "people",
+  "name": {
+   "en": "Morias",
+   "as": "মৰিয়া"
+  },
+  "meaning": {
+   "en": "Descendants of Muslim soldiers captured in 1533, settled in Assam; known as brass-workers",
+   "as": "১৫৩৩ চনত বন্দী মুছলমান সৈন্যৰ বংশধৰ; অসমত সংস্থাপিত; কাঁহ-পিতলৰ শিল্পী"
+  }
+ },
+ "biswa-singha": {
+  "type": "person",
+  "name": {
+   "en": "Biswa Singha",
+   "as": "বিশ্ব সিংহ"
+  },
+  "meaning": {
+   "en": "Founder of the Koch kingdom; visited Suhungmung with gifts in 1537",
+   "as": "কোচ ৰাজ্যৰ প্ৰতিষ্ঠাপক; ১৫৩৭ চনত উপহাৰ লৈ চুহুংমুঙৰ ওচৰলৈ আহিছিল"
+  }
+ },
+ "dhansiri-south": {
+  "type": "river",
+  "name": {
+   "en": "Dhansiri",
+   "as": "ধনশিৰি"
+  },
+  "meaning": {
+   "en": "South-bank river flowing past Dimapur and Golaghat into the Brahmaputra; heart of the old Kachari land",
+   "as": "ডিমাপুৰ আৰু গোলাঘাটৰ কাষেৰে বৈ ব্ৰহ্মপুত্ৰত পৰা দক্ষিণ পাৰৰ নদী; পুৰণি কছাৰী এলেকাৰ কেন্দ্ৰ"
+  }
+ },
+ "bharali": {
+  "type": "river",
+  "name": {
+   "en": "Bharali",
+   "as": "ভৰলী"
+  },
+  "meaning": {
+   "en": "North-bank river meeting the Brahmaputra near Tezpur",
+   "as": "তেজপুৰৰ ওচৰত ব্ৰহ্মপুত্ৰত পৰা উত্তৰ পাৰৰ নদী"
+  }
+ },
+ "subansiri": {
+  "type": "river",
+  "name": {
+   "en": "Subansiri",
+   "as": "সোৱণশিৰি"
+  },
+  "meaning": {
+   "en": "Largest north-bank tributary of the Brahmaputra, in Lakhimpur",
+   "as": "ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰৰ আটাইতকৈ ডাঙৰ উপনৈ, লখিমপুৰত"
+  }
+ },
+ "manas": {
+  "type": "river",
+  "name": {
+   "en": "Manas",
+   "as": "মানাহ"
+  },
+  "meaning": {
+   "en": "River of western Assam; for long the boundary between the Ahoms and the Mughals",
+   "as": "পশ্চিম অসমৰ নদী; বহুদিন আহোম আৰু মোগলৰ মাজৰ সীমা"
+  }
+ },
+ "kolong": {
+  "type": "river",
+  "name": {
+   "en": "Kolong",
+   "as": "কলং"
+  },
+  "meaning": {
+   "en": "Branch of the Brahmaputra flowing through Nagaon",
+   "as": "নগাঁৱৰ মাজেৰে বোৱা ব্ৰহ্মপুত্ৰৰ শাখা নদী"
+  }
+ },
+ "kapili": {
+  "type": "river",
+  "name": {
+   "en": "Kapili",
+   "as": "কপিলী"
+  },
+  "meaning": {
+   "en": "South-bank river of central Assam, near the old Kachari and Jaintia lands",
+   "as": "মধ্য অসমৰ দক্ষিণ পাৰৰ নদী, পুৰণি কছাৰী আৰু জয়ন্তীয়া এলেকাৰ ওচৰত"
+  }
+ },
+ "lohit": {
+  "type": "river",
+  "name": {
+   "en": "Lohit",
+   "as": "লুইত"
+  },
+  "meaning": {
+   "en": "River from the east that forms the Brahmaputra near Sadiya; 'Luit' is an old name for the Brahmaputra itself",
+   "as": "পূবৰ পৰা অহা নদী, সদিয়াৰ ওচৰত ব্ৰহ্মপুত্ৰ গঢ়ে; 'লুইত' ব্ৰহ্মপুত্ৰৰে পুৰণি নাম"
+  }
+ },
+ "jiyadhol": {
+  "type": "river",
+  "name": {
+   "en": "Jiadhal",
+   "as": "জীয়াঢল"
+  },
+  "meaning": {
+   "en": "North-bank river of Dhemaji",
+   "as": "ধেমাজিৰ উত্তৰ পাৰৰ নদী"
+  }
+ },
+ "garhgaon": {
+  "type": "place",
+  "name": {
+   "en": "Garhgaon",
+   "as": "গড়গাঁও"
+  },
+  "meaning": {
+   "en": "Ahom capital built by Suklenmung around 1540, near today's Nazira; seat of the Kareng Ghar palace",
+   "as": "চুক্লেনমুঙে ১৫৪০ চনৰ আশে-পাশে নিৰ্মাণ কৰা আহোম ৰাজধানী, আজিৰ নাজিৰাৰ ওচৰত; কাৰেং ঘৰৰ ঠাই"
+  },
+  "geo": [
+   26.93,
+   94.73
+  ]
+ },
+ "naga-ali": {
+  "type": "term",
+  "name": {
+   "en": "Naga Ali",
+   "as": "নগা আলি"
+  },
+  "meaning": {
+   "en": "Road built under Suklenmung from the Dhodar Ali area to the Naga hills",
+   "as": "চুক্লেনমুঙৰ দিনত নগা পাহাৰলৈ নিৰ্মাণ কৰা আলিবাট"
+  }
+ },
+ "koch": {
+  "type": "people",
+  "name": {
+   "en": "Koches",
+   "as": "কোচ"
+  },
+  "meaning": {
+   "en": "People of the Koch kingdom of western Assam and north Bengal, founded by Biswa Singha",
+   "as": "বিশ্ব সিংহই প্ৰতিষ্ঠা কৰা পশ্চিম অসম আৰু উত্তৰ বংগৰ কোচ ৰাজ্যৰ লোক"
+  }
+ },
+ "chilarai": {
+  "type": "person",
+  "name": {
+   "en": "Chilarai",
+   "as": "চিলাৰায়"
+  },
+  "meaning": {
+   "en": "Sukladhwaj, brother and general of the Koch king Nara Narayan; invaded the Ahom kingdom in 1546 and 1563",
+   "as": "শুক্লধ্বজ, কোচ ৰজা নৰনাৰায়ণৰ ভাই আৰু সেনাপতি; ১৫৪৬ আৰু ১৫৬৩ চনত আহোম ৰাজ্য আক্ৰমণ কৰে"
+  }
+ },
+ "nara-narayan": {
+  "type": "person",
+  "name": {
+   "en": "Nara Narayan",
+   "as": "নৰনাৰায়ণ"
+  },
+  "meaning": {
+   "en": "Greatest Koch king (ruled from about 1540 to 1587); patron of Sankardev",
+   "as": "শ্ৰেষ্ঠ কোচ ৰজা (প্ৰায় ১৫৪০–১৫৮৭); শংকৰদেৱৰ পৃষ্ঠপোষক"
+  }
+ },
+ "gohain-kamal-ali": {
+  "type": "term",
+  "name": {
+   "en": "Gohain Kamal Ali",
+   "as": "গোঁহাই কমল আলি"
+  },
+  "meaning": {
+   "en": "Long road built by the Koches along the north bank, from Koch Bihar to Narayanpur, during the war of 1546–47",
+   "as": "১৫৪৬–৪৭ৰ যুদ্ধৰ সময়ত কোচসকলে উত্তৰ পাৰেদি কোচবিহাৰৰ পৰা নাৰায়ণপুৰলৈ সজা দীঘল আলি"
+  }
+ },
+ "narayanpur": {
+  "type": "place",
+  "name": {
+   "en": "Narayanpur",
+   "as": "নাৰায়ণপুৰ"
+  },
+  "meaning": {
+   "en": "Place on the north bank in today's Lakhimpur district; the Koch base in 1547",
+   "as": "আজিৰ লখিমপুৰ জিলাৰ উত্তৰ পাৰৰ ঠাই; ১৫৪৭ চনত কোচৰ ঘাঁটি"
+  },
+  "geo": [
+   26.95,
+   93.87
+  ]
+ },
+ "sankardev": {
+  "type": "person",
+  "name": {
+   "en": "Srimanta Sankardev",
+   "as": "শ্ৰীমন্ত শংকৰদেৱ"
+  },
+  "meaning": {
+   "en": "Saint, poet and reformer (traditionally 1449–1568) who taught Ekasarana, devotion to one God; left the Ahom kingdom for Koch Behar",
+   "as": "সন্ত, কবি আৰু সংস্কাৰক (পৰম্পৰামতে ১৪৪৯–১৫৬৮); একশৰণ ধৰ্মৰ প্ৰচাৰক; আহোম ৰাজ্য এৰি কোচ ৰাজ্যলৈ গৈছিল"
+  }
+ },
+ "ekasarana": {
+  "type": "term",
+  "name": {
+   "en": "Ekasarana Dharma",
+   "as": "একশৰণ নাম ধৰ্ম"
+  },
+  "meaning": {
+   "en": "'Shelter in One': Sankardev's Vaishnava faith of prayer and singing God's name, not sacrifice",
+   "as": "'একৰ শৰণ': বলিৰ সলনি নাম-প্ৰাৰ্থনাৰ শংকৰদেৱৰ বৈষ্ণৱ ধৰ্ম"
+  }
+ },
+ "sukhaamphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sukhaamphaa",
+   "as": "চুখাম্ফা"
+  },
+  "meaning": {
+   "en": "Khora Roja, son of Suklenmung; king 1552–1603, the longest Ahom reign",
+   "as": "খোৰা ৰজা, চুক্লেনমুঙৰ পুত্ৰ; ১৫৫২–১৬০৩ লৈকে ৰজা, আটাইতকৈ দীঘলীয়া আহোম ৰাজত্ব"
+  }
+ },
+ "satra": {
+  "type": "term",
+  "name": {
+   "en": "Satra",
+   "as": "সত্ৰ"
+  },
+  "meaning": {
+   "en": "Vaishnava monastery and centre of learning, music and drama, founded by Sankardev's followers",
+   "as": "শংকৰদেৱৰ অনুগামীসকলে প্ৰতিষ্ঠা কৰা বৈষ্ণৱ মঠ; শিক্ষা, সংগীত আৰু নাটৰ কেন্দ্ৰ"
+  }
+ },
+ "khora-roja": {
+  "type": "term",
+  "name": {
+   "en": "Khora Roja",
+   "as": "খোৰা ৰজা"
+  },
+  "meaning": {
+   "en": "'The lame king': Sukhaamphaa, who hurt his foot while hunting elephants",
+   "as": "'খোৰা ৰজা': হাতী ধৰোঁতে ভৰিত আঘাত পোৱা চুখাম্ফা"
+  }
+ },
+ "majuli": {
+  "type": "place",
+  "name": {
+   "en": "Majuli",
+   "as": "মাজুলী"
+  },
+  "meaning": {
+   "en": "Large river island in the Brahmaputra; where the Ahom–Koch peace of 1563 is said to have been made; later a great centre of satras",
+   "as": "ব্ৰহ্মপুত্ৰৰ ডাঙৰ নদীদ্বীপ; ১৫৬৩ চনৰ আহোম–কোচ শান্তি ইয়াতে হোৱা বুলি কোৱা হয়; পিছলৈ সত্ৰৰ ডাঙৰ কেন্দ্ৰ"
+  },
+  "geo": [
+   27.0,
+   94.2167
+  ]
+ },
+ "aikhek": {
+  "type": "person",
+  "name": {
+   "en": "Aikhek Burhagohain",
+   "as": "আইখেক বুঢ়াগোহাঁই"
+  },
+  "meaning": {
+   "en": "Commander who asked Chilarai for peace in 1563, then was dismissed for failing to defend the kingdom",
+   "as": "১৫৬৩ চনত চিলাৰায়ৰ ওচৰত শান্তি বিচৰা সেনাপতি; ৰাজ্য ৰক্ষা কৰিব নোৱাৰাৰ বাবে পদচ্যুত"
+  }
+ },
+ "madhavdev": {
+  "type": "person",
+  "name": {
+   "en": "Madhavdev",
+   "as": "মাধৱদেৱ"
+  },
+  "meaning": {
+   "en": "Chief disciple and successor of Sankardev",
+   "as": "শংকৰদেৱৰ প্ৰধান শিষ্য আৰু উত্তৰাধিকাৰী"
+  }
+ },
+ "pratap-singha": {
+  "type": "person",
+  "name": {
+   "en": "Pratap Singha",
+   "as": "প্ৰতাপ সিংহ"
+  },
+  "meaning": {
+   "en": "Susengphaa, king 1603–1641; created the Borbarua and Borphukan; fought the Mughals",
+   "as": "চুচেংফা, ১৬০৩–১৬৪১ লৈকে ৰজা; বৰবৰুৱা আৰু বৰফুকন পদ সৃষ্টি কৰে; মোগলৰ সৈতে যুঁজে"
+  }
+ },
+ "borbarua": {
+  "type": "office",
+  "name": {
+   "en": "Borbarua",
+   "as": "বৰবৰুৱা"
+  },
+  "meaning": {
+   "en": "High office created by Pratap Singha: chief of the Upper Assam administration, judge and commander; Momai Tamuli was the first",
+   "as": "প্ৰতাপ সিংহই সৃষ্টি কৰা উচ্চ পদ: উজনি অসমৰ প্ৰশাসন, বিচাৰ আৰু সেনাৰ মুৰব্বী; মোমাই তামুলী প্ৰথম"
+  }
+ },
+ "borphukan": {
+  "type": "office",
+  "name": {
+   "en": "Borphukan",
+   "as": "বৰফুকন"
+  },
+  "meaning": {
+   "en": "Viceroy of the west, from Kaliabor and later Guwahati; created by Pratap Singha, first held by Langi Panisiya",
+   "as": "পশ্চিমৰ শাসনকৰ্তা, কলিয়াবৰ আৰু পিছত গুৱাহাটীৰ পৰা; প্ৰতাপ সিংহই সৃষ্টি কৰে; প্ৰথম লাংগী পানীচিয়া"
+  }
+ },
+ "momai-tamuli": {
+  "type": "person",
+  "name": {
+   "en": "Momai Tamuli Borbarua",
+   "as": "মোমাই তামুলী বৰবৰুৱা"
+  },
+  "meaning": {
+   "en": "First Borbarua; reorganised the paik system; signed the Treaty of Asurar Ali (1639); father of Lachit Borphukan",
+   "as": "প্ৰথম বৰবৰুৱা; পাইক ব্যৱস্থা পুনৰ গঢ়ে; অসুৰৰ আলিৰ সন্ধি (১৬৩৯) কৰে; লাচিত বৰফুকনৰ পিতৃ"
+  }
+ },
+ "langi-panisiya": {
+  "type": "person",
+  "name": {
+   "en": "Langi Panisiya",
+   "as": "লাংগী পানীচিয়া"
+  },
+  "meaning": {
+   "en": "First Borphukan, rewarded for rallying the army after the defeat at Hajo",
+   "as": "প্ৰথম বৰফুকন; হাজোৰ পৰাজয়ৰ পিছত সৈন্য একত্ৰিত কৰাৰ পুৰস্কাৰ"
+  }
+ },
+ "got": {
+  "type": "term",
+  "name": {
+   "en": "Got",
+   "as": "গোট"
+  },
+  "meaning": {
+   "en": "A unit of three or four paiks: one served the state while the others worked his land",
+   "as": "তিনি বা চাৰিজন পাইকৰ দল: এজনে ৰাজ্যৰ সেৱা কৰে, বাকীসকলে তেওঁৰ মাটি চোৱে"
+  }
+ },
+ "khel": {
+  "type": "term",
+  "name": {
+   "en": "Khel",
+   "as": "খেল"
+  },
+  "meaning": {
+   "en": "A larger group of paiks under an officer, organised by work or service",
+   "as": "বিষয়াৰ অধীনত পাইকৰ ডাঙৰ দল, কাম বা সেৱা অনুসৰি গঠিত"
+  }
+ },
+ "mughal": {
+  "type": "people",
+  "name": {
+   "en": "Mughals",
+   "as": "মোগল"
+  },
+  "meaning": {
+   "en": "The empire ruling north India from Delhi and Agra; fought the Ahoms from 1615 to 1682",
+   "as": "দিল্লী-আগ্ৰাৰ পৰা উত্তৰ ভাৰত শাসন কৰা সাম্ৰাজ্য; ১৬১৫ৰ পৰা ১৬৮২ লৈকে আহোমৰ সৈতে যুঁজে"
+  }
+ },
+ "hajo": {
+  "type": "place",
+  "name": {
+   "en": "Hajo",
+   "as": "হাজো"
+  },
+  "meaning": {
+   "en": "Town on the north bank west of Guwahati; Mughal base in Kamrup in the 1600s",
+   "as": "গুৱাহাটীৰ পশ্চিমে উত্তৰ পাৰৰ নগৰ; ১৬০০ৰ দশকত কামৰূপত মোগলৰ ঘাঁটি"
+  },
+  "geo": [
+   26.25,
+   91.53
+  ]
+ },
+ "guwahati": {
+  "type": "place",
+  "name": {
+   "en": "Guwahati",
+   "as": "গুৱাহাটী"
+  },
+  "meaning": {
+   "en": "Chief town of Lower Assam on the Brahmaputra; fought over by the Ahoms and Mughals; seat of the Borphukan from 1667",
+   "as": "ব্ৰহ্মপুত্ৰৰ পাৰৰ নামনি অসমৰ মূল নগৰ; আহোম-মোগলৰ যুদ্ধৰ কেন্দ্ৰ; ১৬৬৭ৰ পৰা বৰফুকনৰ ঠাই"
+  },
+  "geo": [
+   26.18,
+   91.75
+  ]
+ },
+ "samdhara": {
+  "type": "place",
+  "name": {
+   "en": "Samdhara",
+   "as": "সমধাৰা"
+  },
+  "meaning": {
+   "en": "Ahom fort on the north bank near the mouth of the Bharali, where Abu Bakr's fleet was destroyed in 1616",
+   "as": "ভৰলীৰ মুখৰ ওচৰৰ উত্তৰ পাৰৰ আহোম গড়; ১৬১৬ চনত ইয়াতে আবু বকৰৰ নৌবহৰ ধ্বংস হয়"
+  },
+  "geo": [
+   26.62,
+   92.88
+  ]
+ },
+ "asurar-ali": {
+  "type": "term",
+  "name": {
+   "en": "Treaty of Asurar Ali",
+   "as": "অসুৰৰ আলিৰ সন্ধি"
+  },
+  "meaning": {
+   "en": "1639 treaty between the Ahoms and Mughals: the Barnadi (north bank) and the Asurar Ali road (south bank) became the border",
+   "as": "১৬৩৯ চনৰ আহোম-মোগল সন্ধি: উত্তৰ পাৰত বৰনদী আৰু দক্ষিণ পাৰত অসুৰৰ আলি সীমা হয়"
+  }
+ },
+ "jaintia": {
+  "type": "people",
+  "name": {
+   "en": "Jaintias",
+   "as": "জয়ন্তীয়া"
+  },
+  "meaning": {
+   "en": "People of the Jaintia kingdom in the hills south of the Kacharis, capital Jaintiapur",
+   "as": "কছাৰীৰ দক্ষিণৰ পাহাৰৰ জয়ন্তীয়া ৰাজ্যৰ লোক; ৰাজধানী জয়ন্তীয়াপুৰ"
+  }
+ },
+ "mangaldoi": {
+  "type": "person",
+  "name": {
+   "en": "Mangaldoi",
+   "as": "মংগলদৈ"
+  },
+  "meaning": {
+   "en": "Koch princess married to Pratap Singha in 1608; the town of Mangaldai is said to be named after her",
+   "as": "১৬০৮ চনত প্ৰতাপ সিংহক বিয়া দিয়া কোচ কুমাৰী; মংগলদৈ নগৰ তেওঁৰ নামেৰে বুলি কোৱা হয়"
+  }
+ },
+ "balinarayan": {
+  "type": "person",
+  "name": {
+   "en": "Balinarayan",
+   "as": "বলিনাৰায়ণ"
+  },
+  "meaning": {
+   "en": "Koch prince who fled to Pratap Singha from the Mughals; made Raja of Darrang as Dharma Narayan; killed in 1637",
+   "as": "মোগলৰ পৰা পলাই প্ৰতাপ সিংহৰ ওচৰলৈ অহা কোচ কোঁৱৰ; ধৰ্মনাৰায়ণ নামেৰে দৰঙৰ ৰজা; ১৬৩৭ চনত নিহত"
+  }
+ },
+ "satrajit": {
+  "type": "person",
+  "name": {
+   "en": "Satrajit",
+   "as": "সত্ৰাজিৎ"
+  },
+  "meaning": {
+   "en": "Zamindar who served the Mughals as thanadar of Pandu and Guwahati and changed sides often; executed by them in 1637",
+   "as": "মোগলৰ পাণ্ডু আৰু গুৱাহাটীৰ থানাদাৰ জমিদাৰ; বাৰে বাৰে পক্ষ সলায়; ১৬৩৭ চনত মোগলে প্ৰাণদণ্ড দিয়ে"
+  }
+ },
+ "biswanath": {
+  "type": "place",
+  "name": {
+   "en": "Biswanath",
+   "as": "বিশ্বনাথ"
+  },
+  "meaning": {
+   "en": "Town on the north bank; Pratap Singha built a Siva temple here",
+   "as": "উত্তৰ পাৰৰ নগৰ; প্ৰতাপ সিংহই ইয়াত শিৱ মন্দিৰ সাজিছিল"
+  },
+  "geo": [
+   26.73,
+   93.15
+  ]
+ },
+ "dergaon": {
+  "type": "place",
+  "name": {
+   "en": "Dergaon",
+   "as": "দেৰগাঁও"
+  },
+  "meaning": {
+   "en": "Town in Golaghat; Pratap Singha built a Siva temple here",
+   "as": "গোলাঘাটৰ নগৰ; প্ৰতাপ সিংহই ইয়াত শিৱ মন্দিৰ সাজিছিল"
+  },
+  "geo": [
+   26.7,
+   93.97
+  ]
+ },
+ "kajali": {
+  "type": "place",
+  "name": {
+   "en": "Kajali",
+   "as": "কাজলী"
+  },
+  "meaning": {
+   "en": "Fort at the mouth of the Kolong, opposite Guwahati's eastern approaches; early seat of the Borphukan",
+   "as": "কলঙৰ মুখৰ গড়; বৰফুকনৰ আৰম্ভণিৰ কেন্দ্ৰ"
+  },
+  "geo": [
+   26.24,
+   92.05
+  ]
+ },
+ "suramphaa": {
+  "type": "person",
+  "name": {
+   "en": "Suramphaa",
+   "as": "চুৰম্ফা"
+  },
+  "meaning": {
+   "en": "Bhaga Roja, eldest son of Pratap Singha; king 1641–1644, deposed",
+   "as": "ভগা ৰজা, প্ৰতাপ সিংহৰ জ্যেষ্ঠ পুত্ৰ; ১৬৪১–১৬৪৪ লৈকে ৰজা, পদচ্যুত"
+  }
+ },
+ "bhaga-roja": {
+  "type": "term",
+  "name": {
+   "en": "Bhaga Roja",
+   "as": "ভগা ৰজা"
+  },
+  "meaning": {
+   "en": "'The deposed king': Suramphaa, removed from the throne by the nobles in 1644",
+   "as": "'ভগা ৰজা': ১৬৪৪ চনত বিষয়াসকলে সিংহাসনচ্যুত কৰা চুৰম্ফা"
+  }
+ },
+ "noriya-roja": {
+  "type": "term",
+  "name": {
+   "en": "Noriya Roja",
+   "as": "নৰীয়া ৰজা"
+  },
+  "meaning": {
+   "en": "'The sick king': Sutingphaa, who was often ill and had a bent spine",
+   "as": "'নৰীয়া ৰজা': প্ৰায়ে অসুস্থ আৰু কুঁজা মেৰুদণ্ডৰ চুটিংফা"
+  }
+ },
+ "sutingphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sutingphaa",
+   "as": "চুটিংফা"
+  },
+  "meaning": {
+   "en": "Noriya Roja, son of Pratap Singha; king 1644–1648; deposed and poisoned",
+   "as": "নৰীয়া ৰজা, প্ৰতাপ সিংহৰ পুত্ৰ; ১৬৪৪–১৬৪৮ লৈকে ৰজা; সিংহাসনচ্যুত আৰু বিষপ্ৰয়োগত হত্যা"
+  }
+ },
+ "jayadhwaj-singha": {
+  "type": "person",
+  "name": {
+   "en": "Jayadhwaj Singha",
+   "as": "জয়ধ্বজ সিংহ"
+  },
+  "meaning": {
+   "en": "Sutamla, son of Sutingphaa; king 1648–1663; lost Garhgaon to Mir Jumla and signed the Treaty of Ghilajharighat",
+   "as": "চুতামলা, চুটিংফাৰ পুত্ৰ; ১৬৪৮–১৬৬৩ লৈকে ৰজা; মীৰজুমলাৰ হাতত গড়গাঁও হেৰুৱায় আৰু ঘিলাধাৰীঘাটৰ সন্ধি কৰে"
+  }
+ },
+ "dafla": {
+  "type": "people",
+  "name": {
+   "en": "Daflas (Nyishi)",
+   "as": "ডফলা (নিচি)"
+  },
+  "meaning": {
+   "en": "Hill people north of the Brahmaputra, in today's Arunachal Pradesh; now called the Nyishi",
+   "as": "ব্ৰহ্মপুত্ৰৰ উত্তৰৰ পাহাৰৰ লোক, আজিৰ অৰুণাচল প্ৰদেশত; এতিয়া নিচি বোলা হয়"
+  }
+ },
+ "dikrong": {
+  "type": "river",
+  "name": {
+   "en": "Dikrong",
+   "as": "ডিক্ৰং"
+  },
+  "meaning": {
+   "en": "North-bank river from the Dafla hills, flowing past today's Lakhimpur",
+   "as": "ডফলা পাহাৰৰ পৰা নামি অহা উত্তৰ পাৰৰ নদী, আজিৰ লখিমপুৰৰ কাষেৰে"
+  }
+ },
+ "mungdunsunkham": {
+  "type": "term",
+  "name": {
+   "en": "Mung-dun-sun-kham",
+   "as": "মুং-দুন-চুন-খাম"
+  },
+  "meaning": {
+   "en": "Ahom name for their country: 'the country full of golden gardens'",
+   "as": "আহোমসকলে নিজৰ দেশক দিয়া নাম: 'সোণৰ বাগিচাৰে ভৰা দেশ'"
+  }
+ },
+ "kamatapur": {
+  "type": "place",
+  "name": {
+   "en": "Kamatapur",
+   "as": "কামতাপুৰ"
+  },
+  "meaning": {
+   "en": "Capital of the Kamata kingdom, near today's Cooch Behar in West Bengal",
+   "as": "কামতা ৰাজ্যৰ ৰাজধানী, আজিৰ পশ্চিমবংগৰ কোচবিহাৰৰ ওচৰত"
+  },
+  "geo": [
+   26.16,
+   89.36
+  ]
+ },
+ "deodhai": {
+  "type": "term",
+  "name": {
+   "en": "Deodhai",
+   "as": "দেওধাই"
+  },
+  "meaning": {
+   "en": "One of the Ahom priestly clans; the Deodhais read omens and kept the old Tai rites",
+   "as": "আহোম পুৰোহিত খেলসমূহৰ এটা; দেওধাইসকলে লক্ষণ গণিছিল আৰু পুৰণি টাই ৰীতি ৰক্ষা কৰিছিল"
+  }
+ },
+ "bhagania-roja": {
+  "type": "term",
+  "name": {
+   "en": "Bhagania Roja",
+   "as": "ভগনীয়া ৰজা"
+  },
+  "meaning": {
+   "en": "'The fugitive king': Jayadhwaj Singha, who fled from Garhgaon to Namrup before Mir Jumla in 1662",
+   "as": "'পলাতক ৰজা': ১৬৬২ চনত মীৰজুমলাৰ আগত গড়গাঁৱৰ পৰা নামৰূপলৈ পলোৱা জয়ধ্বজ সিংহ"
+  }
+ },
+ "somdeo": {
+  "type": "term",
+  "name": {
+   "en": "Somdeo",
+   "as": "চোমদেও"
+  },
+  "meaning": {
+   "en": "The sacred image of the old Ahom royal god, kept by the Deodhais and placed on the throne at coronations",
+   "as": "দেওধাইসকলে ৰখা পুৰণি আহোম ৰাজকীয় দেৱতাৰ মূৰ্তি; অভিষেকত সিংহাসনত বহুওৱা হৈছিল"
+  }
+ },
+ "niranjan-deva": {
+  "type": "person",
+  "name": {
+   "en": "Niranjan Deva",
+   "as": "নিৰঞ্জন দেৱ"
+  },
+  "meaning": {
+   "en": "Vaishnava teacher (Niranjan Bapu), first Gosain of the Auniati Satra; Jayadhwaj Singha became his disciple",
+   "as": "বৈষ্ণৱ গুৰু (নিৰঞ্জন বাপু), আউনীআটী সত্ৰৰ প্ৰথম গোঁসাই; জয়ধ্বজ সিংহ তেওঁৰ শিষ্য হৈছিল"
+  }
+ },
+ "auniati": {
+  "type": "place",
+  "name": {
+   "en": "Auniati Satra",
+   "as": "আউনীআটী সত্ৰ"
+  },
+  "meaning": {
+   "en": "One of the great satras of Majuli, set up with the support of Jayadhwaj Singha",
+   "as": "মাজুলীৰ এখন প্ৰধান সত্ৰ; জয়ধ্বজ সিংহৰ পৃষ্ঠপোষকতাত স্থাপিত"
+  },
+  "geo": [
+   26.9402,
+   94.1238
+  ]
+ },
+ "aurangzeb": {
+  "type": "person",
+  "name": {
+   "en": "Aurangzeb",
+   "as": "ঔৰংজেব"
+  },
+  "meaning": {
+   "en": "Mughal emperor from 1658; sent Mir Jumla and later Ram Singh against the Ahoms",
+   "as": "১৬৫৮ৰ পৰা মোগল সম্ৰাট; আহোমৰ বিৰুদ্ধে মীৰজুমলা আৰু পিছত ৰামসিংহক পঠাইছিল"
+  }
+ },
+ "mir-jumla": {
+  "type": "person",
+  "name": {
+   "en": "Mir Jumla",
+   "as": "মীৰজুমলা"
+  },
+  "meaning": {
+   "en": "Aurangzeb's governor of Bengal; invaded in 1662, took Garhgaon, made the Treaty of Ghilajharighat and died on the way back in 1663",
+   "as": "ঔৰংজেবৰ বংগৰ শাসনকৰ্তা; ১৬৬২ চনত আক্ৰমণ কৰি গড়গাঁও লয়, ঘিলাধাৰীঘাটৰ সন্ধি কৰে আৰু ১৬৬৩ চনত উভতনি পথত মৃত্যু"
+  }
+ },
+ "ghilajharighat": {
+  "type": "term",
+  "name": {
+   "en": "Treaty of Ghilajharighat",
+   "as": "ঘিলাধাৰীঘাটৰ সন্ধি"
+  },
+  "meaning": {
+   "en": "Peace of January 1663 between Jayadhwaj Singha and Mir Jumla: a princess, gold, silver, elephants and land west of the Bharali and Kalang given to the Mughals",
+   "as": "১৬৬৩ চনৰ জানুৱাৰীত জয়ধ্বজ সিংহ আৰু মীৰজুমলাৰ সন্ধি: কুমাৰী, সোণ, ৰূপ, হাতী আৰু ভৰলী-কলঙৰ পশ্চিমৰ মাটি মোগলক দিয়া হয়"
+  },
+  "geo": [
+   27.27,
+   95.4
+  ]
+ },
+ "ramani-gabharu": {
+  "type": "person",
+  "name": {
+   "en": "Ramani Gabharu",
+   "as": "ৰমণী গাভৰু"
+  },
+  "meaning": {
+   "en": "Jayadhwaj Singha's young daughter, sent to the Mughal court under the 1663 treaty; later married Prince Azam",
+   "as": "জয়ধ্বজ সিংহৰ সৰু জীয়েক; ১৬৬৩ চনৰ সন্ধিমতে মোগল দৰবাৰলৈ পঠোৱা হয়; পিছত কোঁৱৰ আজমৰ সৈতে বিবাহ"
+  }
+ },
+ "pran-narayan": {
+  "type": "person",
+  "name": {
+   "en": "Pran Narayan",
+   "as": "প্ৰাণনাৰায়ণ"
+  },
+  "meaning": {
+   "en": "Koch king of Koch Bihar who rose against the Mughals in 1658",
+   "as": "১৬৫৮ চনত মোগলৰ বিৰুদ্ধে বিদ্ৰোহ কৰা কোচবিহাৰৰ কোচ ৰজা"
+  }
+ },
+ "jogighopa": {
+  "type": "place",
+  "name": {
+   "en": "Jogighopa",
+   "as": "যোগীঘোপা"
+  },
+  "meaning": {
+   "en": "Ahom fort at the mouth of the Manas, the first to fall to Mir Jumla in 1662",
+   "as": "মানাহৰ মুখৰ আহোম গড়; ১৬৬২ চনত মীৰজুমলাৰ হাতত প্ৰথমে পতন"
+  },
+  "geo": [
+   26.23,
+   90.57
+  ]
+ },
+ "sonkosh": {
+  "type": "river",
+  "name": {
+   "en": "Sankosh",
+   "as": "সোণকোষ"
+  },
+  "meaning": {
+   "en": "River on today's Assam–West Bengal border; the Ahoms drove the Koches across it in 1658",
+   "as": "আজিৰ অসম–পশ্চিমবংগ সীমাৰ নদী; ১৬৫৮ চনত আহোমে কোচক ইয়াৰ সিপাৰলৈ খেদিছিল"
+  }
+ },
+ "chakradhwaj-singha": {
+  "type": "person",
+  "name": {
+   "en": "Chakradhwaj Singha",
+   "as": "চক্ৰধ্বজ সিংহ"
+  },
+  "meaning": {
+   "en": "Supangmung, cousin of Jayadhwaj Singha; king 1663–1670; won back Guwahati with Lachit Borphukan",
+   "as": "চুপাংমুং, জয়ধ্বজ সিংহৰ সম্পৰ্কীয় ভাই; ১৬৬৩–১৬৭০ লৈকে ৰজা; লাচিত বৰফুকনৰ সৈতে গুৱাহাটী উদ্ধাৰ কৰে"
+  }
+ },
+ "lachit": {
+  "type": "person",
+  "name": {
+   "en": "Lachit Borphukan",
+   "as": "লাচিত বৰফুকন"
+  },
+  "meaning": {
+   "en": "Son of Momai Tamuli; Borphukan from 1667; won back Guwahati and beat the Mughals at Saraighat (1671); died 1672. Lachit Divas: 24 November",
+   "as": "মোমাই তামুলীৰ পুত্ৰ; ১৬৬৭ৰ পৰা বৰফুকন; গুৱাহাটী উদ্ধাৰ কৰে আৰু শৰাইঘাটত (১৬৭১) মোগলক হৰুৱায়; ১৬৭২ চনত মৃত্যু। লাচিত দিৱস: ২৪ নৱেম্বৰ"
+  }
+ },
+ "ram-singh": {
+  "type": "person",
+  "name": {
+   "en": "Ram Singh",
+   "as": "ৰামসিংহ"
+  },
+  "meaning": {
+   "en": "Raja of Amber, sent by Aurangzeb with a great army (1669–1671); defeated at Saraighat",
+   "as": "অম্বৰৰ ৰজা; ঔৰংজেবে বিশাল সৈন্যৰে পঠাইছিল (১৬৬৯–১৬৭১); শৰাইঘাটত পৰাস্ত"
+  }
+ },
+ "saraighat": {
+  "type": "place",
+  "name": {
+   "en": "Saraighat",
+   "as": "শৰাইঘাট"
+  },
+  "meaning": {
+   "en": "Narrowest stretch of the Brahmaputra, at Guwahati; site of the great naval battle of 1671",
+   "as": "গুৱাহাটীত ব্ৰহ্মপুত্ৰৰ আটাইতকৈ ঠেক অংশ; ১৬৭১ চনৰ মহা নৌযুদ্ধৰ ঠাই"
+  },
+  "geo": [
+   26.1758,
+   91.6722
+  ]
+ },
+ "alaboi": {
+  "type": "place",
+  "name": {
+   "en": "Alaboi",
+   "as": "আলাবৈ"
+  },
+  "meaning": {
+   "en": "Plain north of Guwahati where the Ahoms suffered a heavy defeat in August 1669",
+   "as": "গুৱাহাটীৰ উত্তৰৰ পথাৰ; ১৬৬৯ চনৰ আগষ্টত আহোমৰ গুৰুতৰ পৰাজয়"
+  },
+  "geo": [
+   26.3,
+   91.7
+  ]
+ },
+ "atan-burhagohain": {
+  "type": "person",
+  "name": {
+   "en": "Atan Burhagohain",
+   "as": "আতন বুঢ়াগোহাঁই"
+  },
+  "meaning": {
+   "en": "Burhagohain 1662–1679 under several kings; negotiated with Mir Jumla, fought at Saraighat, made and unmade kings; killed in 1679",
+   "as": "বহু ৰজাৰ দিনৰ বুঢ়াগোহাঁই (১৬৬২–১৬৭৯); মীৰজুমলাৰ সৈতে আলোচনা, শৰাইঘাটত যুঁজ, ৰজা পতা-আঁতৰোৱা; ১৬৭৯ চনত নিহত"
+  }
+ },
+ "udayaditya-singha": {
+  "type": "person",
+  "name": {
+   "en": "Udayaditya Singha",
+   "as": "উদয়াদিত্য সিংহ"
+  },
+  "meaning": {
+   "en": "Sunyatphaa, brother of Chakradhwaj; king 1670–1672; Saraighat was won in his reign; deposed and killed",
+   "as": "চুনয়াৎফা, চক্ৰধ্বজৰ ভাই; ১৬৭০–১৬৭২ লৈকে ৰজা; তেওঁৰ দিনত শৰাইঘাট জয়; সিংহাসনচ্যুত আৰু নিহত"
+  }
+ },
+ "ramdhwaj-singha": {
+  "type": "person",
+  "name": {
+   "en": "Ramdhwaj Singha",
+   "as": "ৰামধ্বজ সিংহ"
+  },
+  "meaning": {
+   "en": "Brother of Udayaditya, who seized the throne in a night coup; poisoned by Debera Borbarua",
+   "as": "উদয়াদিত্যৰ ভাই; নিশাৰ অভ্যুত্থানত সিংহাসন দখল; দেবেৰা বৰবৰুৱাৰ বিষপ্ৰয়োগত মৃত্যু"
+  }
+ },
+ "lachit-divas": {
+  "type": "term",
+  "name": {
+   "en": "Lachit Divas",
+   "as": "লাচিত দিৱস"
+  },
+  "meaning": {
+   "en": "24 November, Lachit Borphukan's birthday, observed in Assam",
+   "as": "২৪ নৱেম্বৰ, লাচিত বৰফুকনৰ জন্মদিন; অসমত পালন কৰা হয়"
+  }
+ },
+ "debera": {
+  "type": "person",
+  "name": {
+   "en": "Debera Borbarua",
+   "as": "দেবেৰা বৰবৰুৱা"
+  },
+  "meaning": {
+   "en": "Ringleader of the 1672 coup, made Borbarua; poisoned Ramdhwaj and killed Suhung; executed in 1675",
+   "as": "১৬৭২ৰ অভ্যুত্থানৰ মূল নায়ক, বৰবৰুৱা; ৰামধ্বজক বিষ খুৱায় আৰু চুহুঙক হত্যা কৰায়; ১৬৭৫ চনত প্ৰাণদণ্ড"
+  }
+ },
+ "suhung": {
+  "type": "person",
+  "name": {
+   "en": "Suhung",
+   "as": "চুহুং"
+  },
+  "meaning": {
+   "en": "Samaguria Roja, set up by Debera; killed after about 21 days",
+   "as": "সমগুৰীয়া ৰজা; দেবেৰাই পাতিছিল; প্ৰায় ২১ দিনৰ পিছত নিহত"
+  }
+ },
+ "gobar-roja": {
+  "type": "person",
+  "name": {
+   "en": "Gobar Roja",
+   "as": "গোবৰ ৰজা"
+  },
+  "meaning": {
+   "en": "Prince from Tungkhang set up by Debera in 1675; killed after about 24 days; father of Gadadhar Singha",
+   "as": "১৬৭৫ চনত দেবেৰাই পতা তুংখুঙৰ কোঁৱৰ; প্ৰায় ২৪ দিনৰ পিছত নিহত; গদাধৰ সিংহৰ পিতৃ"
+  }
+ },
+ "sujinphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sujinphaa",
+   "as": "চুজিনফা"
+  },
+  "meaning": {
+   "en": "Arjun Konwar, king 1675–1677, raised by Atan Burhagohain; blinded and killed when the Burhagohain turned on him",
+   "as": "অৰ্জুন কোঁৱৰ, ১৬৭৫–১৬৭৭ লৈকে ৰজা; আতন বুঢ়াগোহাঁইয়ে পাতিছিল; পিছত অন্ধ কৰি হত্যা"
+  }
+ },
+ "sudoiphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sudoiphaa",
+   "as": "চুদৈফা"
+  },
+  "meaning": {
+   "en": "Parvatia Roja, king 1677–1679, of the Parbatiya clan; killed by Laluk Sola Borphukan",
+   "as": "পৰ্বতীয়া ৰজা, ১৬৭৭–১৬৭৯ লৈকে ৰজা; লালুক চোলা বৰফুকনে হত্যা কৰে"
+  }
+ },
+ "sulikphaa": {
+  "type": "person",
+  "name": {
+   "en": "Sulikphaa",
+   "as": "চুলিকফা"
+  },
+  "meaning": {
+   "en": "Lora Roja, 'the boy king', 1679–1681; maimed royal princes; deposed and killed",
+   "as": "লৰা ৰজা, ১৬৭৯–১৬৮১; ৰাজকোঁৱৰসকলক অংগহানি কৰায়; সিংহাসনচ্যুত আৰু নিহত"
+  }
+ },
+ "laluk-sola": {
+  "type": "person",
+  "name": {
+   "en": "Laluk Sola Borphukan",
+   "as": "লালুক চোলা বৰফুকন"
+  },
+  "meaning": {
+   "en": "Lachit's brother and successor as Borphukan; gave Guwahati to the Mughals in 1679, made Sulikphaa king, wore royal robes; murdered in 1680",
+   "as": "লাচিতৰ ভাই আৰু উত্তৰাধিকাৰী বৰফুকন; ১৬৭৯ চনত গুৱাহাটী মোগলক দিয়ে, চুলিকফাক ৰজা পাতে, ৰাজবস্ত্ৰ পিন্ধে; ১৬৮০ চনত হত্যা"
+  }
+ },
+ "gadapani": {
+  "type": "person",
+  "name": {
+   "en": "Gadapani",
+   "as": "গদাপাণি"
+  },
+  "meaning": {
+   "en": "Son of Gobar Roja; hid among the Nagas and Garos while princes were maimed; became King Gadadhar Singha in 1681",
+   "as": "গোবৰ ৰজাৰ পুত্ৰ; ৰাজকোঁৱৰক অংগহানি কৰাৰ সময়ত নগা-গাৰোৰ মাজত লুকাই আছিল; ১৬৮১ চনত ৰজা গদাধৰ সিংহ"
+  }
+ },
+ "joymoti": {
+  "type": "person",
+  "name": {
+   "en": "Joymoti",
+   "as": "জয়মতী"
+  },
+  "meaning": {
+   "en": "Wife of Gadapani; tortured at Jerenga Pathar for refusing to reveal where he hid, and died (1680). Mother of Rudra Singha",
+   "as": "গদাপাণিৰ পত্নী; স্বামী ক'ত লুকাই আছে নকোৱাৰ বাবে জেৰেঙা পথাৰত নিৰ্যাতিত হৈ মৃত্যু (১৬৮০)। ৰুদ্ৰ সিংহৰ মাতৃ"
+  }
+ },
+ "jerenga": {
+  "type": "place",
+  "name": {
+   "en": "Jerenga Pathar",
+   "as": "জেৰেঙা পথাৰ"
+  },
+  "meaning": {
+   "en": "Field near Sivasagar where Joymoti was tortured in 1680",
+   "as": "শিৱসাগৰৰ ওচৰৰ পথাৰ, য'ত ১৬৮০ চনত জয়মতীক নিৰ্যাতন কৰা হৈছিল"
+  },
+  "geo": [
+   26.99,
+   94.66
+  ]
+ },
+ "tungkhungia": {
+  "type": "term",
+  "name": {
+   "en": "Tungkhungia",
+   "as": "তুংখুঙীয়া"
+  },
+  "meaning": {
+   "en": "The royal line of Gadadhar Singha, from Gobar Roja's home at Tungkhang; it ruled from 1681 to the end",
+   "as": "গদাধৰ সিংহৰ ৰাজবংশ, গোবৰ ৰজাৰ ঘৰ তুংখুঙৰ নামেৰে; ১৬৮১ৰ পৰা শেষলৈকে শাসন কৰে"
+  }
+ },
+ "gadadhar-singha": {
+  "type": "person",
+  "name": {
+   "en": "Gadadhar Singha",
+   "as": "গদাধৰ সিংহ"
+  },
+  "meaning": {
+   "en": "Gadapani, first Tungkhungia king (1681–1696); drove the Mughals from Guwahati for good in 1682",
+   "as": "গদাপাণি, প্ৰথম তুংখুঙীয়া ৰজা (১৬৮১–১৬৯৬); ১৬৮২ চনত গুৱাহাটীৰ পৰা মোগলক চিৰদিনৰ বাবে খেদে"
+  }
+ },
+ "itakhuli": {
+  "type": "term",
+  "name": {
+   "en": "Battle of Itakhuli",
+   "as": "ইটাখুলিৰ যুদ্ধ"
+  },
+  "meaning": {
+   "en": "1682: Gadadhar Singha's army drove the Mughals out of Guwahati for good; the last Ahom–Mughal war",
+   "as": "১৬৮২: গদাধৰ সিংহৰ সৈন্যই গুৱাহাটীৰ পৰা মোগলক চিৰদিনৰ বাবে খেদিলে; শেষ আহোম-মোগল যুদ্ধ"
+  },
+  "geo": [
+   26.185,
+   91.746
+  ]
+ },
+ "umananda": {
+  "type": "place",
+  "name": {
+   "en": "Umananda",
+   "as": "উমানন্দ"
+  },
+  "meaning": {
+   "en": "Siva temple on Peacock Island in the Brahmaputra at Guwahati, built under Gadadhar Singha",
+   "as": "গুৱাহাটীত ব্ৰহ্মপুত্ৰৰ ময়ূৰ দ্বীপৰ শিৱ মন্দিৰ; গদাধৰ সিংহৰ দিনত নিৰ্মিত"
+  },
+  "geo": [
+   26.195,
+   91.7447
+  ]
+ },
+ "rangpur": {
+  "type": "place",
+  "name": {
+   "en": "Rangpur",
+   "as": "ৰংপুৰ"
+  },
+  "meaning": {
+   "en": "Ahom capital founded by Rudra Singha near today's Sivasagar; brick city, Rang Ghar and Talatal Ghar",
+   "as": "ৰুদ্ৰ সিংহই আজিৰ শিৱসাগৰৰ ওচৰত পতা আহোম ৰাজধানী; ইটাৰ নগৰ, ৰংঘৰ আৰু তলাতল ঘৰ"
+  },
+  "geo": [
+   26.96,
+   94.62
+  ]
+ },
+ "rudra-singha": {
+  "type": "person",
+  "name": {
+   "en": "Rudra Singha",
+   "as": "ৰুদ্ৰ সিংহ"
+  },
+  "meaning": {
+   "en": "Sukhrungphaa, son of Gadadhar Singha and Joymoti; king 1696–1714; often called the greatest Ahom king",
+   "as": "চুখ্ৰুংফা, গদাধৰ সিংহ আৰু জয়মতীৰ পুত্ৰ; ১৬৯৬–১৭১৪ লৈকে ৰজা; বহুতে শ্ৰেষ্ঠ আহোম ৰজা বুলি কয়"
+  }
+ },
+ "joysagar": {
+  "type": "term",
+  "name": {
+   "en": "Joysagar",
+   "as": "জয়সাগৰ"
+  },
+  "meaning": {
+   "en": "Great tank dug by Rudra Singha in memory of his mother Joymoti",
+   "as": "মাতৃ জয়মতীৰ স্মৃতিত ৰুদ্ৰ সিংহই খন্দোৱা বিশাল পুখুৰী"
+  },
+  "geo": [
+   26.9706,
+   94.6869
+  ]
+ },
+ "ghanashyam": {
+  "type": "person",
+  "name": {
+   "en": "Ghanashyam",
+   "as": "ঘনশ্যাম"
+  },
+  "meaning": {
+   "en": "Builder from Koch Bihar who raised Rudra Singha's brick buildings; executed as a suspected spy",
+   "as": "ৰুদ্ৰ সিংহৰ ইটাৰ ঘৰ সজা কোচবিহাৰৰ শিল্পী; চোৰাংচোৱা সন্দেহত প্ৰাণদণ্ড"
+  }
+ },
+ "maibong": {
+  "type": "place",
+  "name": {
+   "en": "Maibong",
+   "as": "মাইবং"
+  },
+  "meaning": {
+   "en": "Kachari capital in the hills (today's Dima Hasao), taken by the Ahoms in 1706–07",
+   "as": "পাহাৰৰ কছাৰী ৰাজধানী (আজিৰ ডিমা হাছাও); ১৭০৬–০৭ চনত আহোমে দখল কৰে"
+  },
+  "geo": [
+   25.3,
+   93.17
+  ]
+ },
+ "jaintiapur": {
+  "type": "place",
+  "name": {
+   "en": "Jaintiapur",
+   "as": "জয়ন্তীয়াপুৰ"
+  },
+  "meaning": {
+   "en": "Capital of the Jaintia kingdom, in the plains north of the Surma; taken in 1708",
+   "as": "জয়ন্তীয়া ৰাজ্যৰ ৰাজধানী, সুৰমাৰ উত্তৰৰ ভৈয়ামত; ১৭০৮ চনত দখল"
+  },
+  "geo": [
+   25.13,
+   92.13
+  ]
+ },
+ "tamradhwaj": {
+  "type": "person",
+  "name": {
+   "en": "Tamradhwaj",
+   "as": "তাম্ৰধ্বজ"
+  },
+  "meaning": {
+   "en": "Kachari king who defied Rudra Singha, was seized by the Jaintia king, and finally submitted",
+   "as": "ৰুদ্ৰ সিংহক অমান্য কৰা কছাৰী ৰজা; জয়ন্তীয়া ৰজাৰ হাতত বন্দী হৈ শেষত বশ্যতা মানিলে"
+  }
+ },
+ "krishnaram": {
+  "type": "person",
+  "name": {
+   "en": "Krishnaram Bhattacharya",
+   "as": "কৃষ্ণৰাম ভট্টাচাৰ্য"
+  },
+  "meaning": {
+   "en": "Sakta priest from Bengal given charge of Kamakhya; the first Parbatiya Gosain; guru of Siva Singha",
+   "as": "বংগৰ শাক্ত পুৰোহিত; কামাখ্যাৰ দায়িত্ব পায়; প্ৰথম পৰ্বতীয়া গোঁসাই; শিৱ সিংহৰ গুৰু"
+  }
+ },
+ "kamakhya": {
+  "type": "place",
+  "name": {
+   "en": "Kamakhya",
+   "as": "কামাখ্যা"
+  },
+  "meaning": {
+   "en": "Goddess temple on Nilachal hill at Guwahati",
+   "as": "গুৱাহাটীৰ নীলাচল পাহাৰৰ দেৱী মন্দিৰ"
+  },
+  "geo": [
+   26.1664,
+   91.7055
+  ]
+ },
+ "siva-singha": {
+  "type": "person",
+  "name": {
+   "en": "Siva Singha",
+   "as": "শিৱ সিংহ"
+  },
+  "meaning": {
+   "en": "Sutanphaa, son of Rudra Singha; king 1714–1744; made his queens 'Bar Raja'",
+   "as": "চুতানফা, ৰুদ্ৰ সিংহৰ পুত্ৰ; ১৭১৪–১৭৪৪ লৈকে ৰজা; ৰাণীসকলক 'বৰ ৰজা' পাতিছিল"
+  }
+ },
+ "bar-raja": {
+  "type": "term",
+  "name": {
+   "en": "Bar Raja",
+   "as": "বৰ ৰজা"
+  },
+  "meaning": {
+   "en": "'Chief king': title Siva Singha gave his queens Phuleswari, Ambika and Sarbeswari, with the royal umbrella and coins in their names",
+   "as": "'বৰ ৰজা': শিৱ সিংহই ৰাণী ফুলেশ্বৰী, অম্বিকা আৰু সৰ্বেশ্বৰীক দিয়া উপাধি; ৰাজছত্ৰ আৰু নামত মুদ্ৰা"
+  }
+ },
+ "phuleswari": {
+  "type": "person",
+  "name": {
+   "en": "Phuleswari",
+   "as": "ফুলেশ্বৰী"
+  },
+  "meaning": {
+   "en": "Siva Singha's queen, the first Bar Raja (1722–1731); her insult to the Moamaria Gosain sowed the seed of the Moamaria rebellion",
+   "as": "শিৱ সিংহৰ ৰাণী, প্ৰথম বৰ ৰজা (১৭২২–১৭৩১); মোৱামৰীয়া গোঁসাইক কৰা অপমানে মোৱামৰীয়া বিদ্ৰোহৰ বীজ সিঁচিলে"
+  }
+ },
+ "ambika": {
+  "type": "person",
+  "name": {
+   "en": "Ambika",
+   "as": "অম্বিকা"
+  },
+  "meaning": {
+   "en": "Second Bar Raja (1731–1741), sister of Phuleswari; built the Sivasagar tank and the Siva Dol",
+   "as": "দ্বিতীয় বৰ ৰজা (১৭৩১–১৭৪১), ফুলেশ্বৰীৰ ভনী; শিৱসাগৰ পুখুৰী আৰু শিৱদ'ল নিৰ্মাণ কৰে"
+  }
+ },
+ "moamoria": {
+  "type": "people",
+  "name": {
+   "en": "Moamorias",
+   "as": "মোৱামৰীয়া"
+  },
+  "meaning": {
+   "en": "Followers of the Moamara Satra, many of them Morans; rose in great rebellions from 1769",
+   "as": "মোৱামৰা সত্ৰৰ অনুগামী, বহুতেই মৰাণ; ১৭৬৯ৰ পৰা ডাঙৰ বিদ্ৰোহ কৰিছিল"
+  }
+ },
+ "siva-dol": {
+  "type": "term",
+  "name": {
+   "en": "Siva Dol",
+   "as": "শিৱদ'ল"
+  },
+  "meaning": {
+   "en": "Siva temple on the bank of the Sivasagar tank, built 1734; among the tallest Hindu temples in India",
+   "as": "শিৱসাগৰ পুখুৰীৰ পাৰৰ শিৱ মন্দিৰ, ১৭৩৪ চনত নিৰ্মিত; ভাৰতৰ ওখ হিন্দু মন্দিৰবোৰৰ এটা"
+  },
+  "geo": [
+   26.9856,
+   94.635
+  ]
+ },
+ "rang-ghar": {
+  "type": "term",
+  "name": {
+   "en": "Rang Ghar",
+   "as": "ৰংঘৰ"
+  },
+  "meaning": {
+   "en": "Two-storey royal pavilion at Rangpur for watching games and buffalo fights at Bihu; built in brick under Pramatta Singha (1746)",
+   "as": "বিহুত খেল আৰু ম'হৰ যুঁজ চাবলৈ ৰংপুৰৰ দুমহলীয়া ৰাজকীয় মণ্ডপ; প্ৰমত্ত সিংহৰ দিনত (১৭৪৬) ইটাৰে নিৰ্মিত"
+  },
+  "geo": [
+   26.967,
+   94.619
+  ]
+ },
+ "talatal-ghar": {
+  "type": "term",
+  "name": {
+   "en": "Talatal Ghar",
+   "as": "তলাতল ঘৰ"
+  },
+  "meaning": {
+   "en": "Royal palace at Rangpur, begun by Rudra Singha and enlarged by Rajeswar Singha",
+   "as": "ৰংপুৰৰ ৰাজপ্ৰসাদ; ৰুদ্ৰ সিংহই আৰম্ভ কৰে, ৰাজেশ্বৰ সিংহই বঢ়ায়"
+  },
+  "geo": [
+   26.9663,
+   94.6247
+  ]
+ },
+ "kareng-ghar": {
+  "type": "term",
+  "name": {
+   "en": "Kareng Ghar",
+   "as": "কাৰেং ঘৰ"
+  },
+  "meaning": {
+   "en": "Royal palace at Garhgaon, rebuilt in brick by Rajeswar Singha (1752)",
+   "as": "গড়গাঁৱৰ ৰাজপ্ৰসাদ; ৰাজেশ্বৰ সিংহই ইটাৰে পুনৰ নিৰ্মাণ কৰে (১৭৫২)"
+  },
+  "geo": [
+   26.9355,
+   94.7443
+  ]
+ },
+ "pramatta-singha": {
+  "type": "person",
+  "name": {
+   "en": "Pramatta Singha",
+   "as": "প্ৰমত্ত সিংহ"
+  },
+  "meaning": {
+   "en": "Sunenphaa, son of Rudra Singha; king 1744–1751; the brick Rang Ghar was built in his reign",
+   "as": "চুনেনফা, ৰুদ্ৰ সিংহৰ পুত্ৰ; ১৭৪৪–১৭৫১ লৈকে ৰজা; তেওঁৰ দিনত ইটাৰ ৰংঘৰ নিৰ্মিত"
+  }
+ },
+ "rajeswar-singha": {
+  "type": "person",
+  "name": {
+   "en": "Rajeswar Singha",
+   "as": "ৰাজেশ্বৰ সিংহ"
+  },
+  "meaning": {
+   "en": "Suremphaa, son of Rudra Singha; king 1751–1769; rebuilt Kareng Ghar, helped Manipur against Burma",
+   "as": "চুৰেমফা, ৰুদ্ৰ সিংহৰ পুত্ৰ; ১৭৫১–১৭৬৯ লৈকে ৰজা; কাৰেং ঘৰ পুনৰ নিৰ্মাণ, বাৰ্মাৰ বিৰুদ্ধে মণিপুৰক সহায়"
+  }
+ },
+ "kirti-chandra": {
+  "type": "person",
+  "name": {
+   "en": "Kirti Chandra Borbarua",
+   "as": "কীৰ্তিচন্দ্ৰ বৰবৰুৱা"
+  },
+  "meaning": {
+   "en": "Powerful Borbarua of Rajeswar Singha; had Buranjis burnt; his arrogance helped start the Moamoria rebellion",
+   "as": "ৰাজেশ্বৰ সিংহৰ প্ৰভাৱশালী বৰবৰুৱা; বুৰঞ্জী জ্বলাইছিল; তেওঁৰ অহংকাৰে মোৱামৰীয়া বিদ্ৰোহৰ জুই জ্বলাইছিল"
+  }
+ },
+ "manipur": {
+  "type": "place",
+  "name": {
+   "en": "Manipur",
+   "as": "মণিপুৰ"
+  },
+  "meaning": {
+   "en": "Kingdom to the south-east; Rajeswar Singha helped its king Jai Singh against the Burmese (1768)",
+   "as": "দক্ষিণ-পূবৰ ৰাজ্য; ৰাজেশ্বৰ সিংহই বাৰ্মাৰ বিৰুদ্ধে ইয়াৰ ৰজা জয় সিংহক সহায় কৰিছিল (১৭৬৮)"
+  },
+  "geo": [
+   24.8,
+   93.94
+  ]
+ },
+ "kuranganayani": {
+  "type": "person",
+  "name": {
+   "en": "Kuranganayani",
+   "as": "কুৰংগনয়নী"
+  },
+  "meaning": {
+   "en": "Manipuri princess married to Rajeswar Singha; later helped overthrow the Moamoria leader Ragha (1770)",
+   "as": "ৰাজেশ্বৰ সিংহক বিয়া দিয়া মণিপুৰী কুমাৰী; পিছত মোৱামৰীয়া নেতা ৰাঘৱৰ পতনত সহায় কৰে (১৭৭০)"
+  }
+ },
+ "lakshmi-singha": {
+  "type": "person",
+  "name": {
+   "en": "Lakshmi Singha",
+   "as": "লক্ষ্মী সিংহ"
+  },
+  "meaning": {
+   "en": "Sunyeophaa, youngest son of Rudra Singha; king 1769–1780; captured in the first Moamoria rebellion",
+   "as": "চুন্যেওফা, ৰুদ্ৰ সিংহৰ সৰু পুত্ৰ; ১৭৬৯–১৭৮০ লৈকে ৰজা; প্ৰথম মোৱামৰীয়া বিদ্ৰোহত বন্দী"
+  }
+ },
+ "ragha-moran": {
+  "type": "person",
+  "name": {
+   "en": "Ragha Moran",
+   "as": "ৰাঘ মৰাণ"
+  },
+  "meaning": {
+   "en": "Moran leader of the Moamoria rebels; made himself Borbarua in 1769; killed on the eve of Bihu, 1770",
+   "as": "মোৱামৰীয়া বিদ্ৰোহীৰ মৰাণ নেতা; ১৭৬৯ চনত নিজকে বৰবৰুৱা পাতে; ১৭৭০ চনত বিহুৰ আগদিনা নিহত"
+  }
+ },
+ "ramakanta": {
+  "type": "person",
+  "name": {
+   "en": "Ramakanta",
+   "as": "ৰমাকান্ত"
+  },
+  "meaning": {
+   "en": "Son of the Moamara Gosain's family, set on the throne by the rebels in 1769",
+   "as": "মোৱামৰা গোঁসাইৰ পৰিয়ালৰ পুত্ৰ; ১৭৬৯ চনত বিদ্ৰোহীয়ে সিংহাসনত বহুৱায়"
+  }
+ },
+ "gaurinath-singha": {
+  "type": "person",
+  "name": {
+   "en": "Gaurinath Singha",
+   "as": "গৌৰীনাথ সিংহ"
+  },
+  "meaning": {
+   "en": "Suhitpangphaa, son of Lakshmi Singha; king 1780–1795; fled the Moamorias and called in the British",
+   "as": "চুহিতপাংফা, লক্ষ্মী সিংহৰ পুত্ৰ; ১৭৮০–১৭৯৫ লৈকে ৰজা; মোৱামৰীয়াৰ ভয়ত পলাই ব্ৰিটিছক মাতিলে"
+  }
+ },
+ "purnananda": {
+  "type": "person",
+  "name": {
+   "en": "Purnananda Burhagohain",
+   "as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই"
+  },
+  "meaning": {
+   "en": "Burhagohain who held back the Moamorias for years and ruled for Kamaleswar and Chandrakanta; died 1817",
+   "as": "বছৰ বছৰ ধৰি মোৱামৰীয়াক ৰখা বুঢ়াগোহাঁই; কমলেশ্বৰ আৰু চন্দ্ৰকান্তৰ হৈ শাসন কৰে; ১৮১৭ চনত মৃত্যু"
+  }
+ },
+ "welsh": {
+  "type": "person",
+  "name": {
+   "en": "Captain Welsh",
+   "as": "কেপ্তেইন ৱেল্‌চ"
+  },
+  "meaning": {
+   "en": "Thomas Welsh, East India Company officer who led sepoys to restore Gaurinath, 1792–94",
+   "as": "টমাছ ৱেল্‌চ, ১৭৯২–৯৪ চনত গৌৰীনাথক পুনৰ প্ৰতিষ্ঠা কৰিবলৈ চিপাহী লৈ অহা ইষ্ট ইণ্ডিয়া কোম্পানীৰ বিষয়া"
+  }
+ },
+ "jorhat": {
+  "type": "place",
+  "name": {
+   "en": "Jorhat",
+   "as": "যোৰহাট"
+  },
+  "meaning": {
+   "en": "Last capital of the Ahom kingdom, from 1794",
+   "as": "১৭৯৪ চনৰ পৰা আহোম ৰাজ্যৰ শেষ ৰাজধানী"
+  },
+  "geo": [
+   26.75,
+   94.22
+  ]
+ },
+ "bengmara": {
+  "type": "place",
+  "name": {
+   "en": "Bengmara",
+   "as": "বেংমৰা"
+  },
+  "meaning": {
+   "en": "Moamoria capital of Sarbananda Singha, today's Tinsukia",
+   "as": "চৰ্বানন্দ সিংহৰ মোৱামৰীয়া ৰাজধানী, আজিৰ তিনিচুকীয়া"
+  },
+  "geo": [
+   27.49,
+   95.36
+  ]
+ },
+ "matak": {
+  "type": "term",
+  "name": {
+   "en": "Matak rajya",
+   "as": "মটক ৰাজ্য"
+  },
+  "meaning": {
+   "en": "Autonomous Moamoria territory east of the Dibru, under a Barsenapati, from 1805",
+   "as": "১৮০৫ চনৰ পৰা ডিব্ৰুৰ পূবৰ স্বায়ত্তশাসিত মোৱামৰীয়া অঞ্চল, বৰসেনাপতিৰ অধীনত"
+  }
+ },
+ "kamaleswar-singha": {
+  "type": "person",
+  "name": {
+   "en": "Kamaleswar Singha",
+   "as": "কমলেশ্বৰ সিংহ"
+  },
+  "meaning": {
+   "en": "Suklingphaa, a descendant of Gadadhar Singha; king 1795–1811 as a boy, with Purnananda ruling",
+   "as": "চুক্লিংফা, গদাধৰ সিংহৰ বংশধৰ; ১৭৯৫–১৮১১ লৈকে কিশোৰ ৰজা, পূৰ্ণানন্দৰ শাসনত"
+  }
+ },
+ "chandrakanta-singha": {
+  "type": "person",
+  "name": {
+   "en": "Chandrakanta Singha",
+   "as": "চন্দ্ৰকান্ত সিংহ"
+  },
+  "meaning": {
+   "en": "Sudingphaa, brother of Kamaleswar; king 1811–18 and 1819–21; his ear was slit to bar him from the throne",
+   "as": "চুডিংফা, কমলেশ্বৰৰ ভাই; ১৮১১–১৮ আৰু ১৮১৯–২১ লৈকে ৰজা; সিংহাসনৰ অযোগ্য কৰিবলৈ কাণ কটা হৈছিল"
+  }
+ },
+ "badan-chandra": {
+  "type": "person",
+  "name": {
+   "en": "Badan Chandra Borphukan",
+   "as": "বদনচন্দ্ৰ বৰফুকন"
+  },
+  "meaning": {
+   "en": "Borphukan who fled to Burma and brought the Burmese army into Assam in 1817; killed the same year",
+   "as": "বৰফুকন; বাৰ্মালৈ গৈ ১৮১৭ চনত মানৰ সৈন্য অসমলৈ আনে; একে বছৰতে নিহত"
+  }
+ },
+ "manor-din": {
+  "type": "term",
+  "name": {
+   "en": "Manor Din",
+   "as": "মানৰ দিন"
+  },
+  "meaning": {
+   "en": "'The days of the Burmese', 1817–1826: invasions, massacres and flight",
+   "as": "'মানৰ দিন', ১৮১৭–১৮২৬: আক্ৰমণ, হত্যা আৰু পলায়ন"
+  }
+ },
+ "purandar-singha": {
+  "type": "person",
+  "name": {
+   "en": "Purandar Singha",
+   "as": "পুৰন্দৰ সিংহ"
+  },
+  "meaning": {
+   "en": "Great-great-grandson of Rajeswar Singha; king 1818–19 and, under the British, 1833–38; the last Ahom king",
+   "as": "ৰাজেশ্বৰ সিংহৰ বংশধৰ; ১৮১৮–১৯ আৰু ব্ৰিটিছৰ অধীনত ১৮৩৩–৩৮ লৈকে ৰজা; শেষ আহোম ৰজা"
+  }
+ },
+ "ruchinath": {
+  "type": "person",
+  "name": {
+   "en": "Ruchinath Burhagohain",
+   "as": "ৰুচিনাথ বুঢ়াগোহাঁই"
+  },
+  "meaning": {
+   "en": "Son of Purnananda; drove out Chandrakanta in 1818 and crowned Purandar Singha",
+   "as": "পূৰ্ণানন্দৰ পুত্ৰ; ১৮১৮ চনত চন্দ্ৰকান্তক খেদি পুৰন্দৰ সিংহক ৰজা পাতে"
+  }
+ },
+ "nazira": {
+  "type": "place",
+  "name": {
+   "en": "Nazira",
+   "as": "নাজিৰা"
+  },
+  "meaning": {
+   "en": "Town near Garhgaon; site of the 1819 defeat by the Burmese",
+   "as": "গড়গাঁৱৰ ওচৰৰ নগৰ; ১৮১৯ চনত মানৰ হাতত পৰাজয়ৰ ঠাই"
+  },
+  "geo": [
+   26.91,
+   94.73
+  ]
+ },
+ "jogeswar-singha": {
+  "type": "person",
+  "name": {
+   "en": "Jogeswar Singha",
+   "as": "যোগেশ্বৰ সিংহ"
+  },
+  "meaning": {
+   "en": "Puppet king set up by the Burmese in 1821; brother of Hemo Aideo, sent to the Burmese king's court",
+   "as": "১৮২১ চনত মানে পতা পুতলা ৰজা; মান ৰজাৰ ওচৰলৈ পঠোৱা হেমো আইদেউৰ ভাই"
+  }
+ },
+ "yandabo": {
+  "type": "term",
+  "name": {
+   "en": "Treaty of Yandabo",
+   "as": "ইয়াণ্ডাবু সন্ধি"
+  },
+  "meaning": {
+   "en": "24 February 1826: Burma gave up Assam to the East India Company, ending the First Anglo-Burmese War",
+   "as": "২৪ ফেব্ৰুৱাৰী ১৮২৬: বাৰ্মাই অসম ইষ্ট ইণ্ডিয়া কোম্পানীক এৰি দিলে; প্ৰথম ইংগ-বৰ্মী যুদ্ধৰ অন্ত"
+  }
+ },
+ "david-scott": {
+  "type": "person",
+  "name": {
+   "en": "David Scott",
+   "as": "ডেভিড স্কট"
+  },
+  "meaning": {
+   "en": "British Agent for the North-East Frontier who governed Assam after 1824",
+   "as": "১৮২৪ চনৰ পিছত অসম শাসন কৰা উত্তৰ-পূব সীমান্তৰ ব্ৰিটিছ এজেণ্ট"
+  }
+ },
+ "gomdhar-konwar": {
+  "type": "person",
+  "name": {
+   "en": "Gomdhar Konwar",
+   "as": "গোমধৰ কোঁৱৰ"
+  },
+  "meaning": {
+   "en": "Ahom prince crowned by nobles in 1828 in the first armed rising against British rule in Assam",
+   "as": "১৮২৮ চনত অসমত ব্ৰিটিছ শাসনৰ বিৰুদ্ধে প্ৰথম সশস্ত্ৰ বিদ্ৰোহত বিষয়াসকলে অভিষেক কৰা আহোম কোঁৱৰ"
+  }
+ },
+ "piyali-phukan": {
+  "type": "person",
+  "name": {
+   "en": "Piyali Phukan",
+   "as": "পিয়লি ফুকন"
+  },
+  "meaning": {
+   "en": "Son of Badan Chandra; hanged by the British in 1830 for a plot to restore Ahom rule",
+   "as": "বদনচন্দ্ৰৰ পুত্ৰ; আহোম শাসন ঘূৰাই আনাৰ ষড়যন্ত্ৰৰ বাবে ১৮৩০ চনত ব্ৰিটিছে ফাঁচী দিয়ে"
+  }
+ },
+ "dibrugarh": {
+  "type": "place",
+  "name": {
+   "en": "Dibrugarh",
+   "as": "ডিব্ৰুগড়"
+  },
+  "meaning": {
+   "en": "Town on the Brahmaputra in Upper Assam; the old Ahom heartland's river port",
+   "as": "ব্ৰহ্মপুত্ৰৰ পাৰৰ ঊজনি অসমৰ নগৰ; আহোম ৰাজ্যৰ কেন্দ্ৰস্থলৰ নদী-বন্দৰ"
+  },
+  "geo": [
+   27.4728,
+   94.912
+  ],
+  "lessons": []
+ },
+ "tinsukia": {
+  "type": "place",
+  "name": {
+   "en": "Tinsukia",
+   "as": "তিনিচুকীয়া"
+  },
+  "meaning": {
+   "en": "Far-eastern Assam town near the Patkai foothills, on the old routes to Sadiya and Burma",
+   "as": "পাটকাইৰ আগশাৰীৰ ওচৰৰ অসমৰ পূবৰ নগৰ; চদিয়া আৰু ব্ৰহ্মদেশলৈ যোৱা পুৰণি পথত"
+  },
+  "geo": [
+   27.4922,
+   95.3597
+  ],
+  "lessons": []
+ },
+ "ledo": {
+  "type": "place",
+  "name": {
+   "en": "Ledo",
+   "as": "লেডো"
+  },
+  "meaning": {
+   "en": "Eastern Assam town at the foot of the Pangsau Pass; start of the Stilwell (Ledo) Road",
+   "as": "পাংচাউ গিৰিপথৰ তলিৰ অসমৰ নগৰ; ষ্টিলৱেল (লেডো) পথৰ আৰম্ভণি"
+  },
+  "geo": [
+   27.2905,
+   95.744
+  ],
+  "lessons": []
+ },
+ "golaghat": {
+  "type": "place",
+  "name": {
+   "en": "Golaghat",
+   "as": "গোলাঘাট"
+  },
+  "meaning": {
+   "en": "Town on the Dhansiri; Ahom frontier toward the Naga hills and Kachari lands",
+   "as": "ধনশিৰীৰ পাৰৰ নগৰ; নগা পাহাৰ আৰু কছাৰী দেশৰ ফালে আহোমৰ সীমান্ত"
+  },
+  "geo": [
+   26.5167,
+   93.9667
+  ],
+  "lessons": []
+ },
+ "lakhimpur": {
+  "type": "place",
+  "name": {
+   "en": "North Lakhimpur",
+   "as": "উত্তৰ লক্ষীমপুৰ"
+  },
+  "meaning": {
+   "en": "North-bank town near the Subansiri; gateway to the hill tribes of Arunachal",
+   "as": "সোণশিৰি ওচৰৰ উত্তৰ পাৰৰ নগৰ; অৰুণাচলৰ পাহাৰীয়া জনজাতিৰ সোঁমুখ"
+  },
+  "geo": [
+   27.2357,
+   94.1019
+  ],
+  "lessons": []
+ },
+ "tezpur": {
+  "type": "place",
+  "name": {
+   "en": "Tezpur",
+   "as": "তেজপুৰ"
+  },
+  "meaning": {
+   "en": "Town on the north bank of the Brahmaputra; an old Sonitpur capital, border of the Ahom and Koch lands",
+   "as": "ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰৰ নগৰ; পুৰণি শোণিতপুৰৰ ৰাজধানী, আহোম আৰু কোচ ৰাজ্যৰ সীমা"
+  },
+  "geo": [
+   26.6528,
+   92.7926
+  ],
+  "lessons": []
+ },
+ "nagaon": {
+  "type": "place",
+  "name": {
+   "en": "Nagaon",
+   "as": "নগাঁও"
+  },
+  "meaning": {
+   "en": "Central Assam town on the Kolong; the middle-Brahmaputra country of the Koch, Kachari and Ahom frontier",
+   "as": "কলংৰ পাৰৰ মধ্য অসমৰ নগৰ; কোচ, কছাৰী আৰু আহোমৰ সীমান্ত ঠাই"
+  },
+  "geo": [
+   26.35,
+   92.6833
+  ],
+  "lessons": []
+ },
+ "barpeta": {
+  "type": "place",
+  "name": {
+   "en": "Barpeta",
+   "as": "বৰপেটা"
+  },
+  "meaning": {
+   "en": "Lower Assam town with the great Barpeta Satra, founded by Madhavdev's followers",
+   "as": "তলৰ অসমৰ নগৰ; মাধৱদেৱৰ শিষ্যই স্থাপন কৰা বৰপেটা সত্ৰৰ ঠাই"
+  },
+  "geo": [
+   26.3226,
+   91.0033
+  ],
+  "lessons": []
+ },
+ "goalpara": {
+  "type": "place",
+  "name": {
+   "en": "Goalpara",
+   "as": "গোৱালপাৰা"
+  },
+  "meaning": {
+   "en": "Western Assam river town; the Mughal side of the border after 1639",
+   "as": "পশ্চিম অসমৰ নদীপাৰৰ নগৰ; ১৬৩৯ৰ পিছত মোগলৰ ফালৰ সীমা"
+  },
+  "geo": [
+   26.1667,
+   90.6167
+  ],
+  "lessons": []
+ },
+ "dhubri": {
+  "type": "place",
+  "name": {
+   "en": "Dhubri",
+   "as": "ধুবুৰী"
+  },
+  "meaning": {
+   "en": "Far-western Assam town on the Brahmaputra, the Mughal frontier outpost toward Bengal",
+   "as": "ব্ৰহ্মপুত্ৰৰ পাৰৰ পশ্চিম অসমৰ নগৰ; বংগলৈ মোগলৰ সীমান্ত থানা"
+  },
+  "geo": [
+   26.0207,
+   89.9743
+  ],
+  "lessons": []
+ },
+ "sualkuchi": {
+  "type": "place",
+  "name": {
+   "en": "Sualkuchi",
+   "as": "সুৱালকুছি"
+  },
+  "meaning": {
+   "en": "Weaving town on the north bank near Guwahati; famed for Assam silk",
+   "as": "গুৱাহাটীৰ ওচৰৰ উত্তৰ পাৰৰ তাঁতশালৰ নগৰ; অসমীয়া পাটৰ বাবে বিখ্যাত"
+  },
+  "geo": [
+   26.17,
+   91.57
+  ],
+  "lessons": []
+ },
+ "mayong": {
+  "type": "place",
+  "name": {
+   "en": "Mayong",
+   "as": "মায়ং"
+  },
+  "meaning": {
+   "en": "Village near the Brahmaputra, known in folk memory for magic",
+   "as": "ব্ৰহ্মপুত্ৰৰ ওচৰৰ গাঁও; লোককথাত যাদুৰ বাবে প্ৰসিদ্ধ"
+  },
+  "geo": [
+   26.25,
+   92.0333
+  ],
+  "lessons": []
+ },
+ "kaziranga": {
+  "type": "place",
+  "name": {
+   "en": "Kaziranga",
+   "as": "কাজিৰঙা"
+  },
+  "meaning": {
+   "en": "Floodplain by the Brahmaputra in central Assam, home of the one-horned rhinoceros",
+   "as": "মধ্য অসমৰ ব্ৰহ্মপুত্ৰৰ বানপানী সমতল; এশিঙীয়া গঁড়ৰ আবাস"
+  },
+  "geo": [
+   26.5775,
+   93.1711
+  ],
+  "lessons": []
+ },
+ "kohima": {
+  "type": "place",
+  "name": {
+   "en": "Kohima",
+   "as": "কোহিমা"
+  },
+  "meaning": {
+   "en": "Naga hill town south of the Ahom plain; Ahom-Naga contacts ran along the Naga hills",
+   "as": "আহোম সমতলৰ দক্ষিণৰ নগা পাহাৰী নগৰ; আহোম-নগা সম্পৰ্ক নগা পাহাৰত চলিছিল"
+  },
+  "geo": [
+   25.6747,
+   94.1086
+  ],
+  "lessons": []
+ },
+ "imphal": {
+  "type": "place",
+  "name": {
+   "en": "Imphal",
+   "as": "ইম্ফল"
+  },
+  "meaning": {
+   "en": "Capital of Manipur, over the hills from Assam; Ahom–Manipur ties grew in the 1700s",
+   "as": "মণিপুৰৰ ৰাজধানী; অসমৰ পৰা পাহাৰৰ সিপাৰে; ১৭০০ চনত আহোম-মণিপুৰ সম্পৰ্ক গাঢ় হৈছিল"
+  },
+  "geo": [
+   24.817,
+   93.9368
+  ],
+  "lessons": []
+ },
+ "silchar": {
+  "type": "place",
+  "name": {
+   "en": "Silchar",
+   "as": "শিলচৰ"
+  },
+  "meaning": {
+   "en": "Town in the Barak valley, once part of the Kachari kingdom",
+   "as": "বৰাক উপত্যকাৰ নগৰ; এসময়ত কছাৰী ৰাজ্যৰ অংশ"
+  },
+  "geo": [
+   24.8333,
+   92.7789
+  ],
+  "lessons": []
+ },
+ "cooch-behar": {
+  "type": "place",
+  "name": {
+   "en": "Cooch Behar",
+   "as": "কোচবিহাৰ"
+  },
+  "meaning": {
+   "en": "Capital of the Koch kingdom to the west, beyond Mughal Kamrup",
+   "as": "মোগল কামৰূপৰ সিপাৰে পশ্চিমৰ কোচ ৰাজ্যৰ ৰাজধানী"
+  },
+  "geo": [
+   26.3452,
+   89.4482
+  ],
+  "lessons": []
+ },
+ "bhamo": {
+  "type": "place",
+  "name": {
+   "en": "Bhamo",
+   "as": "ভামো"
+  },
+  "meaning": {
+   "en": "Irrawaddy river town in Upper Burma; the old Shan trade and migration route toward Assam",
+   "as": "ঊজনি ব্ৰহ্মদেশৰ ইৰাৱতী নদীৰ নগৰ; অসমলৈ শান বাণিজ্য আৰু প্ৰব্ৰজনৰ পথ"
+  },
+  "geo": [
+   24.2667,
+   97.2333
+  ],
+  "lessons": []
+ },
+ "tawang": {
+  "type": "place",
+  "name": {
+   "en": "Tawang",
+   "as": "তাৱাং"
+  },
+  "meaning": {
+   "en": "Monastery town in the high Himalaya; an old hill and trade link of the Assam duars",
+   "as": "উচ্চ হিমালয়ৰ মঠ-নগৰ; অসমৰ দুৱাৰৰ পুৰণি পাহাৰীয়া বাণিজ্য পথ"
+  },
+  "geo": [
+   27.5861,
+   91.8594
+  ],
+  "lessons": []
+ },
+ "hukawng": {
+  "type": "place",
+  "name": {
+   "en": "Hukawng Valley",
+   "as": "হুকাং উপত্যকা"
+  },
+  "meaning": {
+   "en": "Forested valley in northern Burma on the Tai route over the Patkai toward Assam",
+   "as": "উত্তৰ ব্ৰহ্মদেশৰ অৰণ্যময় উপত্যকা; পাটকাই পাৰ হৈ অসমলৈ যোৱা টাই পথত"
+  },
+  "geo": [
+   26.4383,
+   96.5589
+  ],
+  "lessons": []
+ },
+ "namdang": {
+  "type": "place",
+  "name": {
+   "en": "Namdang Stone Bridge",
+   "as": "নামদাং শিলৰ দলং"
+  },
+  "meaning": {
+   "en": "Stone bridge near Sivasagar built under Rajeswar Singha; still stands",
+   "as": "ৰাজেশ্বৰ সিংহৰ দিনত সৰ্বসাগৰৰ ওচৰত নিৰ্মিত শিলৰ দলং; আজিও আছে"
+  },
+  "geo": [
+   26.9504,
+   94.5452
+  ],
+  "lessons": []
+ },
+ "hayagriva-madhava": {
+  "type": "place",
+  "name": {
+   "en": "Hayagriva Madhava Temple",
+   "as": "হয়গ্ৰীৱ মাধৱ মন্দিৰ"
+  },
+  "meaning": {
+   "en": "Temple on a hill at Hajo, visited by Hindus and Buddhists alike; rebuilt by Raghudev Narayan in 1583",
+   "as": "হাজোৰ পাহাৰৰ মন্দিৰ; হিন্দু আৰু বৌদ্ধ দুয়োৱে যায়"
+  },
+  "geo": [
+   26.2427,
+   91.5265
+  ],
+  "lessons": []
+ },
+ "dakhinpat": {
+  "type": "place",
+  "name": {
+   "en": "Dakhinpat Satra",
+   "as": "দক্ষিণপাট সত্ৰ"
+  },
+  "meaning": {
+   "en": "Royal satra on Majuli, recognised by Rudra Singha as one of four royal satras",
+   "as": "মাজুলীৰ ৰাজ সত্ৰ; ৰুদ্ৰ সিংহই স্বীকৃতি দিয়া চাৰিটা ৰাজ সত্ৰৰ এটা"
+  },
+  "geo": [
+   26.9181,
+   94.2664
+  ],
+  "lessons": []
+ },
+ "kamalabari": {
+  "type": "place",
+  "name": {
+   "en": "Kamalabari Satra",
+   "as": "কমলাবাৰী সত্ৰ"
+  },
+  "meaning": {
+   "en": "Satra on Majuli famed for Sattriya culture and its boat-building",
+   "as": "মাজুলীৰ সত্ৰ; সত্ৰীয়া সংস্কৃতি আৰু নাও সজাৰ বাবে বিখ্যাত"
+  },
+  "geo": [
+   26.9562,
+   94.1728
+  ],
+  "lessons": []
+ },
+ "garamur": {
+  "type": "place",
+  "name": {
+   "en": "Garamur Satra",
+   "as": "গড়মূৰ সত্ৰ"
+  },
+  "meaning": {
+   "en": "Royal satra on Majuli, one of the four recognised by Rudra Singha",
+   "as": "মাজুলীৰ ৰাজ সত্ৰ; ৰুদ্ৰ সিংহই স্বীকৃতি দিয়া চাৰিটাৰ এটা"
+  },
+  "geo": [
+   26.9832,
+   94.1564
+  ],
+  "lessons": []
+ },
+ "barpeta-satra": {
+  "type": "place",
+  "name": {
+   "en": "Barpeta Satra",
+   "as": "বৰপেটা সত্ৰ"
+  },
+  "meaning": {
+   "en": "Great Vaishnava satra at Barpeta, founded by Madhavdev's disciples; famed for Bhaona and the Doul festival",
+   "as": "বৰপেটাৰ প্ৰধান বৈষ্ণৱ সত্ৰ; মাধৱদেৱৰ শিষ্যই স্থাপন কৰা"
+  },
+  "geo": [
+   26.3226,
+   91.0033
+  ],
+  "lessons": []
+ },
+ "pandu": {
+  "type": "place",
+  "name": {
+   "en": "Pandu",
+   "as": "পাণ্ডু"
+  },
+  "meaning": {
+   "en": "Port on the Brahmaputra at Guwahati, a Mughal river base during the Saraighat years",
+   "as": "গুৱাহাটীৰ ব্ৰহ্মপুত্ৰৰ বন্দৰ; সৰাইঘাটৰ সময়ত মোগলৰ নদী-ঘাঁটি"
+  },
+  "geo": [
+   26.1636,
+   91.6806
+  ],
+  "lessons": []
+ },
+ "bordowa": {
+  "type": "place",
+  "name": {
+   "en": "Bordowa Than (Batadrava)",
+   "as": "বৰদোৱা থান (বটদ্ৰবা)"
+  },
+  "meaning": {
+   "en": "Village in Nagaon district where Sankardev was born in 1449; about 16 km from Nagaon town",
+   "as": "নগাঁও জিলাৰ গাঁও য'ত ১৪৪৯ চনত শংকৰদেৱৰ জন্ম হৈছিল; নগাঁও নগৰৰ পৰা প্ৰায় ১৬ কিমি"
+  },
+  "geo": [
+   26.3504,
+   92.6796
+  ],
+  "lessons": []
+ },
+ "mong-yang": {
+  "type": "place",
+  "name": {
+   "en": "Mong Yang (Mohnyin)",
+   "as": "মং য়াং (মোহনিয়িন)"
+  },
+  "meaning": {
+   "en": "Old Tai state of Mong Yang, now Mohnyin town in Kachin State, Myanmar; one of the Tai states of the Hukawng-Mogaung country",
+   "as": "পুৰণি টাই ৰাজ্য মং য়াং, এতিয়া মিয়ানমাৰৰ কাচিন ৰাজ্যৰ মোহনিয়িন নগৰ"
+  },
+  "geo": [
+   24.779,
+   96.373
+  ],
+  "lessons": []
+ }
+}
