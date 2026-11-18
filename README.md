@@ -1,8 +1,29 @@
-# Ahom
+# Ahom Kingdom History (1228–1838): saga, timeline, people, scenes and story map
+
+> The Ahom kingdom of Assam (1228–1838) as an illustrated website: saga chapters, all 41 reigns on one timeline, people, painted scenes, short films and a story map.
+
+**[Live site](https://axomrank.github.io/ahom-kingdom-history/)** · [Part of AxomRank](https://github.com/axomrank)
+
+## At a glance
+
+- **Eight saga chapters**, all **41 reigns** on one timeline, and a catalogue of people and painted scenes
+- **49 short films** with English and Assamese context subtitles
+- **MAP tab:** a story-driven historical atlas with river geography, event search and reading paths
+- **Crawlable reference pages** (`chapters/`, `people/`, `scenes/`, `films/`, `trails/`) with metadata and sources
+- **One master CSV** (`data/ahom.csv`) feeds everything. `tools/build.py` regenerates the site data
+- Paintings, portraits and films are **modern reconstructions**, not likenesses from the period
+
+## Quick start
+
+```bash
+python3 -m pip install -r requirements.txt
+python3 tools/build.py && python3 tools/verify_site.py
+python3 -m http.server 8765   # open http://localhost:8765
+```
+
+## Overview
 
 The Ahom kingdom of Assam, 1228–1838: a website that tells its story chapter by chapter, sets out all forty-one reigns on one time line, and collects the people and painted scenes of the chronicles.
-
-Live at https://axomrank.github.io/ahom-kingdom-history/
 
 ## What is where
 
@@ -84,3 +105,32 @@ python3 -m http.server 8765
 Pushing to `main` publishes the site through the GitHub Pages workflow in `.github/workflows/deploy.yml`.
 
 The paintings, portraits and films are modern reconstructions, not likenesses from the period.
+
+## Roadmap: future improvements
+
+- [ ] Verified speech captions for the films (the current subtitles describe scenes rather than transcribe speech)
+- [ ] Move large media to Cloudflare R2 or Git LFS, to keep clones small
+- [ ] Per-person and per-scene Open Graph images for social sharing
+- [ ] Link every person page to the matching Ahom Kings lesson and to the real exam questions about them
+- [ ] Assamese versions of the reference pages
+
+## For AI agents and contributors
+
+Read [AGENTS.md](AGENTS.md) for the image-creation and architecture rules. Never hand-edit generated files (`data/ahom.json`, `data/site.js`, and the reference page folders). Edit `data/ahom.csv` or `data/eras.json`, then rebuild.
+
+Commit as the `axomrank` account. Keep changes small and reviewable, and run the repository's checks before pushing.
+
+## Part of AxomRank
+
+[AxomRank](https://axomrank.pages.dev) offers free, bilingual preparation for Assam government exams. Related repositories:
+
+- **Learn:** [axomrank.github.io](https://github.com/axomrank/axomrank.github.io) (the AxomRank learning app), [ahom-kings-lessons](https://github.com/axomrank/ahom-kings-lessons) (41 bilingual Ahom reign lessons), [floor-test-simulator](https://github.com/axomrank/floor-test-simulator) (parliamentary majority simulator)
+- **Explore Assam history:** [assam-history-map](https://github.com/axomrank/assam-history-map) (year-by-year historical map), [assam-history-characters](https://github.com/axomrank/assam-history-characters) (character sheets for Assam's history), [assam-visual-archive](https://github.com/axomrank/assam-visual-archive) (gallery of Assam scenes and photographs), [assam-heritage-ai-art](https://github.com/axomrank/assam-heritage-ai-art) (AI art gallery of Assamese heritage)
+- **Open data:** [assam-exam-pyq](https://github.com/axomrank/assam-exam-pyq) (2,398 previous-year questions with answers), [assam-exam-syllabus](https://github.com/axomrank/assam-exam-syllabus) (syllabi for 12 recruitment boards), [assam-maps](https://github.com/axomrank/assam-maps) (map portal and GIS layers), [assam-history-sources](https://github.com/axomrank/assam-history-sources) (Kamarupa inscriptions and primary sources)
+- **Publishing and brand:** [axomrank-blog](https://github.com/axomrank/axomrank-blog) (exam guides built from real papers), [assam-history-books](https://github.com/axomrank/assam-history-books) (13-book history of Assam), [axomrank-brand-assets](https://github.com/axomrank/axomrank-brand-assets) (brand kit and social media library)
+
+## License and contact
+
+No license file yet, so all rights are reserved by default.
+
+Corrections and questions: open an issue in this repository. AxomRank is run by Angsuman Das (sole proprietor).
