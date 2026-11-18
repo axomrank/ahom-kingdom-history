@@ -3,7 +3,7 @@ import html
 import json
 from urllib.parse import quote
 
-BASE = 'https://axomrank.github.io/AHOM/'
+BASE = 'https://axomrank.github.io/ahom-kingdom-history/'
 
 
 def e(value):

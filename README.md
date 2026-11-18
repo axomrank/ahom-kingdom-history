@@ -2,7 +2,7 @@
 
 The Ahom kingdom of Assam, 1228–1838: a website that tells its story chapter by chapter, sets out all forty-one reigns on one time line, and collects the people and painted scenes of the chronicles.
 
-Live at https://axomrank.github.io/AHOM/
+Live at https://axomrank.github.io/ahom-kingdom-history/
 
 ## What is where
 
