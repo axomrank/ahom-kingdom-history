@@ -11,7 +11,7 @@
 - **Spaced review** at 1, 3, 7, 15 and 30 days, plus a mistakes list and test-outs
 - **English and Assamese** for every text. Each lesson lists its sources
 - **Offline PWA.** Optional Firebase sign-in syncs progress
-- Lives in the `lessons/` folder of [ahom-kingdom-history](https://github.com/axomrank/ahom-kingdom-history) (merged on 18 Nov 2026), and is linked from that site's menu, Kings page and king profiles. The same course is also in the main [AxomRank app](https://github.com/axomrank/axomrank.github.io) as the Ahom deep dive
+- Lives in the `lessons/` folder of [ahom-kingdom-history](https://github.com/axomrank/ahom-kingdom-history) (merged on 18 Nov 2026), and is linked from that site's menu, Kings page and king profiles. The same course is also in the main [AxomRank app](https://axomrank.pages.dev) as the Ahom deep dive
 
 ## Quick start
 
